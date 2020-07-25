@@ -225,7 +225,7 @@
                         </div>
                     </div>
 
-                    
+
 
 
                 </div>
@@ -301,7 +301,7 @@
                         </div>
                     </div>
 
-                    
+
 
 
                 </div>
@@ -345,47 +345,251 @@
 
                     <div class="col-1-of-4">
                         <figure class="dev__shape">
-                            <img src="img/mentors/mentor1.jpeg" alt="Abhinav Anand" class="dev__img">
-                            <figcaption class="dev__caption">Abhinav Anand</figcaption>
+                            <img src="img/mentors/mentor1.jpeg" alt="Prakanshul Saxena" class="dev__img">
+                            <figcaption class="dev__caption">Prakanshul Saxena</figcaption>
                         </figure>
-                        <div class="dev__name">Abhinav Anand</div>
-                        <a href="mailto:abhinava@iitbhilai.ac.in" class="dev__profile">
+                        <div class="dev__name">Prakanshul Saxena</div>
+                        <a href="mailto:prakanshuls@iitbhilai.ac.in" class="dev__profile">
                             <i class="far fa-envelope dev__profile--icon"></i>
                         </a>
-                        <a href="https://www.facebook.com/profile.php?id=100007771815739" class="dev__profile">
+                        <a href="https://www.facebook.com/prakanshul.saxena" class="dev__profile">
                             <i class="fab fa-facebook-f dev__profile--icon"></i>
                         </a>
                         <div class="dev__phone">
-                            <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 7786875370
+                            <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 8319446110
                         </div>
                     </div>
 
                     <div class="col-1-of-4">
                         <figure class="dev__shape">
-                            <img src="img/mentors/mentor1.jpeg" alt="Abhinav Anand" class="dev__img">
-                            <figcaption class="dev__caption">Abhinav Anand</figcaption>
+                            <img src="img/mentors/mentor1.jpeg" alt="Puja Bansal" class="dev__img">
+                            <figcaption class="dev__caption">Puja Bansal</figcaption>
                         </figure>
-                        <div class="dev__name">Abhinav Anand</div>
-                        <a href="mailto:abhinava@iitbhilai.ac.in" class="dev__profile">
+                        <div class="dev__name">Puja Bansal</div>
+                        <a href="mailto:pujab@iitbhilai.ac.in" class="dev__profile">
                             <i class="far fa-envelope dev__profile--icon"></i>
                         </a>
-                        <a href="https://www.facebook.com/profile.php?id=100007771815739" class="dev__profile">
+                        <a href="https://www.facebook.com/puja.bansal.7923" class="dev__profile">
                             <i class="fab fa-facebook-f dev__profile--icon"></i>
                         </a>
                         <div class="dev__phone">
-                            <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 7786875370
+                            <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 7062327494
+                        </div>
+                    </div>
+
+
+
+
+                </div>
+            </div>
+
+
+
+
+            <div class="row">
+                <div class="dev">
+                    <div class="col-1-of-4">
+                        <figure class="dev__shape">
+                            <img src="img/mentors/mentor1.jpeg" alt="Pulkit Khandelwal" class="dev__img">
+                            <figcaption class="dev__caption">Pulkit Khandelwal</figcaption>
+                        </figure>
+                        <div class="dev__name">Pulkit Khandelwal</div>
+                        <a href="mailto:pulkitk@iitbhilai.ac.in" class="dev__profile">
+                            <i class="far fa-envelope dev__profile--icon"></i>
+                        </a>
+                        <a href="https://www.facebook.com/pulkit.khandelwal.902" class="dev__profile">
+                            <i class="fab fa-facebook-f dev__profile--icon"></i>
+                        </a>
+                        <div class="dev__phone">
+                            <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 6397941528
+                        </div>
+                    </div>
+
+                    <div class="col-1-of-4">
+                        <figure class="dev__shape">
+                            <img src="img/mentors/mentor1.jpeg" alt="Rishabh Ranjan" class="dev__img">
+                            <figcaption class="dev__caption">Rishabh Ranjan</figcaption>
+                        </figure>
+                        <div class="dev__name">Rishabh Ranjan</div>
+                        <a href="mailto:rishabhr@iitbhilai.ac.in" class="dev__profile">
+                            <i class="far fa-envelope dev__profile--icon"></i>
+                        </a>
+                        <a href="https://www.facebook.com/rishabh.ranjan.921025" class="dev__profile">
+                            <i class="fab fa-facebook-f dev__profile--icon"></i>
+                        </a>
+                        <div class="dev__phone">
+                            <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 9648210743
+                        </div>
+                    </div>
+
+                    <div class="col-1-of-4">
+                        <figure class="dev__shape">
+                            <img src="img/mentors/mentor1.jpeg" alt="Rithvika Pervala" class="dev__img">
+                            <figcaption class="dev__caption">Rithvika Pervala</figcaption>
+                        </figure>
+                        <div class="dev__name">Rithvika Pervala</div>
+                        <a href="mailto:pervalar@iitbhilai.ac.in" class="dev__profile">
+                            <i class="far fa-envelope dev__profile--icon"></i>
+                        </a>
+                        <!-- <a href="https://www.facebook.com/prakanshul.saxena" class="dev__profile">
+                            <i class="fab fa-facebook-f dev__profile--icon"></i>
+                        </a> -->
+                        <div class="dev__phone">
+                            <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 9177779460
+                        </div>
+                    </div>
+
+                    <div class="col-1-of-4">
+                        <figure class="dev__shape">
+                            <img src="img/mentors/mentor1.jpeg" alt="Ritik Dhanore" class="dev__img">
+                            <figcaption class="dev__caption">Ritik Dhanore</figcaption>
+                        </figure>
+                        <div class="dev__name">Ritik Dhanore</div>
+                        <a href="mailto:dhanorer@iitbhilai.ac.in" class="dev__profile">
+                            <i class="far fa-envelope dev__profile--icon"></i>
+                        </a>
+                        <!-- <a href="https://www.facebook.com/puja.bansal.7923" class="dev__profile">
+                            <i class="fab fa-facebook-f dev__profile--icon"></i>
+                        </a> -->
+                        <div class="dev__phone">
+                            <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 9359348667
+                        </div>
+                    </div>
+
+
+
+
+                </div>
+            </div>
+
+
+
+
+            <div class="row">
+                <div class="dev">
+                    <div class="col-1-of-4">
+                        <figure class="dev__shape">
+                            <img src="img/mentors/mentor1.jpeg" alt="Sai Raveendra Kandregula" class="dev__img">
+                            <figcaption class="dev__caption">Sai Raveendra Kandregula</figcaption>
+                        </figure>
+                        <div class="dev__name">Sai Raveendra Kandregula</div>
+                        <!-- <a href="mailto:pulkitk@iitbhilai.ac.in" class="dev__profile">
+                            <i class="far fa-envelope dev__profile--icon"></i>
+                        </a> -->
+                        <a href="https://www.facebook.com/SaiRaveendraK" class="dev__profile">
+                            <i class="fab fa-facebook-f dev__profile--icon"></i>
+                        </a>
+                        <div class="dev__phone">
+                            <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 8919823114
+                        </div>
+                    </div>
+
+                    <div class="col-1-of-4">
+                        <figure class="dev__shape">
+                            <img src="img/mentors/mentor1.jpeg" alt="Saksham Mahajan" class="dev__img">
+                            <figcaption class="dev__caption">Saksham Mahajan</figcaption>
+                        </figure>
+                        <div class="dev__name">Saksham Mahajan</div>
+                        <!-- <a href="mailto:rishabhr@iitbhilai.ac.in" class="dev__profile">
+                            <i class="far fa-envelope dev__profile--icon"></i>
+                        </a> -->
+                        <a href="https://www.facebook.com/saksham.mahajan.378" class="dev__profile">
+                            <i class="fab fa-facebook-f dev__profile--icon"></i>
+                        </a>
+                        <div class="dev__phone">
+                            <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 9882730441
+                        </div>
+                    </div>
+
+                    <div class="col-1-of-4">
+                        <figure class="dev__shape">
+                            <img src="img/mentors/mentor1.jpeg" alt="Satwik Chowdary" class="dev__img">
+                            <figcaption class="dev__caption">Satwik Chowdary</figcaption>
+                        </figure>
+                        <div class="dev__name">Satwik Chowdary</div>
+                        <a href="mailto:paladugus@iitbhilai.ac.in" class="dev__profile">
+                            <i class="far fa-envelope dev__profile--icon"></i>
+                        </a>
+                        <a href="https://www.facebook.com/profile.php?id=100013829739008" class="dev__profile">
+                            <i class="fab fa-facebook-f dev__profile--icon"></i>
+                        </a>
+                        <div class="dev__phone">
+                            <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 7569325049
+                        </div>
+                    </div>
+
+                    <div class="col-1-of-4">
+                        <figure class="dev__shape">
+                            <img src="img/mentors/mentor1.jpeg" alt="Shreyash Hambarde" class="dev__img">
+                            <figcaption class="dev__caption">Shreyash Hambarde</figcaption>
+                        </figure>
+                        <div class="dev__name">Shreyash Hambarde</div>
+                        <a href="mailto:shreyashd@iitbhilai.ac.in" class="dev__profile">
+                            <i class="far fa-envelope dev__profile--icon"></i>
+                        </a>
+                        <a href="https://www.facebook.com/shreyash.hambarde.5" class="dev__profile">
+                            <i class="fab fa-facebook-f dev__profile--icon"></i>
+                        </a>
+                        <div class="dev__phone">
+                            <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 9691912621
+                        </div>
+                    </div>
+
+
+
+
+                </div>
+            </div>
+
+
+
+            <div class="row">
+                <div class="dev">
+                    <div class="col-1-of-4">
+                        <figure class="dev__shape">
+                            <img src="img/mentors/mentor1.jpeg" alt="Srilekha Kadambala" class="dev__img">
+                            <figcaption class="dev__caption">Srilekha Kadambala</figcaption>
+                        </figure>
+                        <div class="dev__name">Srilekha Kadambala</div>
+                        <a href="mailto:srilekhak@iitbhilai.ac.in" class="dev__profile">
+                            <i class="far fa-envelope dev__profile--icon"></i>
+                        </a>
+                        <a href="https://www.facebook.com/srilekha.kadambala" class="dev__profile">
+                            <i class="fab fa-facebook-f dev__profile--icon"></i>
+                        </a>
+                        <div class="dev__phone">
+                            <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 9390099543
+                        </div>
+                    </div>
+
+                    <div class="col-1-of-4">
+                        <figure class="dev__shape">
+                            <img src="img/mentors/mentor1.jpeg" alt="Utkarsh Alpuria" class="dev__img">
+                            <figcaption class="dev__caption">Utkarsh Alpuria</figcaption>
+                        </figure>
+                        <div class="dev__name">Utkarsh Alpuria</div>
+                        <a href="mailto:utkarshsa@iitbhilai.ac.in" class="dev__profile">
+                            <i class="far fa-envelope dev__profile--icon"></i>
+                        </a>
+                        <a href="https://www.facebook.com/profile.php?id=100008774653282" class="dev__profile">
+                            <i class="fab fa-facebook-f dev__profile--icon"></i>
+                        </a>
+                        <div class="dev__phone">
+                            <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 9359340476
                         </div>
                     </div>
 
                     
 
 
+
+
                 </div>
             </div>
 
-            
 
-           
+
+
             <div class="container">
                 <h2 class="heading-secondary">The Team - Post Graduate</h2>
             </div>
