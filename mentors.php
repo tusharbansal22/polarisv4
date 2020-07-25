@@ -579,7 +579,7 @@
                         </div>
                     </div>
 
-                    
+
 
 
 
@@ -597,68 +597,70 @@
                 <div class="dev">
                   <div class="col-1-of-4">
                       <figure class="dev__shape">
-                          <img src="img/mentors/mentor23.png" alt="Ashish Vishwakarma" class="dev__img">
-                          <figcaption class="dev__caption">Ashish Vishwakarma</figcaption>
+                          <img src="img/mentors/mentor23.png" alt="Baruri Sai Avinash" class="dev__img">
+                          <figcaption class="dev__caption">Baruri Sai Avinash</figcaption>
                       </figure>
-                      <div class="dev__name">Ashish Vishwakarma</div>
-                      <a href="mailto:ashishv@iitbhilai.ac.in" class="dev__profile">
+                      <div class="dev__name">Baruri Sai Avinash</div>
+                      <!-- <a href="mailto:ashishv@iitbhilai.ac.in" class="dev__profile">
                           <i class="far fa-envelope dev__profile--icon"></i>
-                      </a>
-                       <a href="https://www.facebook.com/ashish.vishwakarma.353250" class="dev__profile">
-                          <i class="fab fa-facebook-f dev__profile--icon"></i>
-                      </a>
-                      <div class="dev__phone">
-                          <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 8115584343
-                      </div>
-                  </div>
-
-                  <div class="col-1-of-4">
-                      <figure class="dev__shape">
-                          <img src="img/mentors/mentor24.jpg" alt="Debabrota Sadhukhan" class="dev__img">
-                          <figcaption class="dev__caption">Debabrota Sadhukhan</figcaption>
-                      </figure>
-                      <div class="dev__name">Debabrota Sadhukhan</div>
-                      <a href="mailto:debabrotas@iitbhilai.ac.in" class="dev__profile">
-                          <i class="far fa-envelope dev__profile--icon"></i>
-                      </a>
-                      <a href="https://www.facebook.com/debabrota.sadhukhan" class="dev__profile">
-                          <i class="fab fa-facebook-f dev__profile--icon"></i>
-                      </a>
-                      <div class="dev__phone">
-                          <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 7908100796
-                      </div>
-                  </div>
-                  <div class="col-1-of-4">
-                      <figure class="dev__shape">
-                          <img src="img/mentors/mentor15.jpg" alt="Shubham Giri" class="dev__img">
-                          <figcaption class="dev__caption">Shubham Giri</figcaption>
-                      </figure>
-                      <div class="dev__name">Shubham Giri</div>
-                      <a href="mailto:shubhamg@iitbhilai.ac.in" class="dev__profile">
-                          <i class="far fa-envelope dev__profile--icon"></i>
-                      </a>
-                      <a href="https://www.facebook.com/shubham.giri.3511" class="dev__profile">
-                          <i class="fab fa-facebook-f dev__profile--icon"></i>
-                      </a>
-                      <div class="dev__phone">
-                          <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 9733535102
-                      </div>
-                  </div>
-
-                  <div class="col-1-of-4">
-                      <figure class="dev__shape">
-                          <img src="img/mentors/mentor16.jpg" alt="Somesh Sharma" class="dev__img">
-                          <figcaption class="dev__caption">Somesh Sharma</figcaption>
-                      </figure>
-                      <div class="dev__name">Somesh Sharma</div>
-                      <a href="mailto:someshs@iitbhilai.ac.in" class="dev__profile">
-                          <i class="far fa-envelope dev__profile--icon"></i>
-                      </a>
-                      <!-- <a href="https://www.facebook.com/shivam5285" class="dev__profile">
+                      </a> -->
+                       <!-- <a href="https://www.facebook.com/ashish.vishwakarma.353250" class="dev__profile">
                           <i class="fab fa-facebook-f dev__profile--icon"></i>
                       </a> -->
                       <div class="dev__phone">
-                          <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 9575616271
+                          <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 8688918090
+                      </div>
+                  </div>
+
+                  <div class="col-1-of-4">
+                      <figure class="dev__shape">
+                          <img src="img/mentors/mentor24.jpg" alt="Bikash Saha" class="dev__img">
+                          <figcaption class="dev__caption">Bikash Saha</figcaption>
+                      </figure>
+                      <div class="dev__name">Bikash Saha</div>
+                      <!-- <a href="mailto:debabrotas@iitbhilai.ac.in" class="dev__profile">
+                          <i class="far fa-envelope dev__profile--icon"></i>
+                      </a> -->
+                      <a href="https://www.facebook.com/profile.php?id=100048880992279" class="dev__profile">
+                          <i class="fab fa-facebook-f dev__profile--icon"></i>
+                      </a>
+                      <div class="dev__phone">
+                          <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 9932414062
+                      </div>
+                  </div>
+
+
+                  <div class="col-1-of-4">
+                      <figure class="dev__shape">
+                          <img src="img/mentors/mentor16.jpg" alt="Siddhartha Chatterjee" class="dev__img">
+                          <figcaption class="dev__caption">Siddhartha Chatterjee</figcaption>
+                      </figure>
+                      <div class="dev__name">Siddhartha Chatterjee</div>
+                      <a href="mailto:siddharthac@iitbhilai.ac.in" class="dev__profile">
+                          <i class="far fa-envelope dev__profile--icon"></i>
+                      </a>
+                      <a href="https://www.facebook.com/SidGoluDeva/" class="dev__profile">
+                          <i class="fab fa-facebook-f dev__profile--icon"></i>
+                      </a>
+                      <div class="dev__phone">
+                          <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 9674515570
+                      </div>
+                  </div>
+
+                  <div class="col-1-of-4">
+                      <figure class="dev__shape">
+                          <img src="img/mentors/mentor15.jpg" alt="Vuppala Manish" class="dev__img">
+                          <figcaption class="dev__caption">Vuppala Manish</figcaption>
+                      </figure>
+                      <div class="dev__name">Vuppala Manish</div>
+                      <a href="mailto:vmanish@iitbhilai.ac.in" class="dev__profile">
+                          <i class="far fa-envelope dev__profile--icon"></i>
+                      </a>
+                      <a href="https://www.facebook.com/vuppala.manish" class="dev__profile">
+                          <i class="fab fa-facebook-f dev__profile--icon"></i>
+                      </a>
+                      <div class="dev__phone">
+                          <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 8985480995
                       </div>
                   </div>
 
