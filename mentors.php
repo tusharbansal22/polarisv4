@@ -91,7 +91,7 @@
 
                     <div class="col-1-of-3">
                         <figure class="dev__shape">
-                            <img src="img/mentors/coordinator1.JPG" alt="Shiva Kant Sonkar" class="dev__img">
+                            <img src="img/mentors/c1.JPG" alt="Shiva Kant Sonkar" class="dev__img">
                             <figcaption class="dev__caption">Shiva Kant Sonkar</figcaption>
                         </figure>
                         <div class="dev__name"><strong>Shiva Kant Sonkar</strong><br/>Mentor Coordinator</div>
@@ -108,7 +108,7 @@
 
                     <div class="col-1-of-3">
                         <figure class="dev__shape">
-                            <img src="img/mentors/coordinator2.jpg" alt="Tanish Gupta" class="dev__img">
+                            <img src="img/mentors/c2.jpg" alt="Tanish Gupta" class="dev__img">
                             <figcaption class="dev__caption">Tanish Gupta</figcaption>
                         </figure>
                         <div class="dev__name"><strong>Tanish Gupta</strong><br/>Mentor Coordinator</div>
@@ -125,7 +125,7 @@
 
                     <div class="col-1-of-3">
                         <figure class="dev__shape">
-                            <img src="img/mentors/coordinator2.jpg" alt="Sai Rishitha" class="dev__img">
+                            <img src="img/mentors/c3.jpg" alt="Sai Rishitha" class="dev__img">
                             <figcaption class="dev__caption">Sai Rishitha</figcaption>
                         </figure>
                         <div class="dev__name"><strong>Sai Rishitha</strong><br/>Mentor Coordinator</div>
@@ -159,7 +159,7 @@
                 <div class="dev">
                     <div class="col-1-of-4">
                         <figure class="dev__shape">
-                            <img src="img/mentors/mentor1.jpeg" alt="Abhinav Anand" class="dev__img">
+                            <img src="img/mentors/mentor1.jpg" alt="Abhinav Anand" class="dev__img">
                             <figcaption class="dev__caption">Abhinav Anand</figcaption>
                         </figure>
                         <div class="dev__name">Abhinav Anand</div>
@@ -176,7 +176,7 @@
 
                     <div class="col-1-of-4">
                         <figure class="dev__shape">
-                            <img src="img/mentors/mentor1.jpeg" alt="Aditya Keshari" class="dev__img">
+                            <img src="img/mentors/mentor2.jpg" alt="Aditya Keshari" class="dev__img">
                             <figcaption class="dev__caption">Aditya Keshari</figcaption>
                         </figure>
                         <div class="dev__name">Aditya Keshari</div>
@@ -193,7 +193,7 @@
 
                     <div class="col-1-of-4">
                         <figure class="dev__shape">
-                            <img src="img/mentors/mentor1.jpeg" alt="Anjana Kannan" class="dev__img">
+                            <img src="img/mentors/mentor3.jpg" alt="Anjana Kannan" class="dev__img">
                             <figcaption class="dev__caption">Anjana Kannan</figcaption>
                         </figure>
                         <div class="dev__name">Anjana Kannan</div>
@@ -210,7 +210,7 @@
 
                     <div class="col-1-of-4">
                         <figure class="dev__shape">
-                            <img src="img/mentors/mentor1.jpeg" alt="Harsh Vardhan" class="dev__img">
+                            <img src="img/mentors/mentor4.jpg" alt="Harsh Vardhan" class="dev__img">
                             <figcaption class="dev__caption">Harsh Vardhan</figcaption>
                         </figure>
                         <div class="dev__name">Harsh Vardhan</div>
@@ -235,7 +235,7 @@
                 <div class="dev">
                     <div class="col-1-of-4">
                         <figure class="dev__shape">
-                            <img src="img/mentors/mentor1.jpeg" alt="Harshil Singhal" class="dev__img">
+                            <img src="img/mentors/mentor5.jpg" alt="Harshil Singhal" class="dev__img">
                             <figcaption class="dev__caption">Harshil Singhal</figcaption>
                         </figure>
                         <div class="dev__name">Harshil Singhal</div>
@@ -252,7 +252,7 @@
 
                     <div class="col-1-of-4">
                         <figure class="dev__shape">
-                            <img src="img/mentors/mentor1.jpeg" alt="Harshit Jajodia" class="dev__img">
+                            <img src="img/mentors/mentor6.jpg" alt="Harshit Jajodia" class="dev__img">
                             <figcaption class="dev__caption">Harshit Jajodia</figcaption>
                         </figure>
                         <div class="dev__name">Harshit Jajodia</div>
@@ -269,7 +269,7 @@
 
                     <div class="col-1-of-4">
                         <figure class="dev__shape">
-                            <img src="img/mentors/mentor1.jpeg" alt="Jyotika Mahapatra" class="dev__img">
+                            <img src="img/mentors/mentor7.jpg" alt="Jyotika Mahapatra" class="dev__img">
                             <figcaption class="dev__caption">Jyotika Mahapatra</figcaption>
                         </figure>
                         <div class="dev__name">Jyotika Mahapatra</div>
@@ -286,7 +286,7 @@
 
                     <div class="col-1-of-4">
                         <figure class="dev__shape">
-                            <img src="img/mentors/mentor1.jpeg" alt="Madhur Bhattad" class="dev__img">
+                            <img src="img/mentors/mentor8.jpg" alt="Madhur Bhattad" class="dev__img">
                             <figcaption class="dev__caption">Madhur Bhattad</figcaption>
                         </figure>
                         <div class="dev__name">Madhur Bhattad</div>
@@ -311,7 +311,7 @@
                 <div class="dev">
                     <div class="col-1-of-4">
                         <figure class="dev__shape">
-                            <img src="img/mentors/mentor1.jpeg" alt="Manas Wadhwa" class="dev__img">
+                            <img src="img/mentors/mentor9.jpg" alt="Manas Wadhwa" class="dev__img">
                             <figcaption class="dev__caption">Manas Wadhwa</figcaption>
                         </figure>
                         <div class="dev__name">Manas Wadhwa</div>
@@ -328,7 +328,7 @@
 
                     <div class="col-1-of-4">
                         <figure class="dev__shape">
-                            <img src="img/mentors/mentor1.jpeg" alt="Prachir Agrawal" class="dev__img">
+                            <img src="img/mentors/mentor10.jpg" alt="Prachir Agrawal" class="dev__img">
                             <figcaption class="dev__caption">Prachir Agrawal</figcaption>
                         </figure>
                         <div class="dev__name">Prachir Agrawal</div>
@@ -345,7 +345,7 @@
 
                     <div class="col-1-of-4">
                         <figure class="dev__shape">
-                            <img src="img/mentors/mentor1.jpeg" alt="Prakanshul Saxena" class="dev__img">
+                            <img src="img/mentors/mentor11.jpg" alt="Prakanshul Saxena" class="dev__img">
                             <figcaption class="dev__caption">Prakanshul Saxena</figcaption>
                         </figure>
                         <div class="dev__name">Prakanshul Saxena</div>
@@ -362,7 +362,7 @@
 
                     <div class="col-1-of-4">
                         <figure class="dev__shape">
-                            <img src="img/mentors/mentor1.jpeg" alt="Puja Bansal" class="dev__img">
+                            <img src="img/mentors/mentor12.jpg" alt="Puja Bansal" class="dev__img">
                             <figcaption class="dev__caption">Puja Bansal</figcaption>
                         </figure>
                         <div class="dev__name">Puja Bansal</div>
@@ -390,7 +390,7 @@
                 <div class="dev">
                     <div class="col-1-of-4">
                         <figure class="dev__shape">
-                            <img src="img/mentors/mentor1.jpeg" alt="Pulkit Khandelwal" class="dev__img">
+                            <img src="img/mentors/mentor13.jpg" alt="Pulkit Khandelwal" class="dev__img">
                             <figcaption class="dev__caption">Pulkit Khandelwal</figcaption>
                         </figure>
                         <div class="dev__name">Pulkit Khandelwal</div>
@@ -407,7 +407,7 @@
 
                     <div class="col-1-of-4">
                         <figure class="dev__shape">
-                            <img src="img/mentors/mentor1.jpeg" alt="Rishabh Ranjan" class="dev__img">
+                            <img src="img/mentors/mentor14.jpg" alt="Rishabh Ranjan" class="dev__img">
                             <figcaption class="dev__caption">Rishabh Ranjan</figcaption>
                         </figure>
                         <div class="dev__name">Rishabh Ranjan</div>
@@ -424,7 +424,7 @@
 
                     <div class="col-1-of-4">
                         <figure class="dev__shape">
-                            <img src="img/mentors/mentor1.jpeg" alt="Rithvika Pervala" class="dev__img">
+                            <img src="img/mentors/mentor15.jpg" alt="Rithvika Pervala" class="dev__img">
                             <figcaption class="dev__caption">Rithvika Pervala</figcaption>
                         </figure>
                         <div class="dev__name">Rithvika Pervala</div>
@@ -441,7 +441,7 @@
 
                     <div class="col-1-of-4">
                         <figure class="dev__shape">
-                            <img src="img/mentors/mentor1.jpeg" alt="Ritik Dhanore" class="dev__img">
+                            <img src="img/mentors/mentor16.jpg" alt="Ritik Dhanore" class="dev__img">
                             <figcaption class="dev__caption">Ritik Dhanore</figcaption>
                         </figure>
                         <div class="dev__name">Ritik Dhanore</div>
@@ -469,7 +469,7 @@
                 <div class="dev">
                     <div class="col-1-of-4">
                         <figure class="dev__shape">
-                            <img src="img/mentors/mentor1.jpeg" alt="Sai Raveendra Kandregula" class="dev__img">
+                            <img src="img/mentors/mentor17.jpg" alt="Sai Raveendra Kandregula" class="dev__img">
                             <figcaption class="dev__caption">Sai Raveendra Kandregula</figcaption>
                         </figure>
                         <div class="dev__name">Sai Raveendra Kandregula</div>
@@ -486,7 +486,7 @@
 
                     <div class="col-1-of-4">
                         <figure class="dev__shape">
-                            <img src="img/mentors/mentor1.jpeg" alt="Saksham Mahajan" class="dev__img">
+                            <img src="img/mentors/mentor18.jpg" alt="Saksham Mahajan" class="dev__img">
                             <figcaption class="dev__caption">Saksham Mahajan</figcaption>
                         </figure>
                         <div class="dev__name">Saksham Mahajan</div>
@@ -503,7 +503,7 @@
 
                     <div class="col-1-of-4">
                         <figure class="dev__shape">
-                            <img src="img/mentors/mentor1.jpeg" alt="Satwik Chowdary" class="dev__img">
+                            <img src="img/mentors/mentor19.jpg" alt="Satwik Chowdary" class="dev__img">
                             <figcaption class="dev__caption">Satwik Chowdary</figcaption>
                         </figure>
                         <div class="dev__name">Satwik Chowdary</div>
@@ -520,7 +520,7 @@
 
                     <div class="col-1-of-4">
                         <figure class="dev__shape">
-                            <img src="img/mentors/mentor1.jpeg" alt="Shreyash Hambarde" class="dev__img">
+                            <img src="img/mentors/mentor20.jpg" alt="Shreyash Hambarde" class="dev__img">
                             <figcaption class="dev__caption">Shreyash Hambarde</figcaption>
                         </figure>
                         <div class="dev__name">Shreyash Hambarde</div>
@@ -547,7 +547,7 @@
                 <div class="dev">
                     <div class="col-1-of-4">
                         <figure class="dev__shape">
-                            <img src="img/mentors/mentor1.jpeg" alt="Srilekha Kadambala" class="dev__img">
+                            <img src="img/mentors/mentor21.jpg" alt="Srilekha Kadambala" class="dev__img">
                             <figcaption class="dev__caption">Srilekha Kadambala</figcaption>
                         </figure>
                         <div class="dev__name">Srilekha Kadambala</div>
@@ -564,7 +564,7 @@
 
                     <div class="col-1-of-4">
                         <figure class="dev__shape">
-                            <img src="img/mentors/mentor1.jpeg" alt="Utkarsh Alpuria" class="dev__img">
+                            <img src="img/mentors/mentor22.jpg" alt="Utkarsh Alpuria" class="dev__img">
                             <figcaption class="dev__caption">Utkarsh Alpuria</figcaption>
                         </figure>
                         <div class="dev__name">Utkarsh Alpuria</div>
@@ -597,7 +597,7 @@
                 <div class="dev">
                   <div class="col-1-of-4">
                       <figure class="dev__shape">
-                          <img src="img/mentors/mentor23.png" alt="Baruri Sai Avinash" class="dev__img">
+                          <img src="img/mentors/p1.jpg" alt="Baruri Sai Avinash" class="dev__img">
                           <figcaption class="dev__caption">Baruri Sai Avinash</figcaption>
                       </figure>
                       <div class="dev__name">Baruri Sai Avinash</div>
@@ -614,7 +614,7 @@
 
                   <div class="col-1-of-4">
                       <figure class="dev__shape">
-                          <img src="img/mentors/mentor24.jpg" alt="Bikash Saha" class="dev__img">
+                          <img src="img/mentors/p2.jpg" alt="Bikash Saha" class="dev__img">
                           <figcaption class="dev__caption">Bikash Saha</figcaption>
                       </figure>
                       <div class="dev__name">Bikash Saha</div>
@@ -632,7 +632,7 @@
 
                   <div class="col-1-of-4">
                       <figure class="dev__shape">
-                          <img src="img/mentors/mentor16.jpg" alt="Siddhartha Chatterjee" class="dev__img">
+                          <img src="img/mentors/p3.jpg" alt="Siddhartha Chatterjee" class="dev__img">
                           <figcaption class="dev__caption">Siddhartha Chatterjee</figcaption>
                       </figure>
                       <div class="dev__name">Siddhartha Chatterjee</div>
@@ -649,7 +649,7 @@
 
                   <div class="col-1-of-4">
                       <figure class="dev__shape">
-                          <img src="img/mentors/mentor15.jpg" alt="Vuppala Manish" class="dev__img">
+                          <img src="img/mentors/p4.jpg" alt="Vuppala Manish" class="dev__img">
                           <figcaption class="dev__caption">Vuppala Manish</figcaption>
                       </figure>
                       <div class="dev__name">Vuppala Manish</div>
