@@ -91,7 +91,7 @@
 
                     <div class="col-1-of-3">
                         <figure class="dev__shape">
-                            <img src="img/mentors/c1.JPG" alt="Shiva Kant Sonkar" class="dev__img">
+                            <img src="img/mentors/c1.jpg" alt="Shiva Kant Sonkar" class="dev__img">
                             <figcaption class="dev__caption">Shiva Kant Sonkar</figcaption>
                         </figure>
                         <div class="dev__name"><strong>Shiva Kant Sonkar</strong><br/>Mentor Coordinator</div>
