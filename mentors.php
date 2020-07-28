@@ -52,10 +52,10 @@
                 <div class="dev">
                     <div class="col-1-of-3">
                         <figure class="dev__shape">
-                            <img src="img/mentors/faculty1.jpg" alt=">Dr. Kuldeep Kataria" class="dev__img">
-                            <figcaption class="dev__caption">Dr. Kuldeep Kataria</figcaption>
+                            <img src="img/mentors/faculty1.jpg" alt=">Dr. Kuldeep Kumar Kataria" class="dev__img">
+                            <figcaption class="dev__caption">Dr. Kuldeep Kumar Kataria</figcaption>
                         </figure>
-                        <div class="dev__name"><strong>Dr. Kuldeep Kataria</strong><br/>Faculty In-Charge</div>
+                        <div class="dev__name"><strong>Dr. Kuldeep Kumar Kataria</strong><br/>Faculty In-Charge</div>
                         <a href="mailto:kuldeepk@iitbhilai.ac.in" class="dev__profile">
                             <i class="far fa-envelope dev__profile--icon"></i>
                         </a>
@@ -150,7 +150,7 @@
 
         <section class="section">
             <div class="container">
-                <h2 class="heading-secondary">The Team - BTech</h2>
+                <h2 class="heading-secondary">Mentors-UG</h2>
             </div>
 
             <!-- EDIT START HERE -->
@@ -591,7 +591,7 @@
 
 
             <div class="container">
-                <h2 class="heading-secondary">The Team - Post Graduate</h2>
+                <h2 class="heading-secondary">Mentors-PG</h2>
             </div>
             <div class="row">
                 <div class="dev">
