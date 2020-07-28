@@ -48,9 +48,9 @@
 
 <?php require_once('header.php'); ?>
 
-        <div id="myModal--1" class="modal">
+        <!-- <div id="myModal--1" class="modal">s
 
-             <!-- Modal content -->
+             Modal content
             <div class="modal-content">
                 <div class="modal-header">
                 <span class="close">&times;</span>
@@ -65,7 +65,7 @@
                         
                         <li>You can pay the first semester fee online. No cash payment option will be available at the institute on 23rd July. For more details, <a href="documents.php" class="notification">click here!</a><br><strong>The deadline for fee payment is 22nd July for students not availing education loan.</strong></li><br/>
 
-                        <!-- <li>Those students who wants to avail loan from PNB, <a href="documents.html" class="notification">click here!</a></li> -->
+                        <li>Those students who wants to avail loan from PNB, <a href="documents.html" class="notification">click here!</a></li>
                         <li>Students who wants to avail education loan from bank, Details of bank and respective forms are uploaded <a href="documents.php" class="notification">here!</a></li>
 
 
@@ -73,7 +73,7 @@
                 </div>
             </div>
 
-        </div>
+        </div> -->
 
         <div id="myModal--2" class="modal">
 
