@@ -564,7 +564,7 @@
 
                     <div class="col-1-of-4">
                         <figure class="dev__shape">
-                            <img src="img/mentors/mentor22.jpg" alt="Utkarsh Alpuria" class="dev__img">
+                            <img src="img/mentors/mentor22.jpeg" alt="Utkarsh Alpuria" class="dev__img">
                             <figcaption class="dev__caption">Utkarsh Alpuria</figcaption>
                         </figure>
                         <div class="dev__name">Utkarsh Alpuria</div>
