@@ -27,7 +27,7 @@
                 <li class="navigation__list-item"><a href="academics.php" class="navigation__link">Academics</a></li>
                 <li class="navigation__list-item"><a href="disciplines.php" class="navigation__link">Disciplines</a></li>
                 <li class="navigation__list-item"><a href="around.php" class="navigation__link">Around the Campus</a></li>
-                <li class="navigation__list-item"><a href="nssandnso.php" class="navigation__link">NSS and NSO</a></li>
+                
                 <li class="navigation__list-item"><a href="documents.php" class="navigation__link">Documents</a></li>
                 <li class="navigation__list-item"><a href="queries.php" class="navigation__link">Queries</a></li>
                 <li class="navigation__list-item dropdown">
@@ -37,6 +37,7 @@
                         <a href="cultural.php" class="dropdown-link">Cultural Council</a>
                         <a href="scitech.php" class="dropdown-link">Scitech Clubs</a>
                         <a href="outreach.php" class="dropdown-link">Outreach Clubs</a>
+                        <a href="nssandnso.php" class="dropdown-link">NSS and NSO</a>
                         <a href="sports.php" class="dropdown-link">Sports</a>
                         <a href="meraz.php" class="dropdown-link">Meraz</a>
                         <a href="motorsports.php" class="dropdown-link">Motorsports</a>
