@@ -37,7 +37,7 @@
         <header class="header header__cultural">
             <div class="container">
                 <div class="header__hero-box">
-                    <h1 class="heading-primary">Cultural Clubs</h1>
+                    <h1 class="heading-primary">Cultural Council</h1>
                     <p class="heading-subtitle">Find your true talent....</p>
                 </div>
             </div>
@@ -45,14 +45,21 @@
 
         <section class="section">
             <div class="container">
-                <h2 class="heading-secondary">Cultural Clubs</h2>
+                
                 <div class="clubs">
-                    <p class="outreach__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Follow us:</span> <a href="https://www.facebook.com/IITBhilai.Cult/" class="outreach__link">Facebook</a></p>
-                    <br>
+                    
                     <h3 class="heading-tertiary">General Secretary - Varanasi Meghana</h3>
+                    
                     <p class="clubs__text">We all, as a part of an elite league of institutes, aspire to work at the frontiers of human knowledge, innovate technology, initiate revolutions in science and propel national development to new heights. But often in such a competitive environment, work is stressed to the point of mania and this is when comes in the need of recreation. Rediscover your hobbies and explore new ones with Clubs at IIT Bhilai. Mind you there is absolutely no bound on anyone’s interest which also means that there is no bound on how many clubs you can be in – it is all up to you. Currently the following clubs are functional and conduct their respective activities at a regular basis:</p>
 
+                    <p class="outreach__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Follow us:</span> <a href="https://www.facebook.com/IITBhilai.Cult/" class="outreach__link">Facebook</a></p>
+                    <br>
+
                 </div>
+                
+                
+                <h2 class="heading-secondary">Cultural Clubs</h2>
+                
 
                 <div class="cultural">
                     <h3 class="heading-tertiary">Renaissance</h3>
@@ -106,11 +113,7 @@
 
                 <div class="line-break"></div>
 
-                <div class="cultural">
-                    <h3 class="heading-tertiary">G.O.A.L.S</h3>
-                    <p class="cultural__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Co-ordinators:</span>  Aryavrata Singh Baghel, Shiva Kant Sonkar</p><br>
-                    <p class="cultural__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Description:</span> GOALS, which stands for General Oratory And Literary Society is a society which sprung from the Orators club. Initially confined to the arena of public-speaking, it was decided that the club would expand its ventures and dabble in other literary fields too. The society is a vibrant one, with lots of regular and interesting activities, that both serve to be fun as well as beneficial. Every student taking part in these activities is encouraged to come out of his/her shell and start communicating effectively. The society also has its own newsletter, called the Couch Potato. The contents are typically informal and talk about the most interesting things happening in and around the campus. In all, it is a society that's definitely worth joining, if you want a major upgrade to your people skills!</p>
-                </div>
+                
 
                 <div class="line-break"></div>
 
@@ -128,7 +131,7 @@
                 <div class="line-break"></div>
 
                 <div class="cultural">
-                    <h3 class="heading-tertiary">Quizzing Club</h3>
+                    <h3 class="heading-tertiary">Quizzotica</h3>
                     <p class="cultural__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Co-ordinators:</span> Pothukuchi Siddhartha</p><br>
                     <p class="cultural__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Description:</span> Interested in Quizzes regarding politics, world, sports, bollywood, etc. this is the club for you. Quizzing Club organizes regular quiz competitions and workhops to keep you updated with the current affairs and also to motivate you regarding your awareness towards current affairs. The primary goal of this club is to participate and represent IIT Bhilai in Quizzing Competiton at InterIIT Cultural Meet 2019 </p><br>
                 </div>
@@ -171,7 +174,26 @@
                         </div>
                     </div>
 
+                    
+
             </div>
+
+            <div class="container">
+                <h2 class="heading-secondary">Cultural Societies</h2>
+
+                <div class="cultural">
+                    <h3 class="heading-tertiary">G.O.A.L.S</h3>
+                    <p class="cultural__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Co-ordinators:</span>  Aryavrata Singh Baghel, Shiva Kant Sonkar</p><br>
+                    <p class="cultural__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Description:</span> GOALS, which stands for General Oratory And Literary Society is a society which sprung from the Orators club. Initially confined to the arena of public-speaking, it was decided that the club would expand its ventures and dabble in other literary fields too. The society is a vibrant one, with lots of regular and interesting activities, that both serve to be fun as well as beneficial. Every student taking part in these activities is encouraged to come out of his/her shell and start communicating effectively. The society also has its own newsletter, called the Couch Potato. The contents are typically informal and talk about the most interesting things happening in and around the campus. In all, it is a society that's definitely worth joining, if you want a major upgrade to your people skills!</p>
+                </div>
+                
+
+                
+
+            </div>
+
+
+
         </section>
 
 

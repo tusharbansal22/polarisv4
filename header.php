@@ -34,7 +34,7 @@
                     <a class="dropdown-btn">Life &commat; IITBh &nbsp;<i class="fas fa-angle-down"></i></a>
                     <div class="dropdown-content">
                         <a href="life.php" class="dropdown-link">Hostel Life</a>
-                        <a href="cultural.php" class="dropdown-link">Cultural Clubs</a>
+                        <a href="cultural.php" class="dropdown-link">Cultural Council</a>
                         <a href="scitech.php" class="dropdown-link">Scitech Clubs</a>
                         <a href="outreach.php" class="dropdown-link">Outreach Clubs</a>
                         <a href="sports.php" class="dropdown-link">Sports</a>
