@@ -74,7 +74,7 @@
 
                     <div class="col-1-of-3">
                         <figure class="dev__shape">
-                            <img src="img/mentors/rajni_maam.jpeg" alt="Mrs. Rajni Moona" class="dev__img">
+                            <img src="img/mentors/r.jpeg" alt="Mrs. Rajni Moona" class="dev__img">
                             <figcaption class="dev__caption">Mrs. Rajni Moona</figcaption>
                         </figure>
                         <div class="dev__name"><strong>Mrs. Rajni Moona</strong><br/>Member</div>
