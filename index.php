@@ -151,29 +151,20 @@
             <div class="container">
                 <div class="message">
                     <h2 class="heading-secondary">Message from <br><span>Council of Student Affairs</span></h2>
-                    <p class="message__text"><span>Dear friends,</span> <br><br>Welcome to Indian Institute of Technology Bhilai, one of the most prestigious institute of our country. You have cleared one test of your life with bright colours of success but many of them are still to clear. On behalf of whole student community I wish you all the best for your future journey that starts here at IIT Bhilai.
-                    <br><br>
-                    Your journey till now must have been tough and the path is still full of obstacles but in the next
-                    few years you will make companions called friends to face those hurdles together. Some of
-                    them will be friends for life and with some you will share a relationship to cherish for the rest
-                    of your life. College life, life at IIT Bhilai, in our case, is an experience full of fun, regrets,
-                    mistakes, friendship, love, faith, betrayal and trust and many more. In a nutshell, your life here
-                    will prepare you for what comes next.<br>
-                    I extend a warm welcome to all the freshmen who are about to step into the college life and
-                    hope to make this journey in IIT Bhilai a cherishable memorabilia. </p><br>
-                    <p class="message__byline">With best wishes,<br>Shreyam Chandra</p>
+                    <p class="message__text"><span>Dear friends,</span> <br><br>It is my immense pleasure to welcome all the freshmen of this new session. This year has not been an unusual year for all of us as well as you all. But in spite of all these harsh conditions,you are not only safe but also make it to the prestigious IIT system. On the behalf of CoSA, I congratulate all of you for making it to IIT Bhilai. Being a young IIT, our student community is growing big and rich every year and hope you all will also contribute  in marching foward towards positive direction. These upcoming years will be the best years of your life and we will work all way possible to make it happen. In college life,you get to know different people, indulge with different cultures, make friends for life(irrespective of juniors or seniors) and many more. We assure you that you will have lot of activities this session in which you can explore yourself in different fields of life apart from academics such as sports, sci-tech activities, culturals etc. I am sure you will enjoy your stay in IIT Bhilai and make it an unforgettable part of your life. </p><br>
+                    <p class="message__byline">With best wishes,<br>Mohit Sharma</p>
                     <div class="row">
                         <div class="dev">
                              <div class="col-1-of-4">
                                 <figure class="dev__shape">
-                                    <img src="img/shreyam.JPG" alt="Shreyam Chandra" class="dev__img dev__img--president">
-                                    <figcaption class="dev__caption">Shreyam Chandra</figcaption>
+                                    <img src="img/mohit.jpg" alt="Mohit Sharma" class="dev__img dev__img--president">
+                                    <figcaption class="dev__caption">Mohit Sharma</figcaption>
                                 </figure>
                                 <div class="dev__name">President, CoSA</div>
                                 <a href="mailto:President_CoSA@iitbhilai.ac.in" class="dev__profile">
                                     <i class="far fa-envelope dev__profile--icon"></i>
                                 </a>
-                                <a href="https://www.facebook.com/shreyam.chandra.9" class="dev__profile">
+                                <a href="https://www.facebook.com/profile.php?id=100028449066252" class="dev__profile">
                                     <i class="fab fa-facebook-f dev__profile--icon"></i>
                                 </a>
                                 <!-- <div class="dev__phone">
