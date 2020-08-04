@@ -52,7 +52,7 @@
 
                     <p class="clubs__text">We all, as a part of an elite league of institutes, aspire to work at the frontiers of human knowledge, innovate technology, initiate revolutions in science and propel national development to new heights. But often in such a competitive environment, work is stressed to the point of mania and this is when comes in the need of recreation. Rediscover your hobbies and explore new ones with Clubs at IIT Bhilai. Mind you there is absolutely no bound on anyone’s interest which also means that there is no bound on how many clubs you can be in – it is all up to you. Currently the following clubs are functional and conduct their respective activities at a regular basis:</p>
 
-                    <p class="outreach__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Follow us:</span> <a href="https://www.facebook.com/IITBhilai.Cult/" class="outreach__link">Facebook</a></p>
+                    <p class="outreach__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Follow us:</span> <a href="https://www.facebook.com/IITBhilai.Cult/" class="outreach__link">Facebook</a>, <a href="https://www.instagram.com/invites/contact/?i=12z1v3ln7vkge&utm_content=gvasybz" class="outreach__link">Instagram</a></p>
                     <br>
 
                     <h3 class="heading-tertiary">UG Cultural Nominee - Madhur Bhattad</h3>
@@ -78,6 +78,10 @@
                         <li class="info__item">Festival decorations including rangoli were also done under this club.</li>
                         <li class="info__item">Organise Drawing Competition</li>
                     </ul>
+
+                    <p class="outreach__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Follow us:</span> <a href="https://m.facebook.com/Renaissance-IIT-Bhilai-114352553624582/?ref=bookmarks" class="outreach__link">Facebook</a>, <a href="https://instagram.com/renaissance_iitbh?igshid=rh37w8y94r6k" class="outreach__link">Instagram</a></p>
+<br>
+
 
                     <div class="row">
                         <div class="col-1-of-2"><img src="img/life/artsclub-1.jpg" alt="Arts Club" class="cultural__photo"></div>
@@ -111,6 +115,11 @@
                         <li class="info__item">Beathackers performance in Cultural Night.</li>
                         <li class="info__item">Xpressions (Dance night).</li>
                     </ul>
+
+<p class="outreach__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Follow us:</span> <a href="https://m.facebook.com/Beathackers_iitbh-101186844956155/?ref=bookmarks" class="outreach__link">Facebook</a>, <a href="https://www.instagram.com/beat_hackers01/" class="outreach__link">Instagram</a></p>
+
+<br>
+
                     <div class="row">
                         <div class="col-1-of-2"><img src="img/life/beathackers-1.JPG" alt="Dance Club" class="cultural__photo"></div>
                         <div class="col-1-of-2"><img src="img/life/beathackers-2.JPG" alt="Dance Club" class="cultural__photo"></div>
@@ -128,6 +137,11 @@
                     <p class="cultural__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Co-ordinator:</span> Atharv Bhangale</p><br>
                     <p class="cultural__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Description:</span> "The most exciting acting tends to happen in the roles you never thought you could play" - John Lithgow. Drishya, the Dramatics Society of IIT Bhilai strives to provide a platform for students of the institute to conceive and play dramas on the different aspects of life. The main objective of the society is to produce excellent and innovative student theatre. Being the first cultural club to be set up at IIT Bhilai, we at the society mainly deal with Stage Plays and Nukkad. From writing plays to direction and to acting , members get to learn new skills for every job that happens to be in the dramatics. I, as a coordinator of Drishya assure you that once you enter this club, you will have lots of fun with enhancement of your drama skills. So, to all those who believe that there is an actor inside you, then do join us and get a chance to be a part of the society. </p>
                     <br>
+
+<p class="outreach__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Follow us:</span> <a href="https://www.facebook.com/Drishya_iitbhilai-107523870980314/" class="outreach__link">Facebook</a>, <a href="https://instagram.com/drishya_iitbhilai?igshid=tw6t1u7prra2" class="outreach__link">Instagram</a></p>
+
+<br>
+
                     <div class="row">
                         <div class="col-1-of-2"><img src="img/life/drishya-1.JPG" alt="Drama Club" class="cultural__photo"></div>
                         <div class="col-1-of-2"><img src="img/life/drishya-2.JPG" alt="Drama Club" class="cultural__photo"></div>
@@ -140,18 +154,23 @@
                     <h3 class="heading-tertiary">Quizzotica : The Quizzing Club</h3>
                     <p class="cultural__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Co-ordinator:</span> Prakanshul Saxena</p><br>
                     <p class="cultural__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Description:</span> Interested in Quizzes regarding Web Series, Memes, Movies, Tech etc, this is the club for you. Quizzing Club organizes regular quiz competitions and workshops to keep you updated with the current affairs and also to motivate you regarding your awareness towards current affairs. The primary goal of this club is to increase the interest of students towards quizzing and to participate and represent IIT Bhilai in the Quizzing Competitions at InterIIT Cultural Meet. ExQuizite - The Annual Quizzing Event, hosted by Quizzotica gives you the opportunity to unravel your talent and win exciting prizes. </p><br>
-                 
-                    
+
+<br>
+
+<p class="outreach__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Follow us:</span> <a href="https://www.facebook.com/QuizzoticaIITBh/" class="outreach__link">Facebook</a>, <a href="https://instagram.com/quizzotica_iitbh?igshid=1skn0co75e5cr" class="outreach__link">Instagram</a></p>
+
+<br>
+
                     <div class="row">
-                     
+
                      <div class="col-1-of-2"><img src="img/life/quizzotica-1.jpg" alt="Quizzotica" class="cultural__photo"></div>
                      <div class="col-1-of-2"><img src="img/life/quizzotica-2.jpg" alt="Quizzotica" class="cultural__photo"></div>
-                
+
                     </div>
 
-                    
-                
-                
+
+
+
                 </div>
                 <div class="line-break"></div>
 
@@ -162,6 +181,11 @@
 In our daily pursuit to achieve professional excellence we often neglect certain aspects of life. Music is one of them. It is our constant endeavour to spread awareness and induce a diverse music culture around us, encouraging students to take up instruments and giving opportunities to perform in front of a crowd. Swara as a club and band has performed at college festivals like Colossus (HNLU Naya Raipur), Armageddon (IIM Raipur), at Inter IIT Cultural Meet 2018 &  2019 and given a host performance Meraz (Annual Cultural fest of IIT Bhilai)
 </p><br>
                     <br>
+
+<p class="outreach__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Follow us:</span> <a href="https://www.facebook.com/Swara_iitbh-102249191512762/" class="outreach__link">Facebook</a>, <a href="https://instagram.com/swara_iitbh?igshid=1raw7riy6v3yu" class="outreach__link">Instagram</a></p>
+<br>
+
+
                     <div class="row">
                         <div class="col-1-of-2"><img src="img/life/music-1.JPG" alt="Music Club" class="cultural__photo"></div>
                         <div class="col-1-of-2"><img src="img/life/music-2.jpg" alt="Music Club" class="cultural__photo"></div>
@@ -208,12 +232,14 @@ Everyone is Creative. At some point, everyone displays their Creative Skill to t
 We, at DesignX, wish to channel that Creativity to more Artistic and Practical Tasks. DesignX is not only about making some cool designs, but also learning things on the way. DesignX designs posters, certificates and T-Shirts for several Clubs and events at IIT Bhilai.
  </p><br>
 
+<p class="outreach__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Follow us:</span> <a href="http://fb.me/DesignXIITBhilai" class="outreach__link">Facebook</a></p>
+<br>
 
                     <div class="row">
-                     
+
                      <div class="col-1-of-2"><img src="img/life/designx.jpg" alt="DesignX" class="cultural__photo"></div>
-                     
-                
+
+
                     </div>
 
 
@@ -234,12 +260,13 @@ We, at DesignX, wish to channel that Creativity to more Artistic and Practical T
                       GOALS has a weekly online edition - EXPRESSO, which features artistic literary works. The society also has its own newsletter, called the Couch Potato. The contents are typically informal and talk about the most interesting things happening in and around the campus. As GOALS works for nurturing the speaking and writing skills of its members, for developing critical thinking and leadership abilities it organises MUN - Model United Nations. In all, it is a society that's definitely worth joining, if you want a major upgrade to your public skills!
 </p> <br>
 
-           
+<p class="outreach__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Follow us:</span> <a href="https://www.facebook.com/goals.iitbhilai/" class="outreach__link">Facebook</a>, <a href="https://www.instagram.com/invites/contact/?i=1fz7fbftue47c&utm_content=goinims" class="outreach__link">Instagram</a></p>
+<br>
                     <div class="row">
-                     
+
                      <div class="col-1-of-2"><img src="img/life/goals-1.jpg" alt="GOALS" class="cultural__photo"></div>
                      <div class="col-1-of-2"><img src="img/life/goals-2.jpg" alt="GOALS" class="cultural__photo"></div>
-                
+
                     </div>
 
 
@@ -257,7 +284,11 @@ FPS also organises competitions and workshops on video editing, short film makin
 
 
 </p>
- 
+
+ <br>
+
+ <p class="outreach__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Follow us:</span> <a href="https://www.facebook.com/FPS-IIT-Bhilai-108429224222257" class="outreach__link">Facebook</a>, <a href="https://instagram.com/fps_iitbh?igshid=piydx83g287f" class="outreach__link">Instagram</a></p>
+
  <br>
                         <div class="row">
                             <div class="col-2-of-2"><img src="img/life/fps.JPG" alt="The Pixel Snappers" class="cultural__photo"></div>
