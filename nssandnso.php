@@ -52,13 +52,17 @@
                     </div>
                     <div class="info">
                         <h3 class="heading-tertiary"><i class="far fa-dot-circle"></i> About</h3>
-                        <p class="info__text">NSS, National Service Scheme is a voluntary service at IIT Bhilai to remind students of their moral and social responsibilities towards the society. It is a program which helps students develop personality through community service. NSS at IIT Bhilai provides a platform for interaction between students and the population near IIT Bhilai where they can present their ideas for social welfare in less developed communities. Activities like:</p>
+                        <p class="info__text">The National Service Scheme (NSS) is a Central Sector Scheme of the Government of India, Ministry of Youth Affairs & Sports.
+                                              We are a group of students who believe in building a better society. Working passionately towards this vision, we conduct simple yet effective voluntary activities that serve the society. It also helps students develop personality through community service. NSS at IIT Bhilai provides a platform for interaction between students and the population near IIT Bhilai where they can present their ideas for social welfare in less developed communities. Activities include:
+
+                        </p>
                         <ul class="info__list">
-                            <li class="info__item">Cleanliness Drive</li>
-                            <li class="info__item">Plantations</li>
-                            <li class="info__item">Teaching Campaigns</li>
+                            <li class="info__item">Teaching rural children</li>
+                            <li class="info__item">Cleanliness Drives</li>
+                            <li class="info__item">Plantation Activities</li>
+                            <li class="info__item">Health Safety Seminars</li>
                         </ul>
-                        <p class="info__text">These are conducted on a regular basis. NSS helps the students develop appreciation to other person's point of view and also show consideration to other living beings. he welfare of an individual is ultimately dependent on the welfare of the society on the whole and therefore, the NSS volunteers shall strive for the well-being of the society.</p>
+                        <p class="info__text">These are conducted on a regular basis. NSS helps the students develop appreciation for other people's point of view and show consideration to other living beings. NSS volunteers strive for the well-being of the society.</p>
                     </div>
                     <div class="info">
                         <h3 class="heading-tertiary"><i class="far fa-dot-circle"></i> Motive</h3>
@@ -68,10 +72,19 @@
                             <li class="info__item">To develop among ourselves a sense of social and civic responsibility.</li>
                             <li class="info__item">To utilize our knowledge in finding practical solutions to individual and community problems.</li>
                             <li class="info__item">To develop competence required for group-living and sharing of responsibilities.</li>
-                            <li class="info__item">To gain skills in mobilizing community participate, acquire leadership qualities and democratic attitudes develop capacity to meet emergencies and natural disasters.</li>
+                            <li class="info__item">To gain skills in mobilizing community participation, acquire leadership qualities and democratic attitudes develop capacity to meet emergencies and natural disasters.</li>
                             <li class="info__item">To practice national integration and social harmony.</li>
                         </ul>
                     </div>
+
+                    <br>
+
+                    <div class="cultural row">
+                        <div class="col-1-of-2"><img src="img/nsonss/nss1.jpg" alt="NSS" class="cultural__photo"></div>
+                        <div class="col-1-of-2"><img src="img/nsonss/nss2.jpg" alt="NSS" class="cultural__photo"></div>
+                    </div>
+
+
                 </div>
             </div>
         </section>
@@ -83,11 +96,19 @@
                 <div class="nso">
                     <h2 class="heading-secondary">National Sports Organisation</h2>
                     <div class="info">
-                        <h3 class="heading-tertiary">Secretary: Goolla Abhijith</h3>
+                        <h3 class="heading-tertiary">Secretary: Ritik Dhanore</h3>
                     </div>
                     <div class="info">
-                        <p class="info__text">NSO (National Sports Organisation) is the official sports programme of IIT Bhilai. It is included in the extra-curricular activities of many students of IIT Bhilai . Each student has to complete 120 hrs in eight semester. NSO includes all the sports provided by the Institute and students can choose any sport they like .Proper incharge are provided in every field of NSO program. For those who were in their school sports team, here is the way back to get on same track.The motto of organisation is health and fitness as we also has activities like morning exercise and gym. NSO activities encourage us to remove all the limitations and have a shot at IIT Bhilai's sports team.</p>
+                        <p class="info__text">The National Sports Organisation is intended by the Government of India to promote the development of athletics and sporting activities of the nation's youth. It is included in the extra-curricular activities of many students of IIT Bhilai . Each student has to complete 120 hrs in eight semesters. NSO includes all the sports provided by the Institute and students can choose any sport they like. Proper incharge are provided in every field of NSO program. For those who were in their school sports team, here is the way back to get on the same track.The motto of organisation is health and fitness as we also have activities like morning exercise and gym. NSO activities encourage us to remove all the limitations and have a shot at IIT Bhilai's sports team.</p>
                     </div>
+
+                    <br>
+
+                    <div class="cultural row">
+                        <div class="col-1-of-2"><img src="img/nsonss/nso1.jpg" alt="NSO" class="cultural__photo"></div>
+                        <div class="col-1-of-2"><img src="img/nsonss/nso2.jpg" alt="NSO" class="cultural__photo"></div>
+                    </div>
+
                 </div>
             </div>
         </section>
