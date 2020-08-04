@@ -140,6 +140,18 @@
                     <h3 class="heading-tertiary">Quizzotica : The Quizzing Club</h3>
                     <p class="cultural__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Co-ordinator:</span> Prakanshul Saxena</p><br>
                     <p class="cultural__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Description:</span> Interested in Quizzes regarding Web Series, Memes, Movies, Tech etc, this is the club for you. Quizzing Club organizes regular quiz competitions and workshops to keep you updated with the current affairs and also to motivate you regarding your awareness towards current affairs. The primary goal of this club is to increase the interest of students towards quizzing and to participate and represent IIT Bhilai in the Quizzing Competitions at InterIIT Cultural Meet. ExQuizite - The Annual Quizzing Event, hosted by Quizzotica gives you the opportunity to unravel your talent and win exciting prizes. </p><br>
+                 
+                    
+                    <div class="row">
+                     
+                     <div class="col-1-of-2"><img src="img/life/quizzotica-1.jpg" alt="Quizzotica" class="cultural__photo"></div>
+                     <div class="col-1-of-2"><img src="img/life/quizzotica-2.jpg" alt="Quizzotica" class="cultural__photo"></div>
+                
+                    </div>
+
+                    
+                
+                
                 </div>
                 <div class="line-break"></div>
 
@@ -195,6 +207,17 @@ In our daily pursuit to achieve professional excellence we often neglect certain
 Everyone is Creative. At some point, everyone displays their Creative Skill to the World.
 We, at DesignX, wish to channel that Creativity to more Artistic and Practical Tasks. DesignX is not only about making some cool designs, but also learning things on the way. DesignX designs posters, certificates and T-Shirts for several Clubs and events at IIT Bhilai.
  </p><br>
+
+
+                    <div class="row">
+                     
+                     <div class="col-1-of-2"><img src="img/life/designx.jpg" alt="DesignX" class="cultural__photo"></div>
+                     
+                
+                    </div>
+
+
+
                       </div>
 
 
@@ -211,6 +234,14 @@ We, at DesignX, wish to channel that Creativity to more Artistic and Practical T
                       GOALS has a weekly online edition - EXPRESSO, which features artistic literary works. The society also has its own newsletter, called the Couch Potato. The contents are typically informal and talk about the most interesting things happening in and around the campus. As GOALS works for nurturing the speaking and writing skills of its members, for developing critical thinking and leadership abilities it organises MUN - Model United Nations. In all, it is a society that's definitely worth joining, if you want a major upgrade to your public skills!
 </p> <br>
 
+           
+                    <div class="row">
+                     
+                     <div class="col-1-of-2"><img src="img/life/goals-1.jpg" alt="GOALS" class="cultural__photo"></div>
+                     <div class="col-1-of-2"><img src="img/life/goals-2.jpg" alt="GOALS" class="cultural__photo"></div>
+                
+                    </div>
+
 
                 </div>
 
@@ -223,7 +254,16 @@ We, at DesignX, wish to channel that Creativity to more Artistic and Practical T
                     <p class="cultural__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Secretary:</span>  Sohail Faizan</p><br>
                     <p class="cultural__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Description:</span> One of the newest clubs of IIT Bhilai. The ideal club to get your filmmaking skills out to people. The club is responsible for all the video related activities at IIT Bhilai from Fresher intro video to Short movie making. This most versatile club will give you an all round experience beginning from story writing, scripting, screenplay to acting, shooting and video editing.
 FPS also organises competitions and workshops on video editing, short film making and short movie making.
+
+
 </p>
+ 
+ <br>
+                        <div class="row">
+                            <div class="col-2-of-2"><img src="img/life/fps.JPG" alt="The Pixel Snappers" class="cultural__photo"></div>
+                        </div>
+
+
                 </div>
 
 
