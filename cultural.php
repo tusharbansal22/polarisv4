@@ -232,7 +232,7 @@ Everyone is Creative. At some point, everyone displays their Creative Skill to t
 We, at DesignX, wish to channel that Creativity to more Artistic and Practical Tasks. DesignX is not only about making some cool designs, but also learning things on the way. DesignX designs posters, certificates and T-Shirts for several Clubs and events at IIT Bhilai.
  </p><br>
 
-<p class="outreach__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Follow us:</span> <a href="http://fb.me/DesignXIITBhilai" class="outreach__link">Facebook</a></p>
+<p class="outreach__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Follow us:</span> <a href="http://fb.me/DesignXIITBhilai" class="outreach__link">Facebook</a>, <a href="https://instagram.com/designx_iitbhilai?igshid=m4rpuanay1jw" class="outreach__link">Instagram</a></p>
 <br>
 
                     <div class="row">
