@@ -187,7 +187,7 @@ In our daily pursuit to achieve professional excellence we often neglect certain
 
 
                     <div class="row">
-                        <div class="col-1-of-2"><img src="img/life/music-1.JPG" alt="Music Club" class="cultural__photo"></div>
+                        <div class="col-1-of-2"><img src="img/life/music-1.jpg" alt="Music Club" class="cultural__photo"></div>
                         <div class="col-1-of-2"><img src="img/life/music-2.jpg" alt="Music Club" class="cultural__photo"></div>
                     </div>
                 </div>
@@ -291,7 +291,7 @@ FPS also organises competitions and workshops on video editing, short film makin
 
  <br>
                         <div class="row">
-                            <div class="col-2-of-2"><img src="img/life/fps.JPG" alt="The Pixel Snappers" class="cultural__photo"></div>
+                            <div class="col-2-of-2"><img src="img/life/fps.jpg" alt="The Pixel Snappers" class="cultural__photo"></div>
                         </div>
 
 
