@@ -39,7 +39,7 @@
           <div class="container">
               <div class="documents">
                   <h2 class="heading-secondary">Important Documents<br><span>Registration Form</span></h2>
-                  <p class="documents__text">The attached respective registration forms are necessary at the time of Registration.<br> Please download and fill the respective forms and the forms are required to be submitted on the registration date. i.e. <b>23rd July 2019</b>.</p>
+                  <p class="documents__text">The attached respective registration forms are necessary at the time of Registration.<br> Please download and fill the respective forms.</p>
                   <div class="bank">
                       <ul class="bank__list">
                         <li class="bank__item"><i class="fas fa-download"></i>&nbsp; Registration Form for UG Students. <a href="UG forms for Registration.pdf" download>Click Here!</a></li>
