@@ -62,7 +62,7 @@
                     <p class="fee__text">The details and documents required for availing education loan are given as follows.<br>Punjab National Bank will sanction the education loan to the students.</p>
                     <div class="fee">
                     <ul class="sublist">
-                        <li>Student needs to fill the loan application form and send it to PNB and bring the required documents on 23rd July.</li>
+                        <li>Student needs to fill the loan application form and send it to PNB and bring the required documents.</li>
                         <li>PNB loan scheme documents contain the terms and conditions of the loan.<br/></li>
                         </ul>
                     </div>
@@ -86,7 +86,7 @@
                     <h2 class="heading-secondary"><span>Regarding Fee Payment</span></h2>
                     <p class="fee__text">Fee Structure (Btech/Mtech/PhD) - <a href="Fee_structure.pdf" target="_blank">Click Here!</a></p><br>
                     <p class="fee__text">Generate the Fee Payment Challan through SBI Collect Payment Page. <a href="https://www.onlinesbi.com/sbicollect/icollecthome.htm" target="_blank">Click Here!</a><br>For procedure of payment through SBI Collect.<a href="Payment through SBI i collect.pdf" target="_blank"> Click Here!</a></p>
-                    <p class="fee__text">No cash payment option will be available at the institute on 23rd July. As enquired for payment mode, following options are made available:</p>
+                    <p class="fee__text">No cash payment option will be available at the institute. As enquired for payment mode, following options are made available:</p>
                             <br/>
                             <ul class="sublist">
                                 <li><strong>Option 1 &dash;</strong> By choosing SBI Collect Net banking facility option published in SBI Collect payment options page. </li>
