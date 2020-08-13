@@ -25,7 +25,7 @@
             <ul class="navigation__list">
                 <li class="navigation__list-item"><a href="mentors.php" class="navigation__link">Mentors</a></li>
                 <li class="navigation__list-item"><a href="academics.php" class="navigation__link">Academics</a></li>
-                <li class="navigation__list-item"><a href="disciplines.php" class="navigation__link">Disciplines</a></li>
+                <li class="navigation__list-item"><a href="disciplines.php" class="navigation__link">Departments</a></li>
                 <li class="navigation__list-item"><a href="around.php" class="navigation__link">Around the Campus</a></li>
                 
                 <li class="navigation__list-item"><a href="documents.php" class="navigation__link">Documents</a></li>

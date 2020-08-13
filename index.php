@@ -110,7 +110,7 @@
                 <div class="header__hero-box">
                     <h1 class="heading-primary">Student Mentorship Program</h1>
                     <p class="heading-subtitle">Of the Student, By the Student, For the Student</p>
-                    <a href="IIT BHILAI Student Brochure 2019_2.pdf" class="btn btn-download" download>Brochure 2019&nbsp; <i class="fas fa-download"></i></a><br/>
+                    <a href="Brochure 2020.pdf" class="btn btn-download" download>Brochure 2020&nbsp; <i class="fas fa-download"></i></a><br/>
                     <!-- <a href="#" class="btn btn-live" id="modalBtn">Live Updates &nbsp; <i class="fas fa-sync"></i></a> -->
                 </div>
             </div>
@@ -343,6 +343,50 @@
                     <!-- <div class="col-1-of-4">&nbsp;</div> -->
                 </div>
             </div>
+
+            <div class="row">
+                <div class="dev">
+                    <!-- <div class="col-1-of-4">&nbsp;</div> -->
+
+                    <div class="col-1-of-2">
+                        <figure class="dev__shape">
+                            <img src="img/mentors/mentor10.jpg" alt="Prachir Agrawal" class="dev__img">
+                            <figcaption class="dev__caption">Prachir Agrawal</figcaption>
+                        </figure>
+                        <div class="dev__name"><strong>Prachir Agrawal</strong><br/>Website Manager - 2020</div>
+                        <a href="mailto:prachira@iitbhilai.ac.in" class="dev__profile">
+                            <i class="far fa-envelope dev__profile--icon"></i>
+                        </a>
+                        <a href="https://www.facebook.com/prachir.agrawal.5" target="_blank" class="dev__profile">
+                            <i class="fab fa-facebook-f dev__profile--icon"></i>
+                        </a>
+                        <div class="dev__phone">
+                            <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 8826678228
+                        </div>
+                    </div>
+
+                    <div class="col-1-of-2">
+                        <figure class="dev__shape">
+                            <img src="img/mentors/mentor11.jpg" alt="Prakanshul Saxena" class="dev__img">
+                            <figcaption class="dev__caption">Prakanshul Saxena</figcaption>
+                        </figure>
+                        <div class="dev__name"><strong>Prakanshul Saxena</strong><br/>Website Manager - 2020</div>
+                        <a href="mailto:prakanshuls@iitbhilai.ac.in" class="dev__profile">
+                            <i class="far fa-envelope dev__profile--icon"></i>
+                        </a>
+                        <a href="https://www.facebook.com/prakanshul.saxena" target="_blank" class="dev__profile">
+                            <i class="fab fa-facebook-f dev__profile--icon"></i>
+                        </a>
+                        <div class="dev__phone">
+                            <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 8319446110
+                        </div>
+                    </div>
+
+                    
+                    <!-- <div class="col-1-of-4">&nbsp;</div> -->
+                </div>
+            </div>
+
         </section>
 
 <?php require_once('footer.php'); ?>

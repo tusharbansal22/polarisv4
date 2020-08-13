@@ -37,7 +37,7 @@
         <header class="header header__department">
             <div class="container">
                 <div class="header__hero-box">
-                    <h1 class="heading-primary">Disciplines</h1>
+                    <h1 class="heading-primary">Departments</h1>
                     <p class="heading-subtitle">All the things you need to know!</p>
                 </div>
             </div>
@@ -46,7 +46,166 @@
         <section class="section">
             <div class="container">
                 <div class="intro-cse">
-                    <h2 class="heading-secondary">Computer Science &amp; Engineering</h2>
+                    <h2 class="heading-secondary">Department of EECS</h2>
+                    <!-- <p class="intro-cse__text">The first thing which pops up when you think of CSE is programming. Given that coding is an integral part of Computer Science, it is not the only part. As the name suggests, one learns both the science behind the computers and the engineering aspects of the field. CSE at IIT Bhilai is focussed on providing the students with a perfect blend of both – research and industrial facet of the computing world.</p><br> -->
+
+                    <div class="info">
+                        <h3 class="heading-tertiary"><i class="far fa-dot-circle"></i> Disciplines</h3>
+
+                        <ul class="info__list">
+                            <li class="info__item">Computer Science and Engineering</li>
+                            <li class="info__item">Data Science and Artificial Intelligence</li>
+                            <li class="info__item">Electrical Engineering</li>
+                            
+                        </ul>
+                    </div>
+
+                    <!-- <p class="intro-cse__text"><em>* The tips are in no sense a pre-requisite for any of the courses you take during your semesters. They are just a set of pointers to get you in the right direction without having to fumble over a plethora of resources.</em></p> -->
+                </div>
+            </div>
+        </section>
+
+        <div class="line-break"></div>
+
+        <section class="section">
+            <div class="container">
+                <div class="intro-cse">
+                    <h2 class="heading-secondary">Department of ME</h2>
+                    <!-- <p class="intro-cse__text">The first thing which pops up when you think of CSE is programming. Given that coding is an integral part of Computer Science, it is not the only part. As the name suggests, one learns both the science behind the computers and the engineering aspects of the field. CSE at IIT Bhilai is focussed on providing the students with a perfect blend of both – research and industrial facet of the computing world.</p><br> -->
+
+                    <div class="info">
+                        <h3 class="heading-tertiary"><i class="far fa-dot-circle"></i> Disciplines</h3>
+
+                        <ul class="info__list">
+                            <li class="info__item">Mechanical Engineering</li>
+                            
+                            
+                        </ul>
+                    </div>
+
+                    <!-- <p class="intro-cse__text"><em>* The tips are in no sense a pre-requisite for any of the courses you take during your semesters. They are just a set of pointers to get you in the right direction without having to fumble over a plethora of resources.</em></p> -->
+                </div>
+            </div>
+        </section>
+
+        <div class="line-break"></div>
+
+        <section class="section">
+            <div class="container">
+                <div class="intro-cse">
+                    <h2 class="heading-secondary">Department of Chemistry</h2>
+                    <!-- <p class="intro-cse__text">The first thing which pops up when you think of CSE is programming. Given that coding is an integral part of Computer Science, it is not the only part. As the name suggests, one learns both the science behind the computers and the engineering aspects of the field. CSE at IIT Bhilai is focussed on providing the students with a perfect blend of both – research and industrial facet of the computing world.</p><br> -->
+
+                    <div class="info">
+                        <h3 class="heading-tertiary"><i class="far fa-dot-circle"></i> Disciplines</h3>
+
+                        <ul class="info__list">
+                            <li class="info__item">Chemistry</li>
+                           
+                            
+                        </ul>
+                    </div>
+
+                    <!-- <p class="intro-cse__text"><em>* The tips are in no sense a pre-requisite for any of the courses you take during your semesters. They are just a set of pointers to get you in the right direction without having to fumble over a plethora of resources.</em></p> -->
+                </div>
+            </div>
+        </section>
+
+        <div class="line-break"></div>
+
+        <section class="section">
+            <div class="container">
+                <div class="intro-cse">
+                    <h2 class="heading-secondary">Department of Mathematics</h2>
+                    <!-- <p class="intro-cse__text">The first thing which pops up when you think of CSE is programming. Given that coding is an integral part of Computer Science, it is not the only part. As the name suggests, one learns both the science behind the computers and the engineering aspects of the field. CSE at IIT Bhilai is focussed on providing the students with a perfect blend of both – research and industrial facet of the computing world.</p><br> -->
+
+                    <div class="info">
+                        <h3 class="heading-tertiary"><i class="far fa-dot-circle"></i> Disciplines</h3>
+
+                        <ul class="info__list">
+                            <li class="info__item">Mathematics</li>
+                            <li class="info__item">Mathematics and Computing</li>
+                            
+                            
+                        </ul>
+                    </div>
+
+                    <!-- <p class="intro-cse__text"><em>* The tips are in no sense a pre-requisite for any of the courses you take during your semesters. They are just a set of pointers to get you in the right direction without having to fumble over a plethora of resources.</em></p> -->
+                </div>
+            </div>
+        </section>
+
+        <div class="line-break"></div>
+
+        <section class="section">
+            <div class="container">
+                <div class="intro-cse">
+                    <h2 class="heading-secondary">Department of Physics</h2>
+                    <!-- <p class="intro-cse__text">The first thing which pops up when you think of CSE is programming. Given that coding is an integral part of Computer Science, it is not the only part. As the name suggests, one learns both the science behind the computers and the engineering aspects of the field. CSE at IIT Bhilai is focussed on providing the students with a perfect blend of both – research and industrial facet of the computing world.</p><br> -->
+
+                    <div class="info">
+                        <h3 class="heading-tertiary"><i class="far fa-dot-circle"></i> Disciplines</h3>
+
+                        <ul class="info__list">
+                            <li class="info__item">Physics</li>
+                           
+                            
+                        </ul>
+                    </div>
+
+                    <!-- <p class="intro-cse__text"><em>* The tips are in no sense a pre-requisite for any of the courses you take during your semesters. They are just a set of pointers to get you in the right direction without having to fumble over a plethora of resources.</em></p> -->
+                </div>
+            </div>
+        </section>
+
+        <div class="line-break"></div>
+
+        <section class="section">
+            <div class="container">
+                <div class="intro-cse">
+                    <h2 class="heading-secondary">Department of Liberal Arts</h2>
+                    <!-- <p class="intro-cse__text">The first thing which pops up when you think of CSE is programming. Given that coding is an integral part of Computer Science, it is not the only part. As the name suggests, one learns both the science behind the computers and the engineering aspects of the field. CSE at IIT Bhilai is focussed on providing the students with a perfect blend of both – research and industrial facet of the computing world.</p><br> -->
+
+                    <div class="info">
+                        <h3 class="heading-tertiary"><i class="far fa-dot-circle"></i> Disciplines</h3>
+
+                        <ul class="info__list">
+                            <li class="info__item">Liberal Arts</li>
+                           
+                        </ul>
+                    </div>
+
+                    <!-- <p class="intro-cse__text"><em>* The tips are in no sense a pre-requisite for any of the courses you take during your semesters. They are just a set of pointers to get you in the right direction without having to fumble over a plethora of resources.</em></p> -->
+                </div>
+            </div>
+        </section>
+
+        <div class="line-break"></div>
+
+        <section class="section">
+            <div class="container">
+                <div class="intro-cse">
+                    <h2 class="heading-secondary">For More Info -</h2>
+                    <!-- <p class="intro-cse__text">The first thing which pops up when you think of CSE is programming. Given that coding is an integral part of Computer Science, it is not the only part. As the name suggests, one learns both the science behind the computers and the engineering aspects of the field. CSE at IIT Bhilai is focussed on providing the students with a perfect blend of both – research and industrial facet of the computing world.</p><br> -->
+
+                    <div class="info">
+                        <h3 class="heading-tertiary"><i class="far fa-dot-circle"></i>  <a href="https://www.iitbhilai.ac.in/index.php?pid=aca_handbook_pdf">Student's Handbook</a></h3>
+                        <h3 class="heading-tertiary"><i class="far fa-dot-circle"></i>  <a href="https://www.iitbhilai.ac.in/index.php?pid=schedule_programs">Courses of Study</a></h3>
+
+                       
+                    </div>
+
+                    <!-- <p class="intro-cse__text"><em>* The tips are in no sense a pre-requisite for any of the courses you take during your semesters. They are just a set of pointers to get you in the right direction without having to fumble over a plethora of resources.</em></p> -->
+                </div>
+            </div>
+        </section>
+
+        <div class="line-break"></div>
+
+        <section class="section">
+            <div class="container">
+                <div class="intro-cse">
+                    <h2 class="heading-secondary">Computer Science &amp; Engineering - An Intro</h2>
                     <p class="intro-cse__text">The first thing which pops up when you think of CSE is programming. Given that coding is an integral part of Computer Science, it is not the only part. As the name suggests, one learns both the science behind the computers and the engineering aspects of the field. CSE at IIT Bhilai is focussed on providing the students with a perfect blend of both – research and industrial facet of the computing world.</p><br>
 
                     <div class="info">
@@ -74,7 +233,7 @@
         <section class="section">
             <div class="container">
                 <div class="intro-ee">
-                    <h2 class="heading-secondary">Electrical Engineering</h2>
+                    <h2 class="heading-secondary">Electrical Engineering - An Intro</h2>
                     <p class="intro-ee__text">The Discipline of Electrical Engineering, IIT Bhilai, since its inception in the year 2016 has been striving towards providing a vibrant atmosphere for students, in various aspects of Electrical Engineering. At present the discipline offers the undergraduate course to cater to the ever-challenging needs of technical excellence in various facets of electrical engineering.</p><br>
 
                     <p class="intro-ee__text">The Discipline offers Undergraduate program (B. Tech), Postgraduate programs (MTech.) and Doctorate (PhD) program from the session beginning in 2017. The research interests of our faculty encompass a wide gamut of sub-disciplines of Electrical Engineering. We have state-of- the-art lab facilities along with trained staff to handle the latest equipment. The Discipline has been playing a key role in instilling the avidity amongst students and encouraging research in the various sub-disciplines of Electrical Engineering. In the coming years we see ourselves as pioneers of Advanced Research and Development in our field.</p><br>
@@ -115,7 +274,7 @@
         <section class="section">
             <div class="container">
                 <div class="intro-me">
-                    <h2 class="heading-secondary">Mechanical Engineering</h2>
+                    <h2 class="heading-secondary">Mechanical Engineering - An Intro</h2>
                     <p class="intro-me__text">Have you ever wondered how rockets and flights are manoeuvred? Does the flourishing sound of an engine and manufacturing processes tingle your curiosity? Then this field is for you. You will get a boost to your mechanics, statics, solid and fluid dynamics knowledge and you will surely enjoy all of it, you’ll also learn how mechanical structures are supported, automation and robotics, workshops (e.g. welding, lathing) and their applications.</p><br>
 
                     <p class="intro-me__text">Mechanical Engineering basically deals with the following domains:</p>
