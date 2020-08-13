@@ -44,6 +44,7 @@
                       <ul class="bank__list">
                         <li class="bank__item"><i class="fas fa-download"></i>&nbsp; Registration Form for UG Students. <a href="UG forms for Registration.pdf" download>Click Here!</a></li>
                         <li class="bank__item"><i class="fas fa-download"></i>&nbsp; Registration Form for PG Students. <a href="PG forms for Registration.pdf" download>Click Here!</a></li>
+                        <li class="bank__item"><i class="fas fa-download"></i>&nbsp; Registration Form for M.Sc Students. <a href="Registration form @ 2020.pdf" download>Click Here!</a></li>
 
                       </ul>
                   </div>
