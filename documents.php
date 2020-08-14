@@ -85,6 +85,8 @@
                 <div class="fee">
                     <h2 class="heading-secondary"><span>Regarding Fee Payment</span></h2>
                     <p class="fee__text">Fee Structure (Btech/Mtech/PhD) - <a href="Fee_structure.pdf" target="_blank">Click Here!</a></p><br>
+                    <p class="fee__text">Fee Structure (M.Sc) - <a href="FeeStructure2020-21MSc.pdf" target="_blank">Click Here!</a></p><br>
+
                     <p class="fee__text">Generate the Fee Payment Challan through SBI Collect Payment Page. <a href="https://www.onlinesbi.com/sbicollect/icollecthome.htm" target="_blank">Click Here!</a><br>For procedure of payment through SBI Collect.<a href="Payment through SBI i collect.pdf" target="_blank"> Click Here!</a></p>
                     <p class="fee__text">No cash payment option will be available at the institute. As enquired for payment mode, following options are made available:</p>
                             <br/>
