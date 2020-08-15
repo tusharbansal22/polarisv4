@@ -94,7 +94,7 @@
             <div class="container">
                 <div class="intro-cse">
                     <h2 class="heading-secondary">Department of Chemistry</h2>
-                    <!-- <p class="intro-cse__text">The first thing which pops up when you think of CSE is programming. Given that coding is an integral part of Computer Science, it is not the only part. As the name suggests, one learns both the science behind the computers and the engineering aspects of the field. CSE at IIT Bhilai is focussed on providing the students with a perfect blend of both – research and industrial facet of the computing world.</p><br> -->
+                    <p class="intro-cse__text">The department is committed to engage in high quality research and pursuit of excellence in teaching. Two years M.Sc. programme and a Ph.D programme is offered in Chemistry. Major thrust is in the areas of inorganic and organometallic chemistry, polymer chemistry, halide perovskite solar-cells, bionanotechnology, photoactive metal-organic hybrid materials, theoretical and computational chemistry, total synthesis and antibiotics, molecular dynamics simulations and bioinformatics.</p><br>
 
                     <div class="info">
                         <h3 class="heading-tertiary"><i class="far fa-dot-circle"></i> Disciplines</h3>
@@ -117,7 +117,7 @@
             <div class="container">
                 <div class="intro-cse">
                     <h2 class="heading-secondary">Department of Mathematics</h2>
-                    <!-- <p class="intro-cse__text">The first thing which pops up when you think of CSE is programming. Given that coding is an integral part of Computer Science, it is not the only part. As the name suggests, one learns both the science behind the computers and the engineering aspects of the field. CSE at IIT Bhilai is focussed on providing the students with a perfect blend of both – research and industrial facet of the computing world.</p><br> -->
+                    <p class="intro-cse__text">The vision of the department is to become a centre of excellence in Mathematics through high quality research and teaching. The department of Mathematics has started to offer a 2-year Master of Science (M.Sc.) programme in the discipline of Mathematics and Computing. The department offers PhD programs in various research areas of Mathematics.</p><br>
 
                     <div class="info">
                         <h3 class="heading-tertiary"><i class="far fa-dot-circle"></i> Disciplines</h3>
@@ -141,7 +141,7 @@
             <div class="container">
                 <div class="intro-cse">
                     <h2 class="heading-secondary">Department of Physics</h2>
-                    <!-- <p class="intro-cse__text">The first thing which pops up when you think of CSE is programming. Given that coding is an integral part of Computer Science, it is not the only part. As the name suggests, one learns both the science behind the computers and the engineering aspects of the field. CSE at IIT Bhilai is focussed on providing the students with a perfect blend of both – research and industrial facet of the computing world.</p><br> -->
+                    <p class="intro-cse__text">The department is committed to engage in high quality research and pursuit of excellence in teaching. The faculty members of the department are actively involved in research and development in frontier areas of both pure and applied Physics, and interdisciplinary areas of science & technology. The department strives to train its students to become skilled and motivated physicists. PhD program is offered in High Energy Physics and experimental Condensed Matter Physics.</p><br>
 
                     <div class="info">
                         <h3 class="heading-tertiary"><i class="far fa-dot-circle"></i> Disciplines</h3>
@@ -164,7 +164,9 @@
             <div class="container">
                 <div class="intro-cse">
                     <h2 class="heading-secondary">Department of Liberal Arts</h2>
-                    <!-- <p class="intro-cse__text">The first thing which pops up when you think of CSE is programming. Given that coding is an integral part of Computer Science, it is not the only part. As the name suggests, one learns both the science behind the computers and the engineering aspects of the field. CSE at IIT Bhilai is focussed on providing the students with a perfect blend of both – research and industrial facet of the computing world.</p><br> -->
+                    <p class="intro-cse__text">IIT Bhilai offers only PhD programs in Liberal Arts. The department of Liberal Arts at IIT Bhilai is a centre for the study of applied areas of Liberal Arts including but not limiting to Cultural Studies, Ethics, Economics, and Literature.
+The curriculum of the department encourages exploration across disciplines, while providing a central academic experience for students. Diverse range of subjects help students to question critically and think broadly, exploring the history of ideas and methodologies across the humanities and the arts. The department offers a bouquet of interesting and creative undergraduate courses. 
+</p><br>
 
                     <div class="info">
                         <h3 class="heading-tertiary"><i class="far fa-dot-circle"></i> Disciplines</h3>
