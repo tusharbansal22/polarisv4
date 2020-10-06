@@ -48,7 +48,7 @@
                 <div class="nss">
                     <h2 class="heading-secondary">National Service Scheme</h2>
                     <div class="info">
-                        <h3 class="heading-tertiary">Secretary: Ashutosh Sahu, Prashant Kumar </h3>
+                        <h3 class="heading-tertiary">General Secretary: Shalini Kumari </h3>
                     </div>
                     <div class="info">
                         <h3 class="heading-tertiary"><i class="far fa-dot-circle"></i> About</h3>

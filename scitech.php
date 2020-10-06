@@ -52,7 +52,7 @@
                 </div>
                 <div class="scitech">
                    <h3 class="heading-tertiary">Developers Student Club - by Google Developers</h3>
-                   <p class="scitech__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Lead:</span>To be decided</p><br>
+                   <p class="scitech__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Lead:</span>Debajyoti Halder</p><br>
                    <p class="scitech__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>About:</span> Developer Student Clubs or DSC is a University Program kickstarted by Google Developers to train thousands of student developers globally and work with their communities to solve real-life problems. DSC IIT Bhilai was set-up primarily to ensure that we can bridge the divide between a student’s eagerness to learn and the technology evolving every day.
                      The Developer Student Clubs (DSC) program is a grassroots channel through which the members of the community provide development skills for students, towards employability. In addition to workshops, DSCs also provide an opportunity for students to apply their newly gained skills to develop solutions for local organizations and then provide visibility via showcases.We will be taking up projects and any individual, group or organization with a good idea for a project and a thought to create an impact by making lives of people better will be welcome. We welcome all the development projects that involve the latest technologies like App development, Machine Learning, Web Development, Cloud Development and much more.</p><br>
                    <p class="scitech__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Keypoints: </span></p>

@@ -56,7 +56,7 @@
                             <li class="info__item">Computer Science and Engineering</li>
                             <li class="info__item">Data Science and Artificial Intelligence</li>
                             <li class="info__item">Electrical Engineering</li>
-                            
+
                         </ul>
                     </div>
 
@@ -78,8 +78,8 @@
 
                         <ul class="info__list">
                             <li class="info__item">Mechanical Engineering</li>
-                            
-                            
+
+
                         </ul>
                     </div>
 
@@ -101,8 +101,8 @@
 
                         <ul class="info__list">
                             <li class="info__item">Chemistry</li>
-                           
-                            
+
+
                         </ul>
                     </div>
 
@@ -125,8 +125,8 @@
                         <ul class="info__list">
                             <li class="info__item">Mathematics</li>
                             <li class="info__item">Mathematics and Computing</li>
-                            
-                            
+
+
                         </ul>
                     </div>
 
@@ -148,8 +148,8 @@
 
                         <ul class="info__list">
                             <li class="info__item">Physics</li>
-                           
-                            
+
+
                         </ul>
                     </div>
 
@@ -165,7 +165,7 @@
                 <div class="intro-cse">
                     <h2 class="heading-secondary">Department of Liberal Arts</h2>
                     <p class="intro-cse__text">IIT Bhilai offers only PhD programs in Liberal Arts. The department of Liberal Arts at IIT Bhilai is a centre for the study of applied areas of Liberal Arts including but not limiting to Cultural Studies, Ethics, Economics, and Literature.
-The curriculum of the department encourages exploration across disciplines, while providing a central academic experience for students. Diverse range of subjects help students to question critically and think broadly, exploring the history of ideas and methodologies across the humanities and the arts. The department offers a bouquet of interesting and creative undergraduate courses. 
+The curriculum of the department encourages exploration across disciplines, while providing a central academic experience for students. Diverse range of subjects help students to question critically and think broadly, exploring the history of ideas and methodologies across the humanities and the arts. The department offers a bouquet of interesting and creative undergraduate courses.
 </p><br>
 
                     <div class="info">
@@ -173,7 +173,7 @@ The curriculum of the department encourages exploration across disciplines, whil
 
                         <ul class="info__list">
                             <li class="info__item">Liberal Arts</li>
-                           
+
                         </ul>
                     </div>
 
@@ -194,7 +194,7 @@ The curriculum of the department encourages exploration across disciplines, whil
                         <h3 class="heading-tertiary"><i class="far fa-dot-circle"></i>  <a href="https://www.iitbhilai.ac.in/index.php?pid=aca_handbook_pdf">Student's Handbook</a></h3>
                         <h3 class="heading-tertiary"><i class="far fa-dot-circle"></i>  <a href="https://www.iitbhilai.ac.in/index.php?pid=schedule_programs">Courses of Study</a></h3>
 
-                       
+
                     </div>
 
                     <!-- <p class="intro-cse__text"><em>* The tips are in no sense a pre-requisite for any of the courses you take during your semesters. They are just a set of pointers to get you in the right direction without having to fumble over a plethora of resources.</em></p> -->
@@ -222,6 +222,30 @@ The curriculum of the department encourages exploration across disciplines, whil
                             <li class="info__item">Try reading about analysis of algorithms, mainly in terms of time complexity.</li>
                             <li class="info__item">Some basic familiarity with Discrete Mathematics/Mathematical Logic will really help you in some of the courses but is not compulsory.</li>
                             <li class="info__item">The world is at your feet in form of the internet. Explore the same for your benefit.</li>
+                        </ul>
+                    </div>
+
+                    <p class="intro-cse__text"><em>* The tips are in no sense a pre-requisite for any of the courses you take during your semesters. They are just a set of pointers to get you in the right direction without having to fumble over a plethora of resources.</em></p>
+                </div>
+            </div>
+        </section>
+
+        <div class="line-break"></div>
+
+        <section class="section">
+            <div class="container">
+                <div class="intro-cse">
+                    <h2 class="heading-secondary">Data Science and Artificial Intelligence (DSAI) - An Intro </h2>
+                    <p class="intro-cse__text">IIT Bhilai opens a new discipline in Data Science and Artificial Intelligence (DSAI) and proposes to start a BTech program in DSAI in 2020. With the rise of Cloud Computing, Internet of Things, and Web 3.0, the amount of data being produced and captured by computer systems and applications is ever increasing at an exponential rate. The era of Big Data presents us with a great opportunity and challenge to develop the next generation technologies to store, manage, analyze, share and understand the huge volume of data that is generated in business.</p><br>
+
+                    <div class="info">
+                        <h3 class="heading-tertiary"><i class="far fa-dot-circle"></i> DSAI Hacks</h3>
+
+                        <ul class="info__list">
+                            <li class="info__item">If you are looking forward to choose this discipline, then please let me aware you that you should make mathematics your friend.</li>
+                            <li class="info__item">One with keen interests in Linear Algebra, Probability and Statistics, Optimization etc, should definitely pursue this.</li>
+                            <li class="info__item">The core courses related to data science will involve subjects like Data Analytics and Visualization, Artificial Intelligence, Machine learning, Management of Large Data etc.</li>
+
                         </ul>
                     </div>
 

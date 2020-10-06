@@ -319,9 +319,7 @@
                         <a href="https://www.facebook.com/gv99gv" target="_blank" class="dev__profile">
                             <i class="fab fa-facebook-f dev__profile--icon"></i>
                         </a>
-                        <div class="dev__phone">
-                            <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 7976521104
-                        </div>
+                        
                     </div>
 
                     <div class="col-1-of-3">
