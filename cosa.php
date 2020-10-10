@@ -38,7 +38,7 @@
             <div class="container">
                 <div class="header__hero-box">
                     <h1 class="heading-primary">Council of Student Affairs</h1>
-                    <p class="heading-subtitle">tagline to be inserted</p>
+                    <p class="heading-subtitle">Power to the students</p>
                 </div>
             </div>
         </header>

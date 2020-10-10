@@ -73,6 +73,14 @@
                     <p class="sports__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Objective: </span> Objective is to provide the new comers an environment where along the academics they will find that sports play a vital role in our life.</p><br>
 
                     <p class="sports__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Activities: </span> We have organised two badminton tournaments in last two years and we are planning for more tournaments in the upcoming years. Our main motive is to provide deserving students a better platform like INTER-IIT SPORTS MEET. INTER-IIT is the best platform for us where we can achieve our uniqueness in the sports between the other IITs. As we have already experienced the level of badminton in the INTER-IIT so we are planning to provide all the facilities to the interested students so that they can practice well and perform well in INTER-IIT.</p>
+
+                    <br>
+
+                    <div class="row">
+                        <div class="col-1-of-2"><img src="img/life/badminton-1.JPG" alt="Badminton" class="sports__photo"></div>
+                        <div class="col-1-of-2"><img src="img/life/badminton-2.JPG" alt="Badminton" class="sports__photo"></div>
+                    </div>
+
                 </div>
 
                 <div class="line-break"></div>
@@ -85,6 +93,15 @@
                     <p class="sports__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Events Organised: </span>Basketball was one of the sports in the intra-IIT Sports League, Prayatna which is held annually in the winter semester. The Basketball team of IIT Bhilai participated in NITR's sports fest Samar, and secured 3rd position.</p><br>
 
                     <p class="sports__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Future Plans: </span> We are hopeful that with the team we have, we'll be able to participate in this year's Inter-IIT Sports Meet. Also, we are looking forward to participating in more competitions in and around the campus.</p>
+
+                    <br>
+
+                    <div class="row">
+                        <div class="col-1-of-2"><img src="img/life/bb-1.JPG" alt="Basketball" class="sports__photo"></div>
+                        <div class="col-1-of-2"><img src="img/life/bb-2.JPG" alt="Basketball" class="sports__photo"></div>
+                    </div>
+
+
                 </div>
 
                 <div class="line-break"></div>
@@ -99,6 +116,15 @@
                     <p class="sports__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Events Organised: </span>An Intra IIT TT tournament is organised every semester, along with distributions of Trophy and Certificates. Table Tennis tournament is held along with various other sports in Intra IIT League "PRAYATNA".</p><br>
 
                     <p class="sports__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Future Plans: </span> We are hopeful that with the team we have, we'll be able to participate in this year's Inter-IIT Sports Meet. Also, we are looking forward to participating in more competitions in and around the campus.</p>
+
+                    <br>
+
+                    <div class="row">
+                        <div class="col-1-of-2"><img src="img/life/tt-1.JPG" alt="Table Tennis" class="sports__photo"></div>
+                        <div class="col-1-of-2"><img src="img/life/tt-2.JPG" alt="Table Tennis" class="sports__photo"></div>
+                    </div>
+
+
                 </div>
 
                 <div class="line-break"></div>
@@ -119,6 +145,15 @@
                     <p class="sports__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Objective: </span>Our objective is to form a community of vibrant chess players. Also a strong chess team to represent IIT-Bhilai in inter-IITs and other national level tournaments. </p> <br>
 
                     <p class="sports__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Events Organised: </span>We hosted a chess tournament in our hostel, that triggered huge interest in chess among students. With that in mind we have introduced Graviton, a rapid chess tournament. All students, faculties and staffs are invited participate and exhibit their game skills. Graviton is a great platform to participate and improve one’s game.</p>
+
+                    <br>
+                    
+                    <div class="row">
+                        <div class="col-1-of-2"><img src="img/life/chess-1.JPG" alt="Chess" class="sports__photo"></div>
+                        <div class="col-1-of-2"><img src="img/life/chess-2.JPG" alt="Chess" class="sports__photo"></div>
+                    </div>
+
+
                 </div>
 
                 <div class="line-break"></div>
@@ -133,6 +168,13 @@
                     <p class="sports__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Events Organised: </span>We have organized a intra tournament in first year, in which winners were awarded with prizes and certificate. In second year we have participated in inter iit sport meet and we have organized a league tournament “PRAYATNA” including volleyball, athletics, table tennis, basketball etc.</p> <br>
 
                     <p class="sports__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Future Plans: </span>We look forward to work with sports council to organize intra college volleyball tournament each semester. We will try to participate in inter college sport meets with other nearby colleges and also give our best in the upcoming inter iit sports meet organized by IIT Guwahati.</p> <br>
+
+                    <div class="row">
+                        <div class="col-1-of-2"><img src="img/life/volley-1.JPG" alt="Volleyball" class="sports__photo"></div>
+                        <div class="col-1-of-2"><img src="img/life/volley-2.JPG" alt="Volleyball" class="sports__photo"></div>
+                    </div>
+
+
                 </div>
 
             </div>
