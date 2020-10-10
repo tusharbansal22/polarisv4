@@ -29,7 +29,7 @@
     <div class="footer__copyright">
         <div class="row">
             <div class="col-2-of-3">
-                <p class="copyright">&copy; 2019 &dash; 2020, Council of Student Affairs, IIT Bhilai</p>
+                <p class="copyright">&copy; 2020 &dash; 2021, Council of Student Affairs, IIT Bhilai</p>
             </div>
             <div class="col-1-of-3"><p class="love">Made with <i class="fas fa-heart"></i></p></div>
         </div>
