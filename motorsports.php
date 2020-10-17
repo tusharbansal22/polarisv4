@@ -47,20 +47,36 @@
             <div class="container">
                 <h2 class="heading-secondary">Motorsports</h2>
                 <div class="clubs">
-                  <h3 class="heading-tertiary">Faculty Advisor - Dr. Soumya Gangopadhyay<br>Additional Faculty Advisor - Dr. Pravesh Chandra Shukla</h3>
-                  <h3 class="heading-tertiary">Team Captian - Ishaan Shrivastava</h3>
-                  <h3 class="heading-tertiary">Vice Captian - Sajal Saini</h3><br>
+                  <h3 class="heading-tertiary">Faculty Advisor - Dr. Pravesh Chandra Shukla</h3>
+                  <h3 class="heading-tertiary">Team Captian - Ketha Jaya Sandeep</h3>
+                  <h3 class="heading-tertiary">Vice Captian - Prajyot Jadhav</h3><br>
 
-                    <p class="clubs__text">IIT Bhilai Motorsports is a student team as a part of Motorsports Club from Indian Institute of Technology Bhilai. The Club being established in 2017, consists of 60+ members targeting to design and fabricate ATV to compete in national level all terrain vehicle events.
-
-                                            IIT Bhilai Motorsports made its debut at Enduro Student India (ESI) 2019, being the only 3rd gen IIT to participate in this competition. The team successfully cleared technical inspections based on design, engine check and brake check test in static events. In dynamics, the team actively participated in all the events - DirtX, Sprint, Acceleration & Manoeuvrability as well as Endurance race.
-
-                                            A team of 17 members represented IIT Bhilai Motorsports at Pune in the competition along with more than 70 other teams.<br><br></p>
+                    <p class="clubs__text">IIT Bhilai Motorsports was founded in 2017, by a group of enthusiastic engineering students in IIT Bhilai, which aims to inculcate and promote automotive culture in the insti tute. It is a team fuelled by passion and driven by desire, one that has grown in strength ever since its inception.Currently, the team has 40+ members and comprises a core of 15 members. The team is all set to participate in Enduro Student India 2021<br><br></p>
                 </div>
+
                 <div class="row">
                     <div class="col-1-of-2"><img src="img/life/motorsports-1.JPG" alt="Epsilon" class="scitech__photo"></div>
                     <div class="col-1-of-2"><img src="img/life/motorsports-2.JPG" alt="Epsilon" class="scitech__photo"></div>
                 </div>
+
+                  <div class="line-break"></div>
+                  <br>
+
+                  <h3 class="heading-tertiary">PAST ENDEAVOURS</h3>
+
+                  <p class="clubs__text">IIT Bhilai Motorsports made its debut at Enduro Student India (ESI) 2019, being the only 3rd gen IIT to participate in this competition. A team of 17 members represented IIT Bhilai Motorsports at Pune in the competition along with more than 70 other teams.<br></p>
+
+<br>
+
+                    <p class="clubs__text">In July, 2019, our team made a debut in Virtual BAJA, the prelims of Mahindra SAEINDIA BAJA (Jan,2020) and bagged a position of 29th among 400+ participating teams (2nd position among participating UITS). The team has successfully competed in Mahindra SAEINDIA BAJA, India's largest ATV design competition held in Indore, an automobile event that is witnessed by 8000+ students and professionals.<br><br></p>
+
+
+<br>
+<div class="row">
+    <div class="col-1-of-2"><img src="img/life/motorsports-7.JPG" alt="Epsilon" class="scitech__photo"></div>
+    <div class="col-1-of-2"><img src="img/life/motorsports-8.JPG" alt="Epsilon" class="scitech__photo"></div>
+</div>
+
                 <div class="row">
                     <div class="col-1-of-2"><img src="img/life/motorsports-3.jpg" alt="Epsilon" class="scitech__photo"></div>
                     <div class="col-1-of-2"><img src="img/life/motorsports-4.JPG" alt="Epsilon" class="scitech__photo"></div>

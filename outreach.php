@@ -51,20 +51,23 @@
                 </div>
 
                 <div class="outreach">
-                    <h3 class="heading-tertiary">Inside, News and Media Club</h3>
-                    <p class="outreach__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Co-ordinator:</span> Ankit Yadav</p><br>
-                    <p class="outreach__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>About:</span> "Inside" is the student media body of IIT Bhilai. We are a team of dedicated individuals with a zeal for writing and passion for developing media skills. The power of professional media has revolutionized the way things shape up these days around the globe. Inspired by the fraternity of journalists and showmen, we at IIT Bhilai aim to set up a student community committed towards providing an effective forum for communication within the Institute.</p><br>
+                    <h3 class="heading-tertiary">Student Outreach Team</h3>
+                    <p class="outreach__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Secretary</span> Tanish Gupta</p><br>
+                    <p class="outreach__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>About:</span> A team of dedicated individuals acting as the bridge for communication between the institute’s student community and other colleges, organizations or companies. We as a team under the Council of Student Affairs (CoSA) aim to help the student community of IIT Bhilai in all possible aspects whether it is placement stats, internship opportunities, promotions, etc.</p><br>
 
                     <p class="outreach__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>What's our work?</span></p>
 
                     <ul class="info__list">
-                        <li class="info__item">Maintenance of the Intra-College Newsletter which features all the happenings in and around the Institution.</li>
-                        <li class="info__item">Handling of Institute’s Social Media profiles in collaboration with the administrative wing of IIT Bhilai.</li>
-                        <li class="info__item">Content Development of websites related to the Institute.</li>
-                        <li class="info__item">Organizing discussions and interviews with dignitaries who visit the Institution.</li>
-                        <li class="info__item">Setting up of and conducting student polls on various matters.</li>
-                        <li class="info__item">Promoting and Publishing various media related to the different spheres of the Institute.</li>
-                        <li class="info__item">Acting as a voice of the Student Community.</li>
+                        <li class="info__item">Point of contact for other colleges/institutes (for fests, workshops, internships, or any other reason within the scope of Student Outreach)</li>
+                        <li class="info__item">Publishing in the media any notable student achievement or event/happening in our institute.</li>
+                        <li class="info__item">To create and establish alumni-relations with the alumni of IIT Bhilai for upliftment and development of our students.</li>
+                        <li class="info__item">Inviting well known personalities for guest lectures or for events in the institute.</li>
+                        <li class="info__item">Publishing the Yearbook  (consisting of all the memories and contributions) as a souvenir for the passing out batches.</li>
+                        <li class="info__item">Serving as a medium for sharing the placement stats and valuable experience shared by our senior most batch and alumni for reference by the (current) students.</li>
+                        <li class="info__item">The team plays a major role in the promotional activities of MERAZ.
+</li>
+<li class="info__item">Organizing tours to nearby popular tourist places and attractions to rejuvenate the body and souls.
+</li>
                     </ul>
                 </div>
 
