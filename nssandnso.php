@@ -53,16 +53,12 @@
                     <div class="info">
                         <h3 class="heading-tertiary"><i class="far fa-dot-circle"></i> About</h3>
                         <p class="info__text">The National Service Scheme (NSS) is a Central Sector Scheme of the Government of India, Ministry of Youth Affairs & Sports.
-                                              We are a group of students who believe in building a better society. Working passionately towards this vision, we conduct simple yet effective voluntary activities that serve the society. It also helps students develop personality through community service. NSS at IIT Bhilai provides a platform for interaction between students and the population near IIT Bhilai where they can present their ideas for social welfare in less developed communities. Activities include:
+                                              We are a group of students who believe in building a better society. Working passionately towards this vision, we conduct simple yet effective voluntary activities that serve the society. It also helps students develop personality through community service. NSS at IIT Bhilai provides a platform for interaction between students and the population near IIT Bhilai where they can present their ideas for social welfare in less developed communities.
+                                              The activites mentioned in the throwback video are held by NSS at regular intervals.
 
                         </p>
-                        <ul class="info__list">
-                            <li class="info__item">Teaching rural children</li>
-                            <li class="info__item">Cleanliness Drives</li>
-                            <li class="info__item">Plantation Activities</li>
-                            <li class="info__item">Health Safety Seminars</li>
-                        </ul>
-                        <p class="info__text">These are conducted on a regular basis. NSS helps the students develop appreciation for other people's point of view and show consideration to other living beings. NSS volunteers strive for the well-being of the society.</p>
+
+
                     </div>
                     <div class="info">
                         <h3 class="heading-tertiary"><i class="far fa-dot-circle"></i> Motive</h3>
@@ -79,10 +75,24 @@
 
                     <br>
 
+
+
+
+
                     <div class="cultural row">
                         <div class="col-1-of-2"><img src="img/nsonss/nss1.jpg" alt="NSS" class="cultural__photo"></div>
                         <div class="col-1-of-2"><img src="img/nsonss/nss2.jpg" alt="NSS" class="cultural__photo"></div>
                     </div>
+
+                    <br>
+
+                    <div class="container">
+                      <center>
+                        <h2 class="heading-secondary">NSS Throwback 2019-20 </h2>
+                      <iframe width="840" height="472.5" src="https://www.youtube.com/embed/3Aaq_GqD7ZM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                      </center><br><br>
+
+                </div>
 
 
                 </div>
