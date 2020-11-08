@@ -54,7 +54,7 @@
             <div class="modal-content">
                 <div class="modal-header">
                 <span class="close">&times;</span>
-                <h2>Checklist for Freshers 2019</h2>
+                <h2>Checklist for Freshers 2020</h2>
                 </div>
                 <div class="modal-body">
                     <ul>
@@ -64,7 +64,7 @@
                         <li>Please see the <strong>Documents</strong> page for registration forms and fee structure  <br>
 
                         
-                        <li>For any queries regarding IIT Bhilai and 2019-20 admissions please feel free to contact any of the <a href="mentors.php" class="notification">Mentors.</a><br>
+                        <li>For any queries regarding IIT Bhilai and 2020-21 admissions please feel free to contact any of the <a href="mentors.php" class="notification">Mentors.</a><br>
 
             
 
