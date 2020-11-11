@@ -60,7 +60,22 @@
 
                     <h2 class="heading-secondary"><span>Availing Loan Facility</span></h2>
                     <p class="fee__text">The details and documents required for availing education loan are given as follows.<br>The institute has arranged education loan facilities from State Bank of India at 6.65% (discounted rate).<br>Loan is pre-sanctioned and you need to only complete the document formalities to avail the loan facility. <br>Loan documents will made available to you soon.</p>
-                   
+                    
+                    <div class="bank">
+                      <ul class="bank__list">
+                        <li class="bank__item"><i class="fas fa-download"></i>&nbsp; Education Loan Application <a href="Education Loan Application.pdf" download>Click Here!</a></li>
+                        <li class="bank__item"><i class="fas fa-download"></i>&nbsp; Rin Raksha Voucher <a href="Rin Raksha Voucher.pdf" download>Click Here!</a></li>
+                        <li class="bank__item"><i class="fas fa-download"></i>&nbsp; Asset Liability Statement <a href="Asset Liability Statement.pdf" download>Click Here!</a></li>
+                        <li class="bank__item"><i class="fas fa-download"></i>&nbsp; Affidavit <a href="Affidavit.pdf" download>Click Here!</a></li>
+                        <li class="bank__item"><i class="fas fa-download"></i>&nbsp; No subsidy under CSIS declaration <a href="No subsidy under CSIS declaration.pdf" download>Click Here!</a></li>
+                        <li class="bank__item"><i class="fas fa-download"></i>&nbsp; PDC letter <a href="PDC letter.pdf" download>Click Here!</a></li>
+
+                      </ul>
+                  </div>
+
+
+
+                    
                 </div>
             </div>
         </section>
