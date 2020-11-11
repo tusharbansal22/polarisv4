@@ -59,21 +59,8 @@
                 <div class="documents">
 
                     <h2 class="heading-secondary"><span>Availing Loan Facility</span></h2>
-                    <p class="fee__text">The details and documents required for availing education loan are given as follows.<br>Punjab National Bank will sanction the education loan to the students.</p>
-                    <div class="fee">
-                    <ul class="sublist">
-                        <li>Student needs to fill the loan application form and send it to PNB and bring the required documents.</li>
-                        <li>PNB loan scheme documents contain the terms and conditions of the loan.<br/></li>
-                        </ul>
-                    </div>
-                    <div class="bank">
-                        <ul class="bank__list">
-                            <li class="bank__item"><i class="fas fa-download"></i>&nbsp; List of required documents for availing loan and Loan Scheme Details. <a href="PNB LOAN Scheme for Students of IIT Bhilai.pdf" download>Click Here!</a></li>
-                            <li class="bank__item"><i class="fas fa-download"></i>&nbsp; Checklist of required documents and Loan Application Form. <a href="PNB Loan Application Form.pdf" download>Click Here!</a></li>
-                            <!-- <li class="bank__item"><i class="fas fa-download"></i>&nbsp; Customer Master Form / Know Your Customer / CKYCR Form for Individuals - CUMM. <a href="CUMM.pdf" download>Click Here!</a></li>
-                            <li class="bank__item"><i class="fas fa-download"></i>&nbsp; Loan Application. <a href="Loan Application.pdf" download>Click Here!</a></li> -->
-                        </ul>
-                    </div>
+                    <p class="fee__text">The details and documents required for availing education loan are given as follows.<br>The institute has arranged education loan facilities from State Bank of India at 6.65% (discounted rate).<br>Loan is pre-sanctioned and you need to only complete the document formalities to avail the loan facility. <br>Loan documents will made available to you soon.</p>
+                   
                 </div>
             </div>
         </section>

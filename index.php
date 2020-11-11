@@ -61,7 +61,8 @@
                         <li><strong>Important Notice</strong> Registration and Orientation program for the new BTech students 2020 <a href="orientation.pdf" target="_blank" class="notification">Click Here!</a></li>
 
                         
-                        <li>Please see the <strong>Documents</strong> page for registration forms and fee structure  <br>
+                        <li>Please see the <strong>Documents</strong> page for registration forms, fee structure, and updated loan details  <br>
+                        
 
                         
                         <li>For any queries regarding IIT Bhilai and 2020-21 admissions please feel free to contact any of the <a href="mentors.php" class="notification">Mentors.</a><br>
