@@ -58,6 +58,9 @@
                 </div>
                 <div class="modal-body">
                     <ul>
+
+                    <li><strong>Important Notice</strong> Orientation Schedule <a href="Orientation Schedule.pdf" target="_blank" class="notification">Click Here!</a></li>
+
                     <li><strong>Important Notice</strong> Admission due to covid <a href="Notice on admission due to covid.pdf" target="_blank" class="notification">Click Here!</a></li>
 
                         <li><strong>Important Notice</strong> Registration and Orientation program for the new BTech students 2020 <a href="orientation.pdf" target="_blank" class="notification">Click Here!</a></li>

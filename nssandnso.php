@@ -86,14 +86,22 @@
 
                     <br>
 
-                    <div class="container">
-                      <center>
-                        <h2 class="heading-secondary">NSS Throwback 2019-20 </h2>
-                      <iframe width="840" height="472.5" src="https://www.youtube.com/embed/3Aaq_GqD7ZM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                      </center><br><br>
+                    <section class="section">
+            <div class="container">
+                <h2 class="heading-secondary">Campus Tour</h2>
+            </div>
+            <div class="row">
+                <div class="col-1-of-2">
+                    <div class="campus">
+                        <iframe width="560" height="315" src=" https://www.youtube.com/embed/3Aaq_GqD7ZM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                    </div>
+                </div>
+                
+            </div>
+        </section>
 
                 </div>
-
+                
 
                 </div>
             </div>
