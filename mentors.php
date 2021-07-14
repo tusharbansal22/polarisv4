@@ -162,7 +162,7 @@
                             <img src="img/mentors/mentor1.jpg" alt="Abhinav Anand" class="dev__img">
                             <figcaption class="dev__caption">Abhinav Anand</figcaption>
                         </figure>
-                        <div class="dev__name">Abhinav Anand</div>
+                        <div class="dev__name">Ayush Ojha</div>
                         <a href="mailto:abhinava@iitbhilai.ac.in" class="dev__profile">
                             <i class="far fa-envelope dev__profile--icon"></i>
                         </a>
@@ -179,7 +179,7 @@
                             <img src="img/mentors/mentor2.jpg" alt="Aditya Keshari" class="dev__img">
                             <figcaption class="dev__caption">Aditya Keshari</figcaption>
                         </figure>
-                        <div class="dev__name">Aditya Keshari</div>
+                        <div class="dev__name">Satvik Vemuganti</div>
                         <a href="mailto:adityake@iitbhilai.ac.in" class="dev__profile">
                             <i class="far fa-envelope dev__profile--icon"></i>
                         </a>
@@ -196,7 +196,7 @@
                             <img src="img/mentors/mentor3.jpg" alt="Anjana Kannan" class="dev__img">
                             <figcaption class="dev__caption">Anjana Kannan</figcaption>
                         </figure>
-                        <div class="dev__name">Anjana Kannan</div>
+                        <div class="dev__name">Harshith Naresh Chanduri</div>
                         <a href="mailto:anjanak@iitbhilai.ac.in" class="dev__profile">
                             <i class="far fa-envelope dev__profile--icon"></i>
                         </a>
@@ -213,7 +213,7 @@
                             <img src="img/mentors/mentor4.jpg" alt="Harsh Vardhan" class="dev__img">
                             <figcaption class="dev__caption">Harsh Vardhan</figcaption>
                         </figure>
-                        <div class="dev__name">Harsh Vardhan</div>
+                        <div class="dev__name">Nikhil Chaudhary</div>
                         <a href="mailto:harshv@iitbhilai.ac.in" class="dev__profile">
                             <i class="far fa-envelope dev__profile--icon"></i>
                         </a>
@@ -238,7 +238,7 @@
                             <img src="img/mentors/mentor5.jpg" alt="Harshil Singhal" class="dev__img">
                             <figcaption class="dev__caption">Harshil Singhal</figcaption>
                         </figure>
-                        <div class="dev__name">Harshil Singhal</div>
+                        <div class="dev__name">Madhur Jain</div>
                         <a href="mailto:harshils@iitbhilai.ac.in " class="dev__profile">
                             <i class="far fa-envelope dev__profile--icon"></i>
                         </a>
@@ -255,7 +255,7 @@
                             <img src="img/mentors/mentor6.jpg" alt="Harshit Jajodia" class="dev__img">
                             <figcaption class="dev__caption">Harshit Jajodia</figcaption>
                         </figure>
-                        <div class="dev__name">Harshit Jajodia</div>
+                        <div class="dev__name">Sankalp Acharya</div>
                         <a href="mailto:harshitj@iitbhilai.ac.in" class="dev__profile">
                             <i class="far fa-envelope dev__profile--icon"></i>
                         </a>
@@ -272,7 +272,7 @@
                             <img src="img/mentors/mentor7.jpg" alt="Jyotika Mahapatra" class="dev__img">
                             <figcaption class="dev__caption">Jyotika Mahapatra</figcaption>
                         </figure>
-                        <div class="dev__name">Jyotika Mahapatra</div>
+                        <div class="dev__name">Yash Teckchandani</div>
                         <a href="mailto:jyotikam@iitbhilai.ac.in" class="dev__profile">
                             <i class="far fa-envelope dev__profile--icon"></i>
                         </a>
@@ -289,7 +289,7 @@
                             <img src="img/mentors/mentor8.jpg" alt="Madhur Bhattad" class="dev__img">
                             <figcaption class="dev__caption">Madhur Bhattad</figcaption>
                         </figure>
-                        <div class="dev__name">Madhur Bhattad</div>
+                        <div class="dev__name">Chinmay Ratnaparkhe</div>
                         <a href="mailto:madhurb@iitbhilai.ac.in" class="dev__profile">
                             <i class="far fa-envelope dev__profile--icon"></i>
                         </a>
@@ -314,7 +314,7 @@
                             <img src="img/mentors/mentor9.jpg" alt="Manas Wadhwa" class="dev__img">
                             <figcaption class="dev__caption">Manas Wadhwa</figcaption>
                         </figure>
-                        <div class="dev__name">Manas Wadhwa</div>
+                        <div class="dev__name">Prathamesh Gujar</div>
                         <a href="mailto:manasw@iitbhilai.ac.in" class="dev__profile">
                             <i class="far fa-envelope dev__profile--icon"></i>
                         </a>
@@ -331,7 +331,7 @@
                             <img src="img/mentors/mentor10.jpg" alt="Prachir Agrawal" class="dev__img">
                             <figcaption class="dev__caption">Prachir Agrawal</figcaption>
                         </figure>
-                        <div class="dev__name">Prachir Agrawal</div>
+                        <div class="dev__name">Patil Tanmay Vijay</div>
                         <a href="mailto:prachira@iitbhilai.ac.in" class="dev__profile">
                             <i class="far fa-envelope dev__profile--icon"></i>
                         </a>
@@ -348,7 +348,7 @@
                             <img src="img/mentors/mentor11.jpg" alt="Prakanshul Saxena" class="dev__img">
                             <figcaption class="dev__caption">Prakanshul Saxena</figcaption>
                         </figure>
-                        <div class="dev__name">Prakanshul Saxena</div>
+                        <div class="dev__name">Akshay Vijay Wairagade</div>
                         <a href="mailto:prakanshuls@iitbhilai.ac.in" class="dev__profile">
                             <i class="far fa-envelope dev__profile--icon"></i>
                         </a>
@@ -365,7 +365,7 @@
                             <img src="img/mentors/mentor12.jpg" alt="Puja Bansal" class="dev__img">
                             <figcaption class="dev__caption">Puja Bansal</figcaption>
                         </figure>
-                        <div class="dev__name">Puja Bansal</div>
+                        <div class="dev__name">M Deepak Reddy</div>
                         <a href="mailto:pujab@iitbhilai.ac.in" class="dev__profile">
                             <i class="far fa-envelope dev__profile--icon"></i>
                         </a>
@@ -393,7 +393,7 @@
                             <img src="img/mentors/mentor13.jpg" alt="Pulkit Khandelwal" class="dev__img">
                             <figcaption class="dev__caption">Pulkit Khandelwal</figcaption>
                         </figure>
-                        <div class="dev__name">Pulkit Khandelwal</div>
+                        <div class="dev__name">Ankith Masa</div>
                         <a href="mailto:pulkitk@iitbhilai.ac.in" class="dev__profile">
                             <i class="far fa-envelope dev__profile--icon"></i>
                         </a>
@@ -410,7 +410,7 @@
                             <img src="img/mentors/mentor14.jpg" alt="Rishabh Ranjan" class="dev__img">
                             <figcaption class="dev__caption">Rishabh Ranjan</figcaption>
                         </figure>
-                        <div class="dev__name">Rishabh Ranjan</div>
+                        <div class="dev__name">Prakhar Sharma</div>
                         <a href="mailto:rishabhr@iitbhilai.ac.in" class="dev__profile">
                             <i class="far fa-envelope dev__profile--icon"></i>
                         </a>
@@ -427,7 +427,7 @@
                             <img src="img/mentors/mentor15.jpg" alt="Rithvika Pervala" class="dev__img">
                             <figcaption class="dev__caption">Rithvika Pervala</figcaption>
                         </figure>
-                        <div class="dev__name">Rithvika Pervala</div>
+                        <div class="dev__name">Saivikas Thiruveedula</div>
                         <a href="mailto:pervalar@iitbhilai.ac.in" class="dev__profile">
                             <i class="far fa-envelope dev__profile--icon"></i>
                         </a>
@@ -444,7 +444,7 @@
                             <img src="img/mentors/mentor16.jpg" alt="Ritik Dhanore" class="dev__img">
                             <figcaption class="dev__caption">Ritik Dhanore</figcaption>
                         </figure>
-                        <div class="dev__name">Ritik Dhanore</div>
+                        <div class="dev__name">Hemant Gaur</div>
                         <a href="mailto:dhanorer@iitbhilai.ac.in" class="dev__profile">
                             <i class="far fa-envelope dev__profile--icon"></i>
                         </a>
@@ -472,7 +472,7 @@
                             <img src="img/mentors/mentor17.jpg" alt="Sai Raveendra Kandregula" class="dev__img">
                             <figcaption class="dev__caption">Sai Raveendra Kandregula</figcaption>
                         </figure>
-                        <div class="dev__name">Sai Raveendra Kandregula</div>
+                        <div class="dev__name">Parth Khandenath</div>
                         <!-- <a href="mailto:pulkitk@iitbhilai.ac.in" class="dev__profile">
                             <i class="far fa-envelope dev__profile--icon"></i>
                         </a> -->
@@ -489,7 +489,7 @@
                             <img src="img/mentors/mentor18.jpg" alt="Saksham Mahajan" class="dev__img">
                             <figcaption class="dev__caption">Saksham Mahajan</figcaption>
                         </figure>
-                        <div class="dev__name">Saksham Mahajan</div>
+                        <div class="dev__name">Prarabdh Shukla</div>
                         <!-- <a href="mailto:rishabhr@iitbhilai.ac.in" class="dev__profile">
                             <i class="far fa-envelope dev__profile--icon"></i>
                         </a> -->
@@ -506,7 +506,7 @@
                             <img src="img/mentors/mentor19.jpg" alt="Satwik Chowdary" class="dev__img">
                             <figcaption class="dev__caption">Satwik Chowdary</figcaption>
                         </figure>
-                        <div class="dev__name">Satwik Chowdary</div>
+                        <div class="dev__name">Tallapaka Lahari Sreeja</div>
                         <a href="mailto:paladugus@iitbhilai.ac.in" class="dev__profile">
                             <i class="far fa-envelope dev__profile--icon"></i>
                         </a>
@@ -523,7 +523,7 @@
                             <img src="img/mentors/mentor20.jpg" alt="Shreyash Hambarde" class="dev__img">
                             <figcaption class="dev__caption">Shreyash Hambarde</figcaption>
                         </figure>
-                        <div class="dev__name">Shreyash Hambarde</div>
+                        <div class="dev__name">Vanisha Agrawal</div>
                         <a href="mailto:shreyashd@iitbhilai.ac.in" class="dev__profile">
                             <i class="far fa-envelope dev__profile--icon"></i>
                         </a>
@@ -550,7 +550,7 @@
                             <img src="img/mentors/mentor21.jpg" alt="Srilekha Kadambala" class="dev__img">
                             <figcaption class="dev__caption">Srilekha Kadambala</figcaption>
                         </figure>
-                        <div class="dev__name">Srilekha Kadambala</div>
+                        <div class="dev__name">Riyanshi Goyal</div>
                         <a href="mailto:srilekhak@iitbhilai.ac.in" class="dev__profile">
                             <i class="far fa-envelope dev__profile--icon"></i>
                         </a>
@@ -567,7 +567,7 @@
                             <img src="img/mentors/mentor22.jpeg" alt="Utkarsh Alpuria" class="dev__img">
                             <figcaption class="dev__caption">Utkarsh Alpuria</figcaption>
                         </figure>
-                        <div class="dev__name">Utkarsh Alpuria</div>
+                        <div class="dev__name">Harshita Sankhla</div>
                         <a href="mailto:utkarshsa@iitbhilai.ac.in" class="dev__profile">
                             <i class="far fa-envelope dev__profile--icon"></i>
                         </a>
@@ -578,7 +578,71 @@
                             <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 9359340476
                         </div>
                     </div>
-
+               
+			
+			
+			<div class="row">
+                <div class="dev">
+                    <div class="col-1-of-4">
+                        <figure class="dev__shape">
+                            <img src="img/mentors/mentor21.jpg" alt="Srilekha Kadambala" class="dev__img">
+                            <figcaption class="dev__caption">Srilekha Kadambala</figcaption>
+                        </figure>
+                        <div class="dev__name">Mansi Garg</div>
+                        <a href="mailto:srilekhak@iitbhilai.ac.in" class="dev__profile">
+                            <i class="far fa-envelope dev__profile--icon"></i>
+                        </a>
+                        <a href="https://www.facebook.com/srilekha.kadambala" class="dev__profile">
+                            <i class="fab fa-facebook-f dev__profile--icon"></i>
+                        </a>
+                        <div class="dev__phone">
+                            <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 9390099543
+                        </div>
+                    </div>
+			
+			<div class="row">
+                <div class="dev">
+                    <div class="col-1-of-4">
+                        <figure class="dev__shape">
+                            <img src="img/mentors/mentor21.jpg" alt="Srilekha Kadambala" class="dev__img">
+                            <figcaption class="dev__caption">Srilekha Kadambala</figcaption>
+                        </figure>
+                        <div class="dev__name">Ayushi Bharti</div>
+                        <a href="mailto:srilekhak@iitbhilai.ac.in" class="dev__profile">
+                            <i class="far fa-envelope dev__profile--icon"></i>
+                        </a>
+                        <a href="https://www.facebook.com/srilekha.kadambala" class="dev__profile">
+                            <i class="fab fa-facebook-f dev__profile--icon"></i>
+                        </a>
+                        <div class="dev__phone">
+                            <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 9390099543
+                        </div>
+                    </div>
+			
+			
+			
+			
+			<div class="row">
+                <div class="dev">
+                    <div class="col-1-of-4">
+                        <figure class="dev__shape">
+                            <img src="img/mentors/mentor21.jpg" alt="Srilekha Kadambala" class="dev__img">
+                            <figcaption class="dev__caption">Srilekha Kadambala</figcaption>
+                        </figure>
+                        <div class="dev__name">Shaleen Malik</div>
+                        <a href="mailto:srilekhak@iitbhilai.ac.in" class="dev__profile">
+                            <i class="far fa-envelope dev__profile--icon"></i>
+                        </a>
+                        <a href="https://www.facebook.com/srilekha.kadambala" class="dev__profile">
+                            <i class="fab fa-facebook-f dev__profile--icon"></i>
+                        </a>
+                        <div class="dev__phone">
+                            <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 9390099543
+                        </div>
+                    </div>
+			
+			
+			
 
 
 
