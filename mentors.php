@@ -52,10 +52,10 @@
                 <div class="dev">
                     <div class="col-1-of-3">
                         <figure class="dev__shape">
-                            <img src="img/mentors/faculty1.jpg" alt=">Dr. Kuldeep Kumar Kataria" class="dev__img">
-                            <figcaption class="dev__caption">Dr. Kuldeep Kumar Kataria</figcaption>
+                            <img src="img/mentors/commonMentor.png" alt="Dr. Rukmankesh" class="dev__img">
+                            <figcaption class="dev__caption">Dr. Rukmankesh</figcaption>
                         </figure>
-                        <div class="dev__name"><strong>Dr. Kuldeep Kumar Kataria</strong><br/>Faculty In-Charge</div>
+                        <div class="dev__name"><strong>Dr. Rukmankesh</strong><br/>Faculty In-Charge</div>
                         <a href="mailto:kuldeepk@iitbhilai.ac.in" class="dev__profile">
                             <i class="far fa-envelope dev__profile--icon"></i>
                         </a>
@@ -63,10 +63,10 @@
 
                     <div class="col-1-of-3">
                         <figure class="dev__shape">
-                            <img src="img/mentors/faculty2.jpg" alt="Dr. Rahul Jain" class="dev__img">
-                            <figcaption class="dev__caption">Dr. Rahul Jain</figcaption>
+                            <img src="img/mentors/faculty1.jpg" alt="Dr. Kuldeep Kumar Kataria" class="dev__img">
+                            <figcaption class="dev__caption">Dr. Kuldeep Kumar Kataria</figcaption>
                         </figure>
-                        <div class="dev__name"><strong>Dr. Rahul Jain</strong><br/>Member</div>
+                        <div class="dev__name"><strong>Dr. Kuldeep Kumar Kataria</strong><br/>Member</div>
                         <a href="mailto:rahul@iitbhilai.ac.in" class="dev__profile">
                             <i class="far fa-envelope dev__profile--icon"></i>
                         </a>
@@ -89,12 +89,12 @@
                 <div class="dev">
                     <!-- <div class="col-1-of-4">&nbsp;</div> -->
 
-                    <div class="col-1-of-3">
+                    <div class="col-1-of-4">
                         <figure class="dev__shape">
-                            <img src="img/mentors/c1.jpg" alt="Shiva Kant Sonkar" class="dev__img">
-                            <figcaption class="dev__caption">Shiva Kant Sonkar</figcaption>
+                            <img src="img/mentors/commonMentor.png" alt="Pulkit Khandelwal" class="dev__img">
+                            <figcaption class="dev__caption">Pulkit Khandelwal</figcaption>
                         </figure>
-                        <div class="dev__name"><strong>Shiva Kant Sonkar</strong><br/>Mentor Coordinator</div>
+                        <div class="dev__name"><strong>Pulkit Khandelwal</strong><br/>Mentor Coordinator</div>
                         <a href="mailto:shivak@iitbhilai.ac.in" class="dev__profile">
                             <i class="far fa-envelope dev__profile--icon"></i>
                         </a>
@@ -106,12 +106,12 @@
                         </div>
                     </div>
 
-                    <div class="col-1-of-3">
+                    <div class="col-1-of-4">
                         <figure class="dev__shape">
-                            <img src="img/mentors/c2.jpg" alt="Tanish Gupta" class="dev__img">
-                            <figcaption class="dev__caption">Tanish Gupta</figcaption>
+                            <img src="img/mentors/commonMentor.png" alt="Jyotika Mahapatra" class="dev__img">
+                            <figcaption class="dev__caption">Jyotika Mahapatra</figcaption>
                         </figure>
-                        <div class="dev__name"><strong>Tanish Gupta</strong><br/>Mentor Coordinator</div>
+                        <div class="dev__name"><strong>Jyotika Mahapatra</strong><br/>Mentor Coordinator</div>
                         <a href="mailto:tanish@iitbhilai.ac.in" class="dev__profile">
                             <i class="far fa-envelope dev__profile--icon"></i>
                         </a>
@@ -123,12 +123,12 @@
                         </div>
                     </div>
 
-                    <div class="col-1-of-3">
+                    <div class="col-1-of-4">
                         <figure class="dev__shape">
-                            <img src="img/mentors/c3.jpg" alt="Sai Rishitha" class="dev__img">
-                            <figcaption class="dev__caption">Sai Rishitha</figcaption>
+                            <img src="img/mentors/commonMentor.png" alt="Saksham Mahajan" class="dev__img">
+                            <figcaption class="dev__caption">Saksham Mahajan</figcaption>
                         </figure>
-                        <div class="dev__name"><strong>Sai Rishitha</strong><br/>Mentor Coordinator</div>
+                        <div class="dev__name"><strong>Saksham Mahajan</strong><br/>Mentor Coordinator</div>
                         <a href="mailto:yashtiwari@iitbhilai.ac.in" class="dev__profile">
                             <i class="far fa-envelope dev__profile--icon"></i>
                         </a>
@@ -137,6 +137,23 @@
                         </a>
                         <div class="dev__phone">
                             <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 9381832710
+                        </div>
+                    </div>
+			
+			   <div class="col-1-of-4">
+                        <figure class="dev__shape">
+                            <img src="img/mentors/commonMentor.png" alt="Satwik Chowdary" class="dev__img">
+                            <figcaption class="dev__caption">Satwik Chowdary</figcaption>
+                        </figure>
+                        <div class="dev__name"><strong>Satwik Chowdary</strong><br/>Mentor Coordinator</div>
+                        <a href="mailto:shivak@iitbhilai.ac.in" class="dev__profile">
+                            <i class="far fa-envelope dev__profile--icon"></i>
+                        </a>
+                        <a href="https://www.facebook.com/shivakant.sonkar.94/" class="dev__profile">
+                            <i class="fab fa-facebook-f dev__profile--icon"></i>
+                        </a>
+                        <div class="dev__phone">
+                            <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 9511198303
                         </div>
                     </div>
 
