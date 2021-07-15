@@ -159,8 +159,8 @@
                 <div class="dev">
                     <div class="col-1-of-4">
                         <figure class="dev__shape">
-                            <img src="img/mentors/mentor1.jpg" alt="Abhinav Anand" class="dev__img">
-                            <figcaption class="dev__caption">Abhinav Anand</figcaption>
+                            <img src="img/mentors/commonMentors.png" alt="Ayush Ojha" class="dev__img">
+                            <figcaption class="dev__caption">Ayush Ojha</figcaption>
                         </figure>
                         <div class="dev__name">Ayush Ojha</div>
                         <a href="mailto:abhinava@iitbhilai.ac.in" class="dev__profile">
@@ -176,8 +176,8 @@
 
                     <div class="col-1-of-4">
                         <figure class="dev__shape">
-                            <img src="img/mentors/mentor2.jpg" alt="Aditya Keshari" class="dev__img">
-                            <figcaption class="dev__caption">Aditya Keshari</figcaption>
+                            <img src="img/mentors/commonMentors.png" alt="Satvik Vemuganti" class="dev__img">
+                            <figcaption class="dev__caption">Satvik Vemuganti</figcaption>
                         </figure>
                         <div class="dev__name">Satvik Vemuganti</div>
                         <a href="mailto:adityake@iitbhilai.ac.in" class="dev__profile">
