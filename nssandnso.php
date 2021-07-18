@@ -48,7 +48,7 @@
                 <div class="nss">
                     <h2 class="heading-secondary">National Service Scheme</h2>
                     <div class="info">
-                        <h3 class="heading-tertiary">General Secretary: Shalini Kumari </h3>
+                        <h3 class="heading-tertiary">General Secretary: Abhinav Anand </h3>
                     </div>
                     <div class="info">
                         <h3 class="heading-tertiary"><i class="far fa-dot-circle"></i> About</h3>
@@ -114,7 +114,7 @@
                 <div class="nso">
                     <h2 class="heading-secondary">National Sports Organisation</h2>
                     <div class="info">
-                        <h3 class="heading-tertiary">Secretary: Ritik Dhanore</h3>
+                        <h3 class="heading-tertiary">Secretary: Aryasomayajula Sri Koumudi</h3>
                     </div>
                     <div class="info">
                         <p class="info__text">The National Sports Organisation is intended by the Government of India to promote the development of athletics and sporting activities of the nation's youth. It is included in the extra-curricular activities of many students of IIT Bhilai . Each student has to complete 120 hrs in eight semesters. NSO includes all the sports provided by the Institute and students can choose any sport they like. Proper incharge are provided in every field of NSO program. For those who were in their school sports team, here is the way back to get on the same track.The motto of organisation is health and fitness as we also have activities like morning exercise and gym. NSO activities encourage us to remove all the limitations and have a shot at IIT Bhilai's sports team.</p>
