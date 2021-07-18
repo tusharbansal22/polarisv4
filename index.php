@@ -157,20 +157,22 @@
             <div class="container">
                 <div class="message">
                     <h2 class="heading-secondary">Message from <br><span>Council of Student Affairs</span></h2>
-                    <p class="message__text"><span>Dear friends,</span> <br><br>It is my immense pleasure to welcome all the freshmen of this new session. This year has not been an usual year for all of us as well as you all. But in spite of all these harsh conditions,you are not only safe but also make it to the prestigious IIT system. On the behalf of CoSA,I congratulate all of you for making it to IIT Bhilai. Being a young IIT,our student community is growing big and rich every year and hope you all will also contribute it towards positive direction. These upcoming years will be the best years of your life and we will work all way possible to make it happen. In college life,you get to know different people,indulge with different cultures,make friends for life(irrespective of juniors or seniors) and many more. We will assure you that you will be full of activities for this session in which you can explore yourself in different fields of life apart from academics such as sports,sci tech activities,culturals etc. I am sure you will enjoy your stay in IIT Bhilai and make it an unforgettable part of your life.</p><br>
-                    <p class="message__byline">With best wishes,<br>Mohit Sharma</p>
+                    <p class="message__text"><span>Dear friends,</span> <br><br>
+                        On behalf of CoSA, I would like to extend a warm and heartiest welcome to each one of you to IIT Bhilai. Past two years have been rough for all and yet you have made it to the prestigious IIT system. With all your efforts and patience paid off, the wait for the beginning of a completely new and exciting phase of your life as an IITian has now ended. Here you will find exceptional experiences which will help you to grow, develop, and explore new interests helping you fully realize your potential. We welcome you to witness a culture of diversity, tradition, commitment to academic excellence and a plethora of opportunities to grow and develop. These 4 years of under-graduate degree shall not only help in igniting the best of scholastic achievements but also endow you with a wide range of exploration and explication in all sorts of hobbies and pursuits. You make friends for life here, and small and significant steps will render you in becoming better humans and professionals in years to come. I am sure you will enjoy your stay at IIT Bhilai and will contribute to positive growth as a part of this esteemed institution.
+                    </p><br>
+                    <p class="message__byline">With best wishes,<br>Abhishek Yadav</p>
                     <div class="row">
                         <div class="dev">
                              <div class="col-1-of-4">
                                 <figure class="dev__shape">
-                                    <img src="img/mohit.jpg" alt="Mohit Sharma" class="dev__img dev__img--president">
-                                    <figcaption class="dev__caption">Mohit Sharma</figcaption>
+                                    <img src="img/President.jpg" alt="Abhishek Yadav" class="dev__img dev__img--president">
+                                    <figcaption class="dev__caption">Abhishek Yadav</figcaption>
                                 </figure>
                                 <div class="dev__name">President, CoSA</div>
                                 <a href="mailto:President_CoSA@iitbhilai.ac.in" class="dev__profile">
                                     <i class="far fa-envelope dev__profile--icon"></i>
                                 </a>
-                                <a href="https://www.facebook.com/profile.php?id=100028449066252" class="dev__profile">
+                                <a href="https://www.facebook.com/abhishek.yaduvanshi.758" class="dev__profile">
                                     <i class="fab fa-facebook-f dev__profile--icon"></i>
                                 </a>
                                 <!-- <div class="dev__phone">
