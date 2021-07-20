@@ -54,14 +54,14 @@
             <div class="modal-content">
                 <div class="modal-header">
                 <span class="close">&times;</span>
-                <h2>Checklist for Freshers 2020</h2>
+                <h2>Checklist for Freshers 2021</h2>
                 </div>
                 <div class="modal-body">
                     <ul>
 
-                    <li><strong>Important Notice</strong> Orientation Schedule <a href="Updated Day 4 Schedule.pdf" target="_blank" class="notification">Click Here!</a></li>
+                    <li><strong>Important Notice</strong> PG Orientation Schedule <a href="PG_orientation_2021.pdf" target="_blank" class="notification">Click Here!</a></li>
 
-                    <li><strong>Important Notice</strong> Admission due to covid <a href="Notice on admission due to covid.pdf" target="_blank" class="notification">Click Here!</a></li>
+                    <!-- <li><strong>Important Notice</strong> Admission due to covid <a href="Notice on admission due to covid.pdf" target="_blank" class="notification">Click Here!</a></li>
 
                         <li><strong>Important Notice</strong> Registration and Orientation program for the new BTech students 2020 <a href="orientation.pdf" target="_blank" class="notification">Click Here!</a></li>
 
@@ -72,7 +72,7 @@
                         
                         <li>For any queries regarding IIT Bhilai and 2020-21 admissions please feel free to contact any of the <a href="mentors.php" class="notification">Mentors.</a><br>
 
-            
+             -->
 
 
                     </ul>

@@ -641,6 +641,7 @@
 		
          <div class="row">
                 <div class="dev">
+            
                     <div class="col-1-of-4">
                         <figure class="dev__shape">
                             <img src="img/mentors/commonMentor.png" alt="Srilekha Kadambala" class="dev__img">
@@ -657,11 +658,6 @@
                             <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 9390099543
                         </div>
                     </div>
-
-                   
-			
-			
-			
                 </div>
             </div>
 
@@ -691,72 +687,56 @@
             </div>
             <div class="row">
                 <div class="dev">
-                  <div class="col-1-of-4">
-                      <figure class="dev__shape">
-                          <img src="img/mentors/p1.jpg" alt="Baruri Sai Avinash" class="dev__img">
-                          <figcaption class="dev__caption">Baruri Sai Avinash</figcaption>
-                      </figure>
-                      <div class="dev__name">Baruri Sai Avinash</div>
-                      <!-- <a href="mailto:ashishv@iitbhilai.ac.in" class="dev__profile">
-                          <i class="far fa-envelope dev__profile--icon"></i>
-                      </a> -->
-                       <!-- <a href="https://www.facebook.com/ashish.vishwakarma.353250" class="dev__profile">
-                          <i class="fab fa-facebook-f dev__profile--icon"></i>
-                      </a> -->
-                      <div class="dev__phone">
-                          <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 8688918090
-                      </div>
-                  </div>
 
-                  <div class="col-1-of-4">
-                      <figure class="dev__shape">
-                          <img src="img/mentors/p2.jpg" alt="Bikash Saha" class="dev__img">
-                          <figcaption class="dev__caption">Bikash Saha</figcaption>
+                  <div class="col-1-of-3">
+                        <figure class="dev__shape">
+                          <img src="img/mentors/pg1.jpg" alt="Shivani Valecha" class="dev__img">
+                          <figcaption class="dev__caption">Shivani Valecha</figcaption>
                       </figure>
-                      <div class="dev__name">Bikash Saha</div>
-                      <!-- <a href="mailto:debabrotas@iitbhilai.ac.in" class="dev__profile">
+                      <div class="dev__name">Shivani Valecha</div>
+                      <a href="mailto:shivaniv@iitbhilai.ac.in" class="dev__profile">
                           <i class="far fa-envelope dev__profile--icon"></i>
-                      </a> -->
-                      <a href="https://www.facebook.com/profile.php?id=100048880992279" class="dev__profile">
+                      </a>
+                      <a href="https://m.facebook.com/100040592702648/" class="dev__profile">
                           <i class="fab fa-facebook-f dev__profile--icon"></i>
                       </a>
                       <div class="dev__phone">
-                          <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 9932414062
+                          <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 7354523510
                       </div>
                   </div>
 
 
-                  <div class="col-1-of-4">
+                  <div class="col-1-of-3">
                       <figure class="dev__shape">
-                          <img src="img/mentors/p3.jpg" alt="Siddhartha Chatterjee" class="dev__img">
-                          <figcaption class="dev__caption">Siddhartha Chatterjee</figcaption>
+                          <img src="img/mentors/pg2.jpg" alt="Manas  Ranjan Samantaray" class="dev__img">
+                          <figcaption class="dev__caption">Manas  Ranjan Samantaray</figcaption>
                       </figure>
-                      <div class="dev__name">Siddhartha Chatterjee</div>
-                      <a href="mailto:siddharthac@iitbhilai.ac.in" class="dev__profile">
+                      <div class="dev__name">Manas  Ranjan Samantaray</div>
+                      <a href="mailto:manass@iitbhilai.ac.in" class="dev__profile">
                           <i class="far fa-envelope dev__profile--icon"></i>
                       </a>
-                      <a href="https://www.facebook.com/SidGoluDeva/" class="dev__profile">
+                      <a href="https://www.facebook.com/manasranjan.samantaray.33/" class="dev__profile">
                           <i class="fab fa-facebook-f dev__profile--icon"></i>
                       </a>
                       <div class="dev__phone">
-                          <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 9674515570
+                          <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 9443350925
                       </div>
                   </div>
 
-                  <div class="col-1-of-4">
+                  <div class="col-1-of-3">
                       <figure class="dev__shape">
-                          <img src="img/mentors/p4.jpg" alt="Vuppala Manish" class="dev__img">
-                          <figcaption class="dev__caption">Vuppala Manish</figcaption>
+                          <img src="img/mentors/commonMentor.png" alt="Jayant" class="dev__img">
+                          <figcaption class="dev__caption">Jayant</figcaption>
                       </figure>
-                      <div class="dev__name">Vuppala Manish</div>
-                      <a href="mailto:vmanish@iitbhilai.ac.in" class="dev__profile">
+                      <div class="dev__name">Jayant</div>
+                      <!-- <a href="mailto:vmanish@iitbhilai.ac.in" class="dev__profile">
                           <i class="far fa-envelope dev__profile--icon"></i>
                       </a>
                       <a href="https://www.facebook.com/vuppala.manish" class="dev__profile">
                           <i class="fab fa-facebook-f dev__profile--icon"></i>
-                      </a>
+                      </a> -->
                       <div class="dev__phone">
-                          <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 8985480995
+                          <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 9774961648
                       </div>
                   </div>
 
