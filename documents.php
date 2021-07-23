@@ -42,9 +42,9 @@
                   <p class="documents__text">The attached respective registration forms are necessary at the time of Registration.<br> Please download and fill the respective forms.</p>
                   <div class="bank">
                       <ul class="bank__list">
-                        <li class="bank__item"><i class="fas fa-download"></i>&nbsp; Registration Form for UG Students. <a href="Forms for BTech 1st Year Students 2020.pdf" download>Click Here!</a></li>
-                        <li class="bank__item"><i class="fas fa-download"></i>&nbsp; Registration Form for PG Students. <a href="PG forms for Registration.pdf" download>Click Here!</a></li>
-                        <li class="bank__item"><i class="fas fa-download"></i>&nbsp; Registration Form for M.Sc Students. <a href="Registration form @ 2020.pdf" download>Click Here!</a></li>
+                        <li class="bank__item"><i class="fas fa-download"></i>&nbsp; Registration Form for UG Students. <a href="./forms/ug.pdf" download>Click Here!</a></li>
+                        <li class="bank__item"><i class="fas fa-download"></i>&nbsp; Registration Form for PG Students. <a href="./forms/pg.pdf" download>Click Here!</a></li>
+                        <li class="bank__item"><i class="fas fa-download"></i>&nbsp; Registration Form for M.Sc Students. <a href="./forms/msc.pdf" download>Click Here!</a></li>
 
                       </ul>
                   </div>
@@ -86,9 +86,9 @@
             <div class="container">
                 <div class="fee">
                     <h2 class="heading-secondary"><span>Regarding Fee Payment</span></h2>
-                    <p class="fee__text">Fee Structure (Btech 2020-21) - <a href="FeeStructure2020_21BTech.pdf" target="_blank">Click Here!</a></p><br>
-                    <p class="fee__text">Fee Structure (Mtech/PhD) - <a href="Fee_structure.pdf" target="_blank">Click Here!</a></p><br>
-                    <p class="fee__text">Fee Structure (M.Sc) - <a href="FeeStructure2020-21MSc.pdf" target="_blank">Click Here!</a></p><br>
+                    <p class="fee__text">Fee Structure (Btech 2021-22) - <a href="./fee/FeeStructure2021_22-BTech.pdf" target="_blank">Click Here!</a></p><br>
+                    <p class="fee__text">Fee Structure (Mtech/PhD) - <a href="./fee/FeeStructure2021_22-Mtech-Phd.pdf" target="_blank">Click Here!</a></p><br>
+                    <p class="fee__text">Fee Structure (M.Sc) - <a href="./fee/FeeStructure2021_22-MSc.pdf" target="_blank">Click Here!</a></p><br>
 
                     <p class="fee__text">Generate the Fee Payment Challan through SBI Collect Payment Page. <a href="https://www.onlinesbi.com/sbicollect/icollecthome.htm" target="_blank">Click Here!</a><br>For procedure of payment through SBI Collect.<a href="Payment through SBI i collect.pdf" target="_blank"> Click Here!</a></p>
                     <p class="fee__text">No cash payment option will be available at the institute. As enquired for payment mode, following options are made available:</p>
