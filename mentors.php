@@ -56,7 +56,7 @@
                             <figcaption class="dev__caption">Dr. Rukmankesh</figcaption>
                         </figure>
                         <div class="dev__name"><strong>Dr. Rukmankesh</strong><br/>Faculty In-Charge</div>
-                        <a href="mailto:kuldeepk@iitbhilai.ac.in" class="dev__profile">
+                        <a href="mailto:rukmankesh@iitbhilai.ac.in" class="dev__profile">
                             <i class="far fa-envelope dev__profile--icon"></i>
                         </a>
                     </div>
@@ -67,7 +67,7 @@
                             <figcaption class="dev__caption">Dr. Kuldeep Kumar Kataria</figcaption>
                         </figure>
                         <div class="dev__name"><strong>Dr. Kuldeep Kumar Kataria</strong><br/>Member</div>
-                        <a href="mailto:rahul@iitbhilai.ac.in" class="dev__profile">
+                        <a href="mailto:kuldeepk@iitbhilai.ac.in" class="dev__profile">
                             <i class="far fa-envelope dev__profile--icon"></i>
                         </a>
                     </div>
@@ -95,14 +95,14 @@
                             <figcaption class="dev__caption">Jyotika Mahapatra</figcaption>
                         </figure>
                         <div class="dev__name"><strong>Jyotika Mahapatra</strong><br/>Mentor Coordinator</div>
-                        <a href="mailto:shivak@iitbhilai.ac.in" class="dev__profile">
+                        <a href="mailto:jyotikam@iitbhilai.ac.in" class="dev__profile">
                             <i class="far fa-envelope dev__profile--icon"></i>
                         </a>
-                        <a href="https://www.facebook.com/shivakant.sonkar.94/" class="dev__profile">
+                      <!--  <a href="https://www.facebook.com/shivakant.sonkar.94/" class="dev__profile">
                             <i class="fab fa-facebook-f dev__profile--icon"></i>
-                        </a>
+                        </a> -->
                         <div class="dev__phone">
-                            <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 9511198303
+                            <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 9078005048
                         </div>
                     </div>
 
@@ -112,14 +112,14 @@
                             <figcaption class="dev__caption">Pulkit Khandelwal</figcaption>
                         </figure>
                         <div class="dev__name"><strong>Pulkit Khandelwal</strong><br/>Mentor Coordinator</div>
-                        <a href="mailto:tanish@iitbhilai.ac.in" class="dev__profile">
+                        <a href="mailto:pulkitk@iitbhilai.ac.in" class="dev__profile">
                             <i class="far fa-envelope dev__profile--icon"></i>
                         </a>
-                        <a href="https://www.facebook.com/yash.tiwari.31149" class="dev__profile">
+                        <a href="https://www.facebook.com/pulkit.khandelwal.902" class="dev__profile">
                             <i class="fab fa-facebook-f dev__profile--icon"></i>
                         </a>
                         <div class="dev__phone">
-                            <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 9009303700
+                            <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 6397941528
                         </div>
                     </div>
 
