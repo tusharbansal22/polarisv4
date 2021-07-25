@@ -176,18 +176,18 @@
                 <div class="dev">
                     <div class="col-1-of-4">
                         <figure class="dev__shape">
-                            <img src="img/mentors/commonMentor.png" alt="Akshay Vijay Wairagade" class="dev__img">
+                            <img src="img/mentors/mentor1.jpg" alt="Akshay Vijay Wairagade" class="dev__img">
                             <figcaption class="dev__caption">Akshay Vijay Wairagade</figcaption>
                         </figure>
                         <div class="dev__name">Akshay Vijay Wairagade</div>
-                        <a href="mailto:abhinava@iitbhilai.ac.in" class="dev__profile">
+                        <a href="mailto:akshayvijay@iitbhilai.ac.in" class="dev__profile">
                             <i class="far fa-envelope dev__profile--icon"></i>
                         </a>
-                        <a href="https://www.facebook.com/profile.php?id=100007771815739" class="dev__profile">
+                        <a href="https://m.facebook.com/akshay.wairagade.9?ref=bookmarks" class="dev__profile">
                             <i class="fab fa-facebook-f dev__profile--icon"></i>
                         </a>
                         <div class="dev__phone">
-                            <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 7786875370
+                            <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 9403126214
                         </div>
                     </div>
 
@@ -197,14 +197,14 @@
                             <figcaption class="dev__caption">Ankith Masa</figcaption>
                         </figure>
                         <div class="dev__name">Ankith Masa</div>
-                        <a href="mailto:adityake@iitbhilai.ac.in" class="dev__profile">
+                        <a href="mailto:mankith@iitbhilai.ac.in" class="dev__profile">
                             <i class="far fa-envelope dev__profile--icon"></i>
                         </a>
-                        <a href="https://www.facebook.com/aditya.keshari.7169" class="dev__profile">
+                        <a href="https://www.facebook.com/ankith.masa.3" class="dev__profile">
                             <i class="fab fa-facebook-f dev__profile--icon"></i>
                         </a>
                         <div class="dev__phone">
-                            <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 9451840760
+                            <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 9652924327
                         </div>
                     </div>
 
@@ -214,14 +214,14 @@
                             <figcaption class="dev__caption">Ayush Ojha</figcaption>
                         </figure>
                         <div class="dev__name">Ayush Ojha</div>
-                        <a href="mailto:anjanak@iitbhilai.ac.in" class="dev__profile">
+                        <a href="mailto:ayushojha@iitbhilai.ac.in" class="dev__profile">
                             <i class="far fa-envelope dev__profile--icon"></i>
                         </a>
-                        <a href="https://www.facebook.com/anjana.kannan.1466" class="dev__profile">
+                        <a href="https://www.facebook.com/ayush.ojha.942" class="dev__profile">
                             <i class="fab fa-facebook-f dev__profile--icon"></i>
                         </a>
                         <div class="dev__phone">
-                            <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 8169331059
+                            <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 9305354902
                         </div>
                     </div>
 
@@ -231,14 +231,12 @@
                             <figcaption class="dev__caption">Ayushi Bharti</figcaption>
                         </figure>
                         <div class="dev__name">Ayushi Bharti</div>
-                        <a href="mailto:harshv@iitbhilai.ac.in" class="dev__profile">
+                        <a href="mailto:ayushibharti@iitbhilai.ac.in" class="dev__profile">
                             <i class="far fa-envelope dev__profile--icon"></i>
                         </a>
-                        <a href="https://www.facebook.com/profile.php?id=100013294293552" class="dev__profile">
-                            <i class="fab fa-facebook-f dev__profile--icon"></i>
-                        </a>
+                        
                         <div class="dev__phone">
-                            <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 8936060577
+                            <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 8102036440
                         </div>
                     </div>
 
