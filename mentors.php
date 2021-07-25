@@ -254,14 +254,12 @@
                             <figcaption class="dev__caption">Chinmay Ratnaparkhe</figcaption>
                         </figure>
                         <div class="dev__name">Chinmay Ratnaparkhe</div>
-                        <a href="mailto:harshils@iitbhilai.ac.in " class="dev__profile">
+                        <a href="mailto:chinmayratnaparkhe@iitbhilai.ac.in " class="dev__profile">
                             <i class="far fa-envelope dev__profile--icon"></i>
                         </a>
-                        <a href="https://www.instagram.com/harshil_singhal/" class="dev__profile">
-                            <i class="fab fa-facebook-f dev__profile--icon"></i>
-                        </a>
+                  
                         <div class="dev__phone">
-                            <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 9413886465
+                            <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 8291978374
                         </div>
                     </div>
 
@@ -271,14 +269,12 @@
                             <figcaption class="dev__caption">Harshita Sankhla</figcaption>
                         </figure>
                         <div class="dev__name">Harshita Sankhla</div>
-                        <a href="mailto:harshitj@iitbhilai.ac.in" class="dev__profile">
+                        <a href="mailto:harshitasankhla@iitbhilai.ac.in" class="dev__profile">
                             <i class="far fa-envelope dev__profile--icon"></i>
                         </a>
-                        <a href="https://www.facebook.com/harshit.jajodia.77" class="dev__profile">
-                            <i class="fab fa-facebook-f dev__profile--icon"></i>
-                        </a>
+                       
                         <div class="dev__phone">
-                            <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 9827998229
+                            <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 7568335745
                         </div>
                     </div>
 
@@ -288,14 +284,14 @@
                             <figcaption class="dev__caption">Harshith Naresh Chanduri</figcaption>
                         </figure>
                         <div class="dev__name">Harshith Naresh Chanduri</div>
-                        <a href="mailto:jyotikam@iitbhilai.ac.in" class="dev__profile">
+                        <a href="mailto:harshithnaresh@iitbhilai.ac.in" class="dev__profile">
                             <i class="far fa-envelope dev__profile--icon"></i>
                         </a>
-                        <!-- <a href="https://www.facebook.com/profile.php?id=100007771815739" class="dev__profile">
+                        <a href="https://www.facebook.com/harshith.chunduri/" class="dev__profile">
                             <i class="fab fa-facebook-f dev__profile--icon"></i>
-                        </a> -->
+                        </a> 
                         <div class="dev__phone">
-                            <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 9078005048
+                            <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 8919091531
                         </div>
                     </div>
 
@@ -305,14 +301,14 @@
                             <figcaption class="dev__caption">Hemant Gaur</figcaption>
                         </figure>
                         <div class="dev__name">Hemant Gaur</div>
-                        <a href="mailto:madhurb@iitbhilai.ac.in" class="dev__profile">
+                        <a href="mailto:hemantgaur@iitbhilai.ac.in" class="dev__profile">
                             <i class="far fa-envelope dev__profile--icon"></i>
                         </a>
-                        <a href="https://www.facebook.com/madhur.bhattad.5" class="dev__profile">
+                       <!-- <a href="https://www.facebook.com/madhur.bhattad.5" class="dev__profile">
                             <i class="fab fa-facebook-f dev__profile--icon"></i>
-                        </a>
+                        </a> -->
                         <div class="dev__phone">
-                            <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 8209129211
+                            <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 7742219107
                         </div>
                     </div>
 
@@ -330,14 +326,14 @@
                             <figcaption class="dev__caption">M Deepak Reddy</figcaption>
                         </figure>
                         <div class="dev__name">M Deepak Reddy</div>
-                        <a href="mailto:manasw@iitbhilai.ac.in" class="dev__profile">
+                        <a href="mailto:mulamallad@iitbhilai.ac.in" class="dev__profile">
                             <i class="far fa-envelope dev__profile--icon"></i>
                         </a>
-                        <a href="https://www.facebook.com/manas.wadhwa.92" class="dev__profile">
+                       <!-- <a href="https://www.facebook.com/manas.wadhwa.92" class="dev__profile">
                             <i class="fab fa-facebook-f dev__profile--icon"></i>
-                        </a>
+                        </a> -->
                         <div class="dev__phone">
-                            <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 9653940077
+                            <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 8106454796
                         </div>
                     </div>
 
@@ -347,14 +343,14 @@
                             <figcaption class="dev__caption">Madhur Jain</figcaption>
                         </figure>
                         <div class="dev__name">Madhur Jain</div>
-                        <a href="mailto:prachira@iitbhilai.ac.in" class="dev__profile">
+                        <a href="mailto:madhurjain@iitbhilai.ac.in" class="dev__profile">
                             <i class="far fa-envelope dev__profile--icon"></i>
                         </a>
-                        <a href="https://www.facebook.com/prachir.agrawal.5" class="dev__profile">
+                       <!-- <a href="https://www.facebook.com/prachir.agrawal.5" class="dev__profile">
                             <i class="fab fa-facebook-f dev__profile--icon"></i>
-                        </a>
+                        </a> -->
                         <div class="dev__phone">
-                            <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 8826678228
+                            <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 7015051279
                         </div>
                     </div>
 
@@ -364,14 +360,14 @@
                             <figcaption class="dev__caption">Mansi Garg</figcaption>
                         </figure>
                         <div class="dev__name">Mansi Garg</div>
-                        <a href="mailto:prakanshuls@iitbhilai.ac.in" class="dev__profile">
+                        <a href="mailto:mansigarg@iitbhilai.ac.in" class="dev__profile">
                             <i class="far fa-envelope dev__profile--icon"></i>
                         </a>
-                        <a href="https://www.facebook.com/prakanshul.saxena" class="dev__profile">
+                        <a href="https://www.facebook.com/mansi.garg.35728466" class="dev__profile">
                             <i class="fab fa-facebook-f dev__profile--icon"></i>
                         </a>
                         <div class="dev__phone">
-                            <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 8319446110
+                            <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 9711413075
                         </div>
                     </div>
 
@@ -409,14 +405,14 @@
                             <figcaption class="dev__caption">Parth Khandenath</figcaption>
                         </figure>
                         <div class="dev__name">Parth Khandenath</div>
-                        <a href="mailto:pulkitk@iitbhilai.ac.in" class="dev__profile">
+                        <a href="mailto:khandenathparth@iitbhilai.ac.in" class="dev__profile">
                             <i class="far fa-envelope dev__profile--icon"></i>
                         </a>
-                        <a href="https://www.facebook.com/pulkit.khandelwal.902" class="dev__profile">
+                       <!-- <a href="https://www.facebook.com/pulkit.khandelwal.902" class="dev__profile">
                             <i class="fab fa-facebook-f dev__profile--icon"></i>
-                        </a>
+                        </a> -->
                         <div class="dev__phone">
-                            <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 6397941528
+                            <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 9527857974
                         </div>
                     </div>
 
@@ -426,14 +422,14 @@
                             <figcaption class="dev__caption">Prakhar Sharma</figcaption>
                         </figure>
                         <div class="dev__name">Prakhar Sharma</div>
-                        <a href="mailto:rishabhr@iitbhilai.ac.in" class="dev__profile">
+                        <a href="mailto:prakharsharma@iitbhilai.ac.in" class="dev__profile">
                             <i class="far fa-envelope dev__profile--icon"></i>
                         </a>
-                        <a href="https://www.facebook.com/rishabh.ranjan.921025" class="dev__profile">
+                        <!-- <a href="https://www.facebook.com/rishabh.ranjan.921025" class="dev__profile">
                             <i class="fab fa-facebook-f dev__profile--icon"></i>
-                        </a>
+                        </a> -->
                         <div class="dev__phone">
-                            <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 9648210743
+                            <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 8741825419
                         </div>
                     </div>
 
@@ -443,14 +439,14 @@
                             <figcaption class="dev__caption">Prarabdh Shukla</figcaption>
                         </figure>
                         <div class="dev__name">Prarabdh Shukla</div>
-                        <a href="mailto:pervalar@iitbhilai.ac.in" class="dev__profile">
+                        <a href="mailto:prarabdhshukla@iitbhilai.ac.in" class="dev__profile">
                             <i class="far fa-envelope dev__profile--icon"></i>
                         </a>
                         <!-- <a href="https://www.facebook.com/prakanshul.saxena" class="dev__profile">
                             <i class="fab fa-facebook-f dev__profile--icon"></i>
                         </a> -->
                         <div class="dev__phone">
-                            <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 9177779460
+                            <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 9008876338
                         </div>
                     </div>
 
@@ -460,14 +456,14 @@
                             <figcaption class="dev__caption">Prathamesh Gujar</figcaption>
                         </figure>
                         <div class="dev__name">Prathamesh Gujar</div>
-                        <a href="mailto:dhanorer@iitbhilai.ac.in" class="dev__profile">
+                        <a href="mailto:prathameshgujar@iitbhilai.ac.in" class="dev__profile">
                             <i class="far fa-envelope dev__profile--icon"></i>
                         </a>
                         <!-- <a href="https://www.facebook.com/puja.bansal.7923" class="dev__profile">
                             <i class="fab fa-facebook-f dev__profile--icon"></i>
                         </a> -->
                         <div class="dev__phone">
-                            <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 9359348667
+                            <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 9371343262
                         </div>
                     </div>
 
@@ -488,14 +484,14 @@
                             <figcaption class="dev__caption">Riyanshi Goyal</figcaption>
                         </figure>
                         <div class="dev__name">Riyanshi Goyal</div>
-                        <!-- <a href="mailto:pulkitk@iitbhilai.ac.in" class="dev__profile">
+                        <a href="mailto:riyanshigoyal@iitbhilai.ac.in" class="dev__profile">
                             <i class="far fa-envelope dev__profile--icon"></i>
-                        </a> -->
-                        <a href="https://www.facebook.com/SaiRaveendraK" class="dev__profile">
+                        </a> 
+                        <a href="https://www.facebook.com/riyanshi.goyal.7146" class="dev__profile">
                             <i class="fab fa-facebook-f dev__profile--icon"></i>
                         </a>
                         <div class="dev__phone">
-                            <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 8919823114
+                            <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 9783346866
                         </div>
                     </div>
 
@@ -505,14 +501,14 @@
                             <figcaption class="dev__caption">Saivikas Thiruveedula</figcaption>
                         </figure>
                         <div class="dev__name">Saivikas Thiruveedula</div>
-                        <!-- <a href="mailto:rishabhr@iitbhilai.ac.in" class="dev__profile">
+                        <a href="mailto:thiruveedulas@iitbhilai.ac.in" class="dev__profile">
                             <i class="far fa-envelope dev__profile--icon"></i>
-                        </a> -->
-                        <a href="https://www.facebook.com/saksham.mahajan.378" class="dev__profile">
+                        </a> 
+                       <!-- <a href="https://www.facebook.com/saksham.mahajan.378" class="dev__profile">
                             <i class="fab fa-facebook-f dev__profile--icon"></i>
-                        </a>
+                        </a> -->
                         <div class="dev__phone">
-                            <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 9882730441
+                            <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 9701611775
                         </div>
                     </div>
 
@@ -522,14 +518,14 @@
                             <figcaption class="dev__caption">Sankalp Acharya</figcaption>
                         </figure>
                         <div class="dev__name">Sankalp Acharya</div>
-                        <a href="mailto:paladugus@iitbhilai.ac.in" class="dev__profile">
+                        <a href="mailto:sankalpacharya@iitbhilai.ac.in" class="dev__profile">
                             <i class="far fa-envelope dev__profile--icon"></i>
                         </a>
-                        <a href="https://www.facebook.com/profile.php?id=100013829739008" class="dev__profile">
+                        <a href="https://www.facebook.com/sankalp.acharya.90" class="dev__profile">
                             <i class="fab fa-facebook-f dev__profile--icon"></i>
                         </a>
                         <div class="dev__phone">
-                            <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 7569325049
+                            <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 9930801124
                         </div>
                     </div>
 
@@ -539,14 +535,14 @@
                             <figcaption class="dev__caption">Satvik Vemuganti</figcaption>
                         </figure>
                         <div class="dev__name">Satvik Vemuganti</div>
-                        <a href="mailto:shreyashd@iitbhilai.ac.in" class="dev__profile">
+                        <a href="mailto:thiruveedulas@iitbhilai.ac.in" class="dev__profile">
                             <i class="far fa-envelope dev__profile--icon"></i>
                         </a>
-                        <a href="https://www.facebook.com/shreyash.hambarde.5" class="dev__profile">
+                       <!-- <a href="https://www.facebook.com/shreyash.hambarde.5" class="dev__profile">
                             <i class="fab fa-facebook-f dev__profile--icon"></i>
-                        </a>
+                        </a> -->
                         <div class="dev__phone">
-                            <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 9691912621
+                            <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 9701611775
                         </div>
                     </div>
 
@@ -566,14 +562,14 @@
                             <figcaption class="dev__caption">Shaleen Malik</figcaption>
                         </figure>
                         <div class="dev__name">Shaleen Malik</div>
-                        <a href="mailto:srilekhak@iitbhilai.ac.in" class="dev__profile">
+                        <a href="mailto:shaleenmalik@iitbhilai.ac.in" class="dev__profile">
                             <i class="far fa-envelope dev__profile--icon"></i>
                         </a>
-                        <a href="https://www.facebook.com/srilekha.kadambala" class="dev__profile">
+                        <!-- <a href="https://www.facebook.com/srilekha.kadambala" class="dev__profile">
                             <i class="fab fa-facebook-f dev__profile--icon"></i>
-                        </a>
+                        </a> -->
                         <div class="dev__phone">
-                            <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 9390099543
+                            <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 8586867297
                         </div>
                     </div>
 
@@ -583,14 +579,14 @@
                             <figcaption class="dev__caption">Tallapaka Lahari Sreeja</figcaption>
                         </figure>
                         <div class="dev__name">Tallapaka Lahari Sreeja</div>
-                        <a href="mailto:utkarshsa@iitbhilai.ac.in" class="dev__profile">
+                        <a href="mailto:tallapakalahari@iitbhilai.ac.in" class="dev__profile">
                             <i class="far fa-envelope dev__profile--icon"></i>
                         </a>
-                        <a href="https://www.facebook.com/profile.php?id=100008774653282" class="dev__profile">
+                       <!-- <a href="https://www.facebook.com/profile.php?id=100008774653282" class="dev__profile">
                             <i class="fab fa-facebook-f dev__profile--icon"></i>
-                        </a>
+                        </a> -->
                         <div class="dev__phone">
-                            <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 9359340476
+                            <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 8639852921
                         </div>
                     </div>
 			
@@ -602,14 +598,14 @@
                             <figcaption class="dev__caption">Tanmay Vijay Patil</figcaption>
                         </figure>
                         <div class="dev__name">Tanmay Vijay Patil</div>
-                        <a href="mailto:utkarshsa@iitbhilai.ac.in" class="dev__profile">
+                        <a href="mailto:patiltanmay@iitbhilai.ac.in" class="dev__profile">
                             <i class="far fa-envelope dev__profile--icon"></i>
                         </a>
-                        <a href="https://www.facebook.com/profile.php?id=100008774653282" class="dev__profile">
+                        <a href="https://www.facebook.com/profile.php?id=100057371503002" class="dev__profile">
                             <i class="fab fa-facebook-f dev__profile--icon"></i>
                         </a>
                         <div class="dev__phone">
-                            <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 9359340476
+                            <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 9021928939
                         </div>
                     </div>
 			
@@ -619,14 +615,14 @@
                             <figcaption class="dev__caption">Vanisha Agrawal</figcaption>
                         </figure>
                         <div class="dev__name">Vanisha Agrawal</div>
-                        <a href="mailto:utkarshsa@iitbhilai.ac.in" class="dev__profile">
+                        <a href="mailto:vanishaagrawal@iitbhilai.ac.in" class="dev__profile">
                             <i class="far fa-envelope dev__profile--icon"></i>
                         </a>
-                        <a href="https://www.facebook.com/profile.php?id=100008774653282" class="dev__profile">
+                        <a href="https://www.facebook.com/vanisha.agrawal.3" class="dev__profile">
                             <i class="fab fa-facebook-f dev__profile--icon"></i>
                         </a>
                         <div class="dev__phone">
-                            <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 9359340476
+                            <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 9981090998
                         </div>
                     </div>
 			
@@ -646,14 +642,14 @@
                             <figcaption class="dev__caption">Yash Teckchandani</figcaption>
                         </figure>
                         <div class="dev__name">Yash Teckchandani</div>
-                        <a href="mailto:srilekhak@iitbhilai.ac.in" class="dev__profile">
+                        <a href="mailto:yashteckchandani@iitbhilai.ac.in" class="dev__profile">
                             <i class="far fa-envelope dev__profile--icon"></i>
                         </a>
-                        <a href="https://www.facebook.com/srilekha.kadambala" class="dev__profile">
+                       <!-- <a href="https://www.facebook.com/profile.php?id=100010032721325" class="dev__profile">
                             <i class="fab fa-facebook-f dev__profile--icon"></i>
-                        </a>
+                        </a> -->
                         <div class="dev__phone">
-                            <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 9390099543
+                            <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 07049500872
                         </div>
                     </div>
                 </div>
