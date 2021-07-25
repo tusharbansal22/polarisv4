@@ -91,7 +91,7 @@
 
                     <div class="col-1-of-4">
                         <figure class="dev__shape">
-                            <img src="img/mentors/commonMentor.png" alt="Jyotika Mahapatra" class="dev__img">
+                            <img src="img/mentors/c1.jpg" alt="Jyotika Mahapatra" class="dev__img">
                             <figcaption class="dev__caption">Jyotika Mahapatra</figcaption>
                         </figure>
                         <div class="dev__name"><strong>Jyotika Mahapatra</strong><br/>Mentor Coordinator</div>
@@ -108,7 +108,7 @@
 
                     <div class="col-1-of-4">
                         <figure class="dev__shape">
-                            <img src="img/mentors/commonMentor.png" alt="Pulkit Khandelwal" class="dev__img">
+                            <img src="img/mentors/c2.jpg" alt="Pulkit Khandelwal" class="dev__img">
                             <figcaption class="dev__caption">Pulkit Khandelwal</figcaption>
                         </figure>
                         <div class="dev__name"><strong>Pulkit Khandelwal</strong><br/>Mentor Coordinator</div>
@@ -142,18 +142,18 @@
 			
 			   <div class="col-1-of-4">
                         <figure class="dev__shape">
-                            <img src="img/mentors/commonMentor.png" alt="Satwik Chowdary" class="dev__img">
+                            <img src="img/mentors/c3.jpg" alt="Satwik Chowdary" class="dev__img">
                             <figcaption class="dev__caption">Satwik Chowdary</figcaption>
                         </figure>
                         <div class="dev__name"><strong>Satwik Chowdary</strong><br/>Mentor Coordinator</div>
-                        <a href="mailto:shivak@iitbhilai.ac.in" class="dev__profile">
+                        <a href="mailto:paladugus@iitbhilai.ac.in" class="dev__profile">
                             <i class="far fa-envelope dev__profile--icon"></i>
                         </a>
-                        <a href="https://www.facebook.com/shivakant.sonkar.94/" class="dev__profile">
+                        <a href="https://www.facebook.com/profile.php?id=100013829739008" class="dev__profile">
                             <i class="fab fa-facebook-f dev__profile--icon"></i>
                         </a>
                         <div class="dev__phone">
-                            <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 9511198303
+                            <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 7569325049
                         </div>
                     </div>
 
