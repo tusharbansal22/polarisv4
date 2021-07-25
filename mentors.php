@@ -558,7 +558,7 @@
                 <div class="dev">
                     <div class="col-1-of-4">
                         <figure class="dev__shape">
-                            <img src="img/mentors/Mentor21.pdf" alt="Shaleen Malik" class="dev__img">
+                            <img src="img/mentors/Mentor21.jpg" alt="Shaleen Malik" class="dev__img">
                             <figcaption class="dev__caption">Shaleen Malik</figcaption>
                         </figure>
                         <div class="dev__name">Shaleen Malik</div>
