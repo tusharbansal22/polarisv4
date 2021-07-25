@@ -91,10 +91,10 @@
 
                     <div class="col-1-of-4">
                         <figure class="dev__shape">
-                            <img src="img/mentors/commonMentor.png" alt="Pulkit Khandelwal" class="dev__img">
-                            <figcaption class="dev__caption">Pulkit Khandelwal</figcaption>
+                            <img src="img/mentors/commonMentor.png" alt="Jyotika Mahapatra" class="dev__img">
+                            <figcaption class="dev__caption">Jyotika Mahapatra</figcaption>
                         </figure>
-                        <div class="dev__name"><strong>Pulkit Khandelwal</strong><br/>Mentor Coordinator</div>
+                        <div class="dev__name"><strong>Jyotika Mahapatra</strong><br/>Mentor Coordinator</div>
                         <a href="mailto:shivak@iitbhilai.ac.in" class="dev__profile">
                             <i class="far fa-envelope dev__profile--icon"></i>
                         </a>
@@ -108,10 +108,10 @@
 
                     <div class="col-1-of-4">
                         <figure class="dev__shape">
-                            <img src="img/mentors/commonMentor.png" alt="Jyotika Mahapatra" class="dev__img">
-                            <figcaption class="dev__caption">Jyotika Mahapatra</figcaption>
+                            <img src="img/mentors/commonMentor.png" alt="Pulkit Khandelwal" class="dev__img">
+                            <figcaption class="dev__caption">Pulkit Khandelwal</figcaption>
                         </figure>
-                        <div class="dev__name"><strong>Jyotika Mahapatra</strong><br/>Mentor Coordinator</div>
+                        <div class="dev__name"><strong>Pulkit Khandelwal</strong><br/>Mentor Coordinator</div>
                         <a href="mailto:tanish@iitbhilai.ac.in" class="dev__profile">
                             <i class="far fa-envelope dev__profile--icon"></i>
                         </a>
@@ -176,10 +176,10 @@
                 <div class="dev">
                     <div class="col-1-of-4">
                         <figure class="dev__shape">
-                            <img src="img/mentors/commonMentor.png" alt="Ayush Ojha" class="dev__img">
-                            <figcaption class="dev__caption">Ayush Ojha</figcaption>
+                            <img src="img/mentors/commonMentor.png" alt="Akshay Vijay Wairagade" class="dev__img">
+                            <figcaption class="dev__caption">Akshay Vijay Wairagade</figcaption>
                         </figure>
-                        <div class="dev__name">Ayush Ojha</div>
+                        <div class="dev__name">Akshay Vijay Wairagade</div>
                         <a href="mailto:abhinava@iitbhilai.ac.in" class="dev__profile">
                             <i class="far fa-envelope dev__profile--icon"></i>
                         </a>
@@ -193,10 +193,10 @@
 
                     <div class="col-1-of-4">
                         <figure class="dev__shape">
-                            <img src="img/mentors/commonMentor.png" alt="Satvik Vemuganti" class="dev__img">
-                            <figcaption class="dev__caption">Satvik Vemuganti</figcaption>
+                            <img src="img/mentors/commonMentor.png" alt="Ankith Masa" class="dev__img">
+                            <figcaption class="dev__caption">Ankith Masa</figcaption>
                         </figure>
-                        <div class="dev__name">Satvik Vemuganti</div>
+                        <div class="dev__name">Ankith Masa</div>
                         <a href="mailto:adityake@iitbhilai.ac.in" class="dev__profile">
                             <i class="far fa-envelope dev__profile--icon"></i>
                         </a>
@@ -210,10 +210,10 @@
 
                     <div class="col-1-of-4">
                         <figure class="dev__shape">
-                            <img src="img/mentors/commonMentor.png" alt="Harshith Naresh Chanduri" class="dev__img">
-                            <figcaption class="dev__caption"></figcaption>
+                            <img src="img/mentors/commonMentor.png" alt="Ayush Ojha" class="dev__img">
+                            <figcaption class="dev__caption">Ayush Ojha</figcaption>
                         </figure>
-                        <div class="dev__name">Harshith Naresh Chanduri</div>
+                        <div class="dev__name">Ayush Ojha</div>
                         <a href="mailto:anjanak@iitbhilai.ac.in" class="dev__profile">
                             <i class="far fa-envelope dev__profile--icon"></i>
                         </a>
@@ -227,10 +227,10 @@
 
                     <div class="col-1-of-4">
                         <figure class="dev__shape">
-                            <img src="img/mentors/commonMentor.png" alt="Harsh Vardhan" class="dev__img">
-                            <figcaption class="dev__caption">Harsh Vardhan</figcaption>
+                            <img src="img/mentors/commonMentor.png" alt="Ayushi Bharti" class="dev__img">
+                            <figcaption class="dev__caption">Ayushi Bharti</figcaption>
                         </figure>
-                        <div class="dev__name">Nikhil Chaudhary</div>
+                        <div class="dev__name">Ayushi Bharti</div>
                         <a href="mailto:harshv@iitbhilai.ac.in" class="dev__profile">
                             <i class="far fa-envelope dev__profile--icon"></i>
                         </a>
@@ -252,10 +252,10 @@
                 <div class="dev">
                     <div class="col-1-of-4">
                         <figure class="dev__shape">
-                            <img src="img/mentors/commonMentor.png" alt="Harshil Singhal" class="dev__img">
-                            <figcaption class="dev__caption">Harshil Singhal</figcaption>
+                            <img src="img/mentors/commonMentor.png" alt="Chinmay Ratnaparkhe" class="dev__img">
+                            <figcaption class="dev__caption">Chinmay Ratnaparkhe</figcaption>
                         </figure>
-                        <div class="dev__name">Madhur Jain</div>
+                        <div class="dev__name">Chinmay Ratnaparkhe</div>
                         <a href="mailto:harshils@iitbhilai.ac.in " class="dev__profile">
                             <i class="far fa-envelope dev__profile--icon"></i>
                         </a>
@@ -269,10 +269,10 @@
 
                     <div class="col-1-of-4">
                         <figure class="dev__shape">
-                            <img src="img/mentors/commonMentor.png" alt="Harshit Jajodia" class="dev__img">
-                            <figcaption class="dev__caption">Harshit Jajodia</figcaption>
+                            <img src="img/mentors/commonMentor.png" alt="Harshita Sankhla" class="dev__img">
+                            <figcaption class="dev__caption">Harshita Sankhla</figcaption>
                         </figure>
-                        <div class="dev__name">Sankalp Acharya</div>
+                        <div class="dev__name">Harshita Sankhla</div>
                         <a href="mailto:harshitj@iitbhilai.ac.in" class="dev__profile">
                             <i class="far fa-envelope dev__profile--icon"></i>
                         </a>
@@ -286,10 +286,10 @@
 
                     <div class="col-1-of-4">
                         <figure class="dev__shape">
-                            <img src="img/mentors/commonMentor.png" alt="Jyotika Mahapatra" class="dev__img">
-                            <figcaption class="dev__caption">Jyotika Mahapatra</figcaption>
+                            <img src="img/mentors/commonMentor.png" alt="Harshith Naresh Chanduri" class="dev__img">
+                            <figcaption class="dev__caption">Harshith Naresh Chanduri</figcaption>
                         </figure>
-                        <div class="dev__name">Yash Teckchandani</div>
+                        <div class="dev__name">Harshith Naresh Chanduri</div>
                         <a href="mailto:jyotikam@iitbhilai.ac.in" class="dev__profile">
                             <i class="far fa-envelope dev__profile--icon"></i>
                         </a>
@@ -303,10 +303,10 @@
 
                     <div class="col-1-of-4">
                         <figure class="dev__shape">
-                            <img src="img/mentors/commonMentor.png" alt="Madhur Bhattad" class="dev__img">
-                            <figcaption class="dev__caption">Madhur Bhattad</figcaption>
+                            <img src="img/mentors/commonMentor.png" alt="Hemant Gaur" class="dev__img">
+                            <figcaption class="dev__caption">Hemant Gaur</figcaption>
                         </figure>
-                        <div class="dev__name">Chinmay Ratnaparkhe</div>
+                        <div class="dev__name">Hemant Gaur</div>
                         <a href="mailto:madhurb@iitbhilai.ac.in" class="dev__profile">
                             <i class="far fa-envelope dev__profile--icon"></i>
                         </a>
@@ -328,10 +328,10 @@
                 <div class="dev">
                     <div class="col-1-of-4">
                         <figure class="dev__shape">
-                            <img src="img/mentors/commonMentor.png" alt="Manas Wadhwa" class="dev__img">
-                            <figcaption class="dev__caption">Manas Wadhwa</figcaption>
+                            <img src="img/mentors/commonMentor.png" alt="M Deepak Reddy" class="dev__img">
+                            <figcaption class="dev__caption">M Deepak Reddy</figcaption>
                         </figure>
-                        <div class="dev__name">Prathamesh Gujar</div>
+                        <div class="dev__name">M Deepak Reddy</div>
                         <a href="mailto:manasw@iitbhilai.ac.in" class="dev__profile">
                             <i class="far fa-envelope dev__profile--icon"></i>
                         </a>
@@ -345,10 +345,10 @@
 
                     <div class="col-1-of-4">
                         <figure class="dev__shape">
-                            <img src="img/mentors/commonMentor.png" alt="Prachir Agrawal" class="dev__img">
-                            <figcaption class="dev__caption">Prachir Agrawal</figcaption>
+                            <img src="img/mentors/commonMentor.png" alt="Madhur Jain" class="dev__img">
+                            <figcaption class="dev__caption">Madhur Jain</figcaption>
                         </figure>
-                        <div class="dev__name">Patil Tanmay Vijay</div>
+                        <div class="dev__name">Madhur Jain</div>
                         <a href="mailto:prachira@iitbhilai.ac.in" class="dev__profile">
                             <i class="far fa-envelope dev__profile--icon"></i>
                         </a>
@@ -362,10 +362,10 @@
 
                     <div class="col-1-of-4">
                         <figure class="dev__shape">
-                            <img src="img/mentors/commonMentor.png" alt="Prakanshul Saxena" class="dev__img">
-                            <figcaption class="dev__caption">Prakanshul Saxena</figcaption>
+                            <img src="img/mentors/commonMentor.png" alt="Mansi Garg" class="dev__img">
+                            <figcaption class="dev__caption">Mansi Garg</figcaption>
                         </figure>
-                        <div class="dev__name">Akshay Vijay Wairagade</div>
+                        <div class="dev__name">Mansi Garg</div>
                         <a href="mailto:prakanshuls@iitbhilai.ac.in" class="dev__profile">
                             <i class="far fa-envelope dev__profile--icon"></i>
                         </a>
@@ -379,10 +379,10 @@
 
                     <div class="col-1-of-4">
                         <figure class="dev__shape">
-                            <img src="img/mentors/commonMentor.png" alt="Puja Bansal" class="dev__img">
-                            <figcaption class="dev__caption">Puja Bansal</figcaption>
+                            <img src="img/mentors/commonMentor.png" alt="Nikhil Chaudhary" class="dev__img">
+                            <figcaption class="dev__caption">Nikhil Chaudhary</figcaption>
                         </figure>
-                        <div class="dev__name">M Deepak Reddy</div>
+                        <div class="dev__name">Nikhil Chaudhary</div>
                         <a href="mailto:pujab@iitbhilai.ac.in" class="dev__profile">
                             <i class="far fa-envelope dev__profile--icon"></i>
                         </a>
@@ -407,10 +407,10 @@
                 <div class="dev">
                     <div class="col-1-of-4">
                         <figure class="dev__shape">
-                            <img src="img/mentors/commonMentor.png" alt="Pulkit Khandelwal" class="dev__img">
-                            <figcaption class="dev__caption">Pulkit Khandelwal</figcaption>
+                            <img src="img/mentors/commonMentor.png" alt="Parth Khandenath" class="dev__img">
+                            <figcaption class="dev__caption">Parth Khandenath</figcaption>
                         </figure>
-                        <div class="dev__name">Ankith Masa</div>
+                        <div class="dev__name">Parth Khandenath</div>
                         <a href="mailto:pulkitk@iitbhilai.ac.in" class="dev__profile">
                             <i class="far fa-envelope dev__profile--icon"></i>
                         </a>
@@ -424,8 +424,8 @@
 
                     <div class="col-1-of-4">
                         <figure class="dev__shape">
-                            <img src="img/mentors/commonMentor.png" alt="Rishabh Ranjan" class="dev__img">
-                            <figcaption class="dev__caption">Rishabh Ranjan</figcaption>
+                            <img src="img/mentors/commonMentor.png" alt="Prakhar Sharma" class="dev__img">
+                            <figcaption class="dev__caption">Prakhar Sharma</figcaption>
                         </figure>
                         <div class="dev__name">Prakhar Sharma</div>
                         <a href="mailto:rishabhr@iitbhilai.ac.in" class="dev__profile">
@@ -441,10 +441,10 @@
 
                     <div class="col-1-of-4">
                         <figure class="dev__shape">
-                            <img src="img/mentors/commonMentor.png" alt="Rithvika Pervala" class="dev__img">
-                            <figcaption class="dev__caption">Rithvika Pervala</figcaption>
+                            <img src="img/mentors/commonMentor.png" alt="Prarabdh Shukla" class="dev__img">
+                            <figcaption class="dev__caption">Prarabdh Shukla</figcaption>
                         </figure>
-                        <div class="dev__name">Saivikas Thiruveedula</div>
+                        <div class="dev__name">Prarabdh Shukla</div>
                         <a href="mailto:pervalar@iitbhilai.ac.in" class="dev__profile">
                             <i class="far fa-envelope dev__profile--icon"></i>
                         </a>
@@ -458,10 +458,10 @@
 
                     <div class="col-1-of-4">
                         <figure class="dev__shape">
-                            <img src="img/mentors/commonMentor.png" alt="Ritik Dhanore" class="dev__img">
-                            <figcaption class="dev__caption">Ritik Dhanore</figcaption>
+                            <img src="img/mentors/commonMentor.png" alt="Prathamesh Gujar" class="dev__img">
+                            <figcaption class="dev__caption">Prathamesh Gujar</figcaption>
                         </figure>
-                        <div class="dev__name">Hemant Gaur</div>
+                        <div class="dev__name">Prathamesh Gujar</div>
                         <a href="mailto:dhanorer@iitbhilai.ac.in" class="dev__profile">
                             <i class="far fa-envelope dev__profile--icon"></i>
                         </a>
@@ -486,10 +486,10 @@
                 <div class="dev">
                     <div class="col-1-of-4">
                         <figure class="dev__shape">
-                            <img src="img/mentors/commonMentor.png" alt="Sai Raveendra Kandregula" class="dev__img">
-                            <figcaption class="dev__caption">Sai Raveendra Kandregula</figcaption>
+                            <img src="img/mentors/commonMentor.png" alt="Riyanshi Goyal" class="dev__img">
+                            <figcaption class="dev__caption">Riyanshi Goyal</figcaption>
                         </figure>
-                        <div class="dev__name">Parth Khandenath</div>
+                        <div class="dev__name">Riyanshi Goyal</div>
                         <!-- <a href="mailto:pulkitk@iitbhilai.ac.in" class="dev__profile">
                             <i class="far fa-envelope dev__profile--icon"></i>
                         </a> -->
@@ -503,10 +503,10 @@
 
                     <div class="col-1-of-4">
                         <figure class="dev__shape">
-                            <img src="img/mentors/commonMentor.png" alt="Saksham Mahajan" class="dev__img">
-                            <figcaption class="dev__caption">Saksham Mahajan</figcaption>
+                            <img src="img/mentors/commonMentor.png" alt="Saivikas Thiruveedula" class="dev__img">
+                            <figcaption class="dev__caption">Saivikas Thiruveedula</figcaption>
                         </figure>
-                        <div class="dev__name">Prarabdh Shukla</div>
+                        <div class="dev__name">Saivikas Thiruveedula</div>
                         <!-- <a href="mailto:rishabhr@iitbhilai.ac.in" class="dev__profile">
                             <i class="far fa-envelope dev__profile--icon"></i>
                         </a> -->
@@ -520,10 +520,10 @@
 
                     <div class="col-1-of-4">
                         <figure class="dev__shape">
-                            <img src="img/mentors/commonMentor.png" alt="Satwik Chowdary" class="dev__img">
-                            <figcaption class="dev__caption">Satwik Chowdary</figcaption>
+                            <img src="img/mentors/commonMentor.png" alt="Sankalp Acharya" class="dev__img">
+                            <figcaption class="dev__caption">Sankalp Acharya</figcaption>
                         </figure>
-                        <div class="dev__name">Tallapaka Lahari Sreeja</div>
+                        <div class="dev__name">Sankalp Acharya</div>
                         <a href="mailto:paladugus@iitbhilai.ac.in" class="dev__profile">
                             <i class="far fa-envelope dev__profile--icon"></i>
                         </a>
@@ -537,10 +537,10 @@
 
                     <div class="col-1-of-4">
                         <figure class="dev__shape">
-                            <img src="img/mentors/commonMentor.png" alt="Shreyash Hambarde" class="dev__img">
-                            <figcaption class="dev__caption">Shreyash Hambarde</figcaption>
+                            <img src="img/mentors/commonMentor.png" alt="Satvik Vemuganti" class="dev__img">
+                            <figcaption class="dev__caption">Satvik Vemuganti</figcaption>
                         </figure>
-                        <div class="dev__name">Vanisha Agrawal</div>
+                        <div class="dev__name">Satvik Vemuganti</div>
                         <a href="mailto:shreyashd@iitbhilai.ac.in" class="dev__profile">
                             <i class="far fa-envelope dev__profile--icon"></i>
                         </a>
@@ -564,10 +564,10 @@
                 <div class="dev">
                     <div class="col-1-of-4">
                         <figure class="dev__shape">
-                            <img src="img/mentors/commonMentor.png" alt="Srilekha Kadambala" class="dev__img">
-                            <figcaption class="dev__caption">Srilekha Kadambala</figcaption>
+                            <img src="img/mentors/commonMentor.png" alt="Shaleen Malik" class="dev__img">
+                            <figcaption class="dev__caption">Shaleen Malik</figcaption>
                         </figure>
-                        <div class="dev__name">Riyanshi Goyal</div>
+                        <div class="dev__name">Shaleen Malik</div>
                         <a href="mailto:srilekhak@iitbhilai.ac.in" class="dev__profile">
                             <i class="far fa-envelope dev__profile--icon"></i>
                         </a>
@@ -581,10 +581,10 @@
 
                     <div class="col-1-of-4">
                         <figure class="dev__shape">
-                            <img src="img/mentors/commonMentor.png" alt="Utkarsh Alpuria" class="dev__img">
-                            <figcaption class="dev__caption">Utkarsh Alpuria</figcaption>
+                            <img src="img/mentors/commonMentor.png" alt="Tallapaka Lahari Sreeja" class="dev__img">
+                            <figcaption class="dev__caption">Tallapaka Lahari Sreeja</figcaption>
                         </figure>
-                        <div class="dev__name">Harshita Sankhla</div>
+                        <div class="dev__name">Tallapaka Lahari Sreeja</div>
                         <a href="mailto:utkarshsa@iitbhilai.ac.in" class="dev__profile">
                             <i class="far fa-envelope dev__profile--icon"></i>
                         </a>
@@ -600,10 +600,10 @@
 			
 			 <div class="col-1-of-4">
                         <figure class="dev__shape">
-                            <img src="img/mentors/commonMentor.png" alt="Utkarsh Alpuria" class="dev__img">
-                            <figcaption class="dev__caption">Utkarsh Alpuria</figcaption>
+                            <img src="img/mentors/commonMentor.png" alt="Tanmay Vijay Patil" class="dev__img">
+                            <figcaption class="dev__caption">Tanmay Vijay Patil</figcaption>
                         </figure>
-                        <div class="dev__name">Mansi Garg</div>
+                        <div class="dev__name">Tanmay Vijay Patil</div>
                         <a href="mailto:utkarshsa@iitbhilai.ac.in" class="dev__profile">
                             <i class="far fa-envelope dev__profile--icon"></i>
                         </a>
@@ -617,10 +617,10 @@
 			
 			 <div class="col-1-of-4">
                         <figure class="dev__shape">
-                            <img src="img/mentors/commonMentor.png" alt="Utkarsh Alpuria" class="dev__img">
-                            <figcaption class="dev__caption">Utkarsh Alpuria</figcaption>
+                            <img src="img/mentors/commonMentor.png" alt="Vanisha Agrawal" class="dev__img">
+                            <figcaption class="dev__caption">Vanisha Agrawal</figcaption>
                         </figure>
-                        <div class="dev__name">Ayushi Bharti</div>
+                        <div class="dev__name">Vanisha Agrawal</div>
                         <a href="mailto:utkarshsa@iitbhilai.ac.in" class="dev__profile">
                             <i class="far fa-envelope dev__profile--icon"></i>
                         </a>
@@ -644,10 +644,10 @@
             
                     <div class="col-1-of-4">
                         <figure class="dev__shape">
-                            <img src="img/mentors/commonMentor.png" alt="Srilekha Kadambala" class="dev__img">
-                            <figcaption class="dev__caption">Srilekha Kadambala</figcaption>
+                            <img src="img/mentors/commonMentor.png" alt="Yash Teckchandani" class="dev__img">
+                            <figcaption class="dev__caption">Yash Teckchandani</figcaption>
                         </figure>
-                        <div class="dev__name">Shaleen Malik</div>
+                        <div class="dev__name">Yash Teckchandani</div>
                         <a href="mailto:srilekhak@iitbhilai.ac.in" class="dev__profile">
                             <i class="far fa-envelope dev__profile--icon"></i>
                         </a>
