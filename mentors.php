@@ -142,7 +142,7 @@
 			
 			   <div class="col-1-of-4">
                         <figure class="dev__shape">
-                            <img src="img/mentors/c3.jpg" alt="Satwik Chowdary" class="dev__img">
+                            <img src="img/mentors/c4.jpg" alt="Satwik Chowdary" class="dev__img">
                             <figcaption class="dev__caption">Satwik Chowdary</figcaption>
                         </figure>
                         <div class="dev__name"><strong>Satwik Chowdary</strong><br/>Mentor Coordinator</div>
