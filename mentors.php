@@ -176,7 +176,7 @@
                 <div class="dev">
                     <div class="col-1-of-4">
                         <figure class="dev__shape">
-                            <img src="img/mentors/mentor1.jpg" alt="Akshay Vijay Wairagade" class="dev__img">
+                            <img src="img/mentors/Mentor1.jpg" alt="Akshay Vijay Wairagade" class="dev__img">
                             <figcaption class="dev__caption">Akshay Vijay Wairagade</figcaption>
                         </figure>
                         <div class="dev__name">Akshay Vijay Wairagade</div>
