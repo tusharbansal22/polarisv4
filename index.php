@@ -392,6 +392,51 @@
                     <!-- <div class="col-1-of-4">&nbsp;</div> -->
                 </div>
             </div>
+             
+            
+            
+             <div class="row">
+                <div class="dev">
+                    <!-- <div class="col-1-of-4">&nbsp;</div> -->
+
+                    <div class="col-1-of-2">
+                        <figure class="dev__shape">
+                            <img src="img/mentors/commonMentor.png" alt="Nikhil Chaudhary" class="dev__img">
+                            <figcaption class="dev__caption">Nikhil Chaudhary</figcaption>
+                        </figure>
+                        <div class="dev__name"><strong>Nikhil Chaudharyl</strong><br/>Website Manager - 2020</div>
+                        <a href="mailto:prachira@iitbhilai.ac.in" class="dev__profile">
+                            <i class="far fa-envelope dev__profile--icon"></i>
+                        </a>
+                        <a href="https://www.facebook.com/prachir.agrawal.5" target="_blank" class="dev__profile">
+                            <i class="fab fa-facebook-f dev__profile--icon"></i>
+                        </a>
+                        <div class="dev__phone">
+                            <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 8826678228
+                        </div>
+                    </div>
+
+                    <div class="col-1-of-2">
+                        <figure class="dev__shape">
+                            <img src="img/devs/vanisha.jpg" alt="Vanisha Agrawal" class="dev__img">
+                            <figcaption class="dev__caption">Vanisha Agrawal</figcaption>
+                        </figure>
+                        <div class="dev__name"><strong>Vanisha Agrawal</strong><br/>Website Manager - 2020</div>
+                        <a href="mailto:vanishaagrawal@iitbhilai.ac.in" class="dev__profile">
+                            <i class="far fa-envelope dev__profile--icon"></i>
+                        </a>
+                        <a href="https://www.facebook.com/vanisha.agrawal.3" target="_blank" class="dev__profile">
+                            <i class="fab fa-facebook-f dev__profile--icon"></i>
+                        </a>
+                        <div class="dev__phone">
+                            <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 9981090998
+                        </div>
+                    </div>
+
+
+                    <!-- <div class="col-1-of-4">&nbsp;</div> -->
+                </div>
+            </div>
 
         </section>
 
