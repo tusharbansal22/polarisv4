@@ -52,7 +52,7 @@
                 <div class="dev">
                     <div class="col-1-of-3">
                         <figure class="dev__shape">
-                            <img src="img/mentors/commonMentor.png" alt="Dr. Rukmankesh" class="dev__img">
+                            <img src="img/mentors/fic.jpg" alt="Dr. Rukmankesh" class="dev__img">
                             <figcaption class="dev__caption">Dr. Rukmankesh</figcaption>
                         </figure>
                         <div class="dev__name"><strong>Dr. Rukmankesh</strong><br/>Faculty In-Charge</div>
@@ -125,18 +125,18 @@
 
                     <div class="col-1-of-4">
                         <figure class="dev__shape">
-                            <img src="img/mentors/commonMentor.png" alt="Saksham Mahajan" class="dev__img">
+                            <img src="img/mentors/sak.jpg" alt="Saksham Mahajan" class="dev__img">
                             <figcaption class="dev__caption">Saksham Mahajan</figcaption>
                         </figure>
                         <div class="dev__name"><strong>Saksham Mahajan</strong><br/>Mentor Coordinator</div>
-                        <a href="mailto:yashtiwari@iitbhilai.ac.in" class="dev__profile">
+                        <a href="mailto:sakshamm@iitbhilai.ac.in" class="dev__profile">
                             <i class="far fa-envelope dev__profile--icon"></i>
                         </a>
-                        <a href="https://www.facebook.com/yash.tiwari.31149" class="dev__profile">
+                        <!-- <a href="https://www.facebook.com/yash.tiwari.31149" class="dev__profile">
                             <i class="fab fa-facebook-f dev__profile--icon"></i>
-                        </a>
+                        </a> -->
                         <div class="dev__phone">
-                            <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 9381832710
+                            <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 9882730441
                         </div>
                     </div>
 			
@@ -373,18 +373,18 @@
 
                     <div class="col-1-of-4">
                         <figure class="dev__shape">
-                            <img src="img/mentors/commonMentor.png" alt="Nikhil Chaudhary" class="dev__img">
+                            <img src="img/mentors/mentor12.jpg" alt="Nikhil Chaudhary" class="dev__img">
                             <figcaption class="dev__caption">Nikhil Chaudhary</figcaption>
                         </figure>
                         <div class="dev__name">Nikhil Chaudhary</div>
-                        <a href="mailto:pujab@iitbhilai.ac.in" class="dev__profile">
+                        <a href="mailto:nikhilch@iitbhilai.ac.in" class="dev__profile">
                             <i class="far fa-envelope dev__profile--icon"></i>
                         </a>
-                        <a href="https://www.facebook.com/puja.bansal.7923" class="dev__profile">
+                        <!-- <a href="https://www.facebook.com/puja.bansal.7923" class="dev__profile">
                             <i class="fab fa-facebook-f dev__profile--icon"></i>
-                        </a>
+                        </a> -->
                         <div class="dev__phone">
-                            <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 7062327494
+                            <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 8529781270
                         </div>
                     </div>
 
@@ -719,14 +719,14 @@
 
                   <div class="col-1-of-3">
                       <figure class="dev__shape">
-                          <img src="img/mentors/commonMentor.png" alt="Jayant" class="dev__img">
-                          <figcaption class="dev__caption">Jayant</figcaption>
+                          <img src="img/mentors/jayant.jpg" alt="Jayanta" class="dev__img">
+                          <figcaption class="dev__caption">Jayanta</figcaption>
                       </figure>
-                      <div class="dev__name">Jayant</div>
-                      <!-- <a href="mailto:vmanish@iitbhilai.ac.in" class="dev__profile">
+                      <div class="dev__name">Jayanta</div>
+                      <a href="mailto:jayantad@iitbhilai.ac.in" class="dev__profile">
                           <i class="far fa-envelope dev__profile--icon"></i>
                       </a>
-                      <a href="https://www.facebook.com/vuppala.manish" class="dev__profile">
+                      <!-- <a href="https://www.facebook.com/vuppala.manish" class="dev__profile">
                           <i class="fab fa-facebook-f dev__profile--icon"></i>
                       </a> -->
                       <div class="dev__phone">
