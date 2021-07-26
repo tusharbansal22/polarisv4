@@ -356,7 +356,7 @@
 
                     <div class="col-1-of-2">
                         <figure class="dev__shape">
-                            <img src="img/mentors/mentor10.jpg" alt="Prachir Agrawal" class="dev__img">
+                            <img src="img/devs/prachir.jpg" alt="Prachir Agrawal" class="dev__img">
                             <figcaption class="dev__caption">Prachir Agrawal</figcaption>
                         </figure>
                         <div class="dev__name"><strong>Prachir Agrawal</strong><br/>Website Manager - 2020</div>
@@ -373,7 +373,7 @@
 
                     <div class="col-1-of-2">
                         <figure class="dev__shape">
-                            <img src="img/mentors/mentor11.jpg" alt="Prakanshul Saxena" class="dev__img">
+                            <img src="img/devs/prakanshul.jpg" alt="Prakanshul Saxena" class="dev__img">
                             <figcaption class="dev__caption">Prakanshul Saxena</figcaption>
                         </figure>
                         <div class="dev__name"><strong>Prakanshul Saxena</strong><br/>Website Manager - 2020</div>
