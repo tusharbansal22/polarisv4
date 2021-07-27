@@ -48,19 +48,22 @@
 
                 <div class="clubs">
 
-                    <h3 class="heading-tertiary">President - Mohit Sharma</h3>
+                    <h3 class="heading-tertiary">President - Abhisekh Yadav</h3>
 
-                    <p class="clubs__text">On the behalf of CoSA, I congratulate all of you for making it to IIT Bhilai. Being a young IIT, our student community is growing big and rich every year and hope you all will also contribute in marching foward towards positive direction. These upcoming years will be the best years of your life and we will work all way possible to make it happen. In college life,you get to know different people, indulge with different cultures, make friends for life(irrespective of juniors or seniors) and many more. We assure you that you will have lot of activities this session in which you can explore yourself in different fields of life apart from academics such as sports, sci-tech activities, culturals etc. I am sure you will enjoy your stay in IIT Bhilai and make it an unforgettable part of your life.</p>
+                    <p class="clubs__text">
+                    On behalf of CoSA, I would like to extend a warm and heartiest welcome to each one of you to IIT Bhilai. Past two years have been rough for all and yet you have made it to the prestigious IIT system. With all your efforts and patience paid off, the wait for the beginning of a completely new and exciting phase of your life as an IITian has now ended. Here you will find exceptional experiences which will help you to grow, develop, and explore new interests helping you fully realize your potential. We welcome you to witness a culture of diversity, tradition, commitment to academic excellence and a plethora of opportunities to grow and develop. These 4 years of under-graduate degree shall not only help in igniting the best of scholastic achievements but also endow you with a wide range of exploration and explication in all sorts of hobbies and pursuits. You make friends for life here, and small and significant steps will render you in becoming better humans and professionals in years to come. I am sure you will enjoy your stay at IIT Bhilai and will contribute to positive growth as a part of this esteemed institution.
 
-                    <p class="outreach__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Follow us:</span> <a href="https://www.facebook.com/IITBhilai.Cult/" class="outreach__link">Facebook</a>, <a href="https://www.instagram.com/invites/contact/?i=12z1v3ln7vkge&utm_content=gvasybz" class="outreach__link">Instagram</a></p>
+                    </p>
+
+                    <!-- <p class="outreach__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Follow us:</span> <a href="https://www.facebook.com/IITBhilai.Cult/" class="outreach__link">Facebook</a>, <a href="https://www.instagram.com/invites/contact/?i=12z1v3ln7vkge&utm_content=gvasybz" class="outreach__link">Instagram</a></p> -->
                     <br>
 
-                    <h3 class="heading-tertiary">General Secretary of Cultural Affairs - Prachir Agrawal</h3>
-                    <h3 class="heading-tertiary">General Secretary of Games & Sports Affairs - Porash Chauhan</h3>
-                    <h3 class="heading-tertiary">General Secretary SciTech - Chirag Poonia</h3>
-                    <h3 class="heading-tertiary">General Secretary of Academic Affairs - Shaswat Jaiswal</h3>
-                    <h3 class="heading-tertiary">Events Head - Hemanthu Sai Ram</h3>
-                    <h3 class="heading-tertiary">Treasurer - Pritesh Roshan</h3>
+                    <h3 class="heading-tertiary">General Secretary of Cultural Affairs - Sai Raveendra</h3>
+                    <h3 class="heading-tertiary">General Secretary of Games & Sports Affairs - Utkarsh Nigam</h3>
+                    <h3 class="heading-tertiary">General Secretary SciTech - Rishabh Ranjan</h3>
+                    <h3 class="heading-tertiary">General Secretary of Academic Affairs - Anjana Kannan</h3>
+                    <h3 class="heading-tertiary">Events Head - Ankit Masa</h3>
+                    <h3 class="heading-tertiary">Treasurer - Shubham Patel</h3>
 
                     <br>
 
