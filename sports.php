@@ -49,13 +49,13 @@
                 <div class="clubs">
                     <p class="outreach__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Follow us:</span> <a href="https://www.facebook.com/SportsIITBhilai/" class="outreach__link">Facebook</a></p>
                     <br>
-                    <h3 class="heading-tertiary">General Secretary - Porash Chauhan</h3>
+                    <h3 class="heading-tertiary">General Secretary - Utkarsh Nigam</h3>
                     <p class="clubs__text">Education &mdash; for many this is probably one of the most important factors of our lives and from a very young age children work their way through the education system before being able to make their own decisions about whether to continue their learning through college, university and further education. As part of our educational syllabus we are expected to learn about a number of subjects, however, one of particular interest to us is physical education and sports, as they have a massive part to play within the education system. Sports teach us key values such as: Teamwork, Respect, Passion, Hard work and many other key attributes that help towards developing an individual’s character. Presence of good sports facilities is a vital tool in developing the above skills. The following sections elaborate on the sports facilities present at IIT Bhilai which will help the students to tackle the challenging curriculum with renewed vigour. For indoor games there is a recreation room in both the hostels. It houses T.T., board games, pool and Television facilities.</p>
                 </div>
 
                 <div class="sports">
                     <h3 class="heading-tertiary">Cricket</h3>
-                    <p class="sports__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Co-ordinator:</span> Utkarsh Nigam</p><br>
+                    <p class="sports__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Co-ordinator:</span> Vikas Dusad</p><br>
                     <p class="sports__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Facilities: </span>The club is provided with many facilities ranging from the cricket kits to the flood lights for the practice sessions. The club has a spectacular ground behind Academic Block. The ground has a well maintained pitch with a clean outfield. We are setting up cricket nets for practice in preparation for inter IIT sports meet and various other tournaments. </p><br>
 
                     <p class="sports__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Past Events: </span> Prayatna 2k18</p><br>
@@ -67,7 +67,7 @@
 
                 <div class="sports">
                     <h3 class="heading-tertiary">Badminton</h3>
-                    <p class="sports__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Co-ordinator:</span> Prakanshul Saxena</p><br>
+                    <p class="sports__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Co-ordinator:</span> Madhur Jain</p><br>
                     <p class="sports__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Facilities: </span>We have four badminton courts and we are planning for renewal of the courts. Two of the courts are in Castle Ena and two are in Castle Dio. </p><br>
 
                     <p class="sports__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Objective: </span> Objective is to provide the new comers an environment where along the academics they will find that sports play a vital role in our life.</p><br>
@@ -87,7 +87,7 @@
 
                 <div class="sports">
                     <h3 class="heading-tertiary">Basketball</h3>
-                    <p class="sports__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Co-ordinator:</span> Deepak Kumar</p><br>
+                    <p class="sports__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Co-ordinator:</span> Gitank Sagar</p><br>
                     <p class="sports__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Facilities: </span>There is an outdoor basketball court of standard dimensions with asphalt flooring open for everyone all round the day and night. We have our own Basketball coach available for training and support. </p><br>
 
                     <p class="sports__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Events Organised: </span>Basketball was one of the sports in the intra-IIT Sports League, Prayatna which is held annually in the winter semester. The Basketball team of IIT Bhilai participated in NITR's sports fest Samar, and secured 3rd position.</p><br>
@@ -131,7 +131,7 @@
 
                 <div class="sports">
                     <h3 class="heading-tertiary">Football</h3>
-                    <p class="sports__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Co-ordinator:</span> Vipeen Kumar</p><br>
+                    <p class="sports__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Co-ordinator:</span> Ansh Azad</p><br>
                     <p class="sports__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;With almost of thirty regular members, the football club of IIT Bhilai is still growing. We have a standard size football ground and posts. Football came to the lime light during PRAYATNA which is held as a part of our sports curriculum where it became a huge success. Our passionate group of people is led by our coach, Mr. Sumit Tiwari who has a reputation for himself which stands undisputed. We have players who, given the opportunity have potential to prove themselves very valuable on the field. We are yet to represent ourselves in the Inter IIT Sports Meet but that is not an issue anymore, as from this year onwards we have a very capable team that can and will cause serious competition in the tournament. We have also planned to participate in the local football tournaments organised by other institutes and organisations that will contribute to our growth and evolve us into better players. </p>
                 </div>
 
@@ -139,7 +139,7 @@
 
                 <div class="sports">
                     <h3 class="heading-tertiary">Chess Club</h3>
-                    <p class="sports__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Co-ordinator:</span> Saksham Mahajan</p><br>
+                    <p class="sports__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Co-ordinator:</span> Vanisha Agarwal</p><br>
                     <p class="sports__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>About: </span>Chess is a combination of art, knowledge, game and risk. The complexity of chess is incomprehensible. And that’s what makes it beautiful, elegant and artistic. </p> <br>
 
                     <p class="sports__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Objective: </span>Our objective is to form a community of vibrant chess players. Also a strong chess team to represent IIT-Bhilai in inter-IITs and other national level tournaments. </p> <br>
@@ -160,7 +160,7 @@
 
                 <div class="sports">
                     <h3 class="heading-tertiary">Volleyball</h3>
-                    <p class="sports__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Co-ordinator:</span> Yaswanth Kumar</p><br>
+                    <p class="sports__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Co-ordinator:</span> Prakhar Sharma</p><br>
                     <p class="sports__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>About: </span>Our volleyball team was one of the first teams to participate in the inter iit sports meet organized by iit Madras. We have a great team and a wonderful captain Bapuji raj who lead us in inter iit sports meet. Our volleyball court is available 24x7 with sufficient lighting for night matches also.</p> <br>
 
                     <p class="sports__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Facilities: </span>We have a great coach ‘Sumit Tiwari’ who is friendly to interact with. We have proper equipment for practice.</p> <br>

@@ -47,12 +47,12 @@
             <div class="container">
                 <h2 class="heading-secondary">Sci-tech Clubs</h2>
                 <div class="clubs">
-                  <h3 class="heading-tertiary">General Secretary - Chirag Poonia</h3>
+                  <h3 class="heading-tertiary">General Secretary - Rishabh Ranjan</h3>
                     <p class="clubs__text">We all, as a part of an elite league of institutes, aspire to work at the frontiers of human knowledge, innovate technology, initiate revolutions in science and propel national development to new heights. But often in such a competitive environment, work is stressed to the point of mania and this is when comes in the need of recreation. Rediscover your hobbies and explore new ones with Clubs at IIT Bhilai. Mind you there is absolutely no bound on anyone’s interest which also means that there is no bound on how many clubs you can be in – it is all up to you. Currently the following clubs are functional and conduct their respective activities at a regular basis:</p>
                 </div>
                 <div class="scitech">
                    <h3 class="heading-tertiary">Developers Student Club - by Google Developers</h3>
-                   <p class="scitech__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Lead:</span>Debajyoti Halder</p><br>
+                   <p class="scitech__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Lead:</span> TBA</p><br>
                    <p class="scitech__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>About:</span> Developer Student Clubs or DSC is a University Program kickstarted by Google Developers to train thousands of student developers globally and work with their communities to solve real-life problems. DSC IIT Bhilai was set-up primarily to ensure that we can bridge the divide between a student’s eagerness to learn and the technology evolving every day.
                      The Developer Student Clubs (DSC) program is a grassroots channel through which the members of the community provide development skills for students, towards employability. In addition to workshops, DSCs also provide an opportunity for students to apply their newly gained skills to develop solutions for local organizations and then provide visibility via showcases.We will be taking up projects and any individual, group or organization with a good idea for a project and a thought to create an impact by making lives of people better will be welcome. We welcome all the development projects that involve the latest technologies like App development, Machine Learning, Web Development, Cloud Development and much more.</p><br>
                    <p class="scitech__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Keypoints: </span></p>
@@ -71,7 +71,7 @@
 
                 <div class="scitech">
                     <h3 class="heading-tertiary">The Space Exploration Society (SES)</h3>
-                    <p class="scitech__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Co-ordinator:</span> Rishabh Ranjan</p><br>
+                    <p class="scitech__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Co-ordinator:</span> Ansh Gangwar and Tanmay Patil</p><br>
                     <p class="scitech__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>About:</span> SES is an astronomical and aeromodelling society that seeks to provide a platform for conducting activities in the fields of observational astronomy, theoretical astrophysics, and aerospace engineering. All the members are really passionate about physics related to Black Holes, Dark Energy, Galactic Dynamics, Space Shuttles and many more topics. Also the members are involved in various projects related to aerospace engineering such as building RC planes and drones. The members are highly interactive on such topics and you will definitely enjoy the conversation if you have a keen interest in the field of astronautics, astronomy and astrophysics.
 </p><br>
                     <p class="scitech__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Activities planned for upcoming semester:</span></p>
@@ -90,7 +90,7 @@
 
                 <div class="scitech">
                     <h3 class="heading-tertiary">Electromos</h3>
-                    <p class="scitech__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Co-ordinator:</span> Sai Teja Suggala</p><br>
+                    <p class="scitech__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Co-ordinator:</span> Rithvika Pervala</p><br>
                     <p class="scitech__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>About:</span>  Electromos is the electronics club of IIT Bhilai and has been the most active club in IIT Bhilai. The club organises various workshops and events to motivate students to bring their innovative ideas to real-life projects. Hands-on experience with Arduino , Raspberry Pi and various cool projects attract students of all the disciplines. Students can get electrical components from the club to build their own projects and also provide support ,guidance and ways to help students realise their conceptual designs to working models. The Club also organises many activities like seminars, exhibitions, webinars and a hackathon. </p><br>
                     <p class="scitech__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Objectives and Ideas:</span></p>
 
@@ -124,7 +124,7 @@
 
                 <div class="scitech">
                     <h3 class="heading-tertiary">Ingenuity</h3>
-                    <p class="scitech__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Co-ordinator:</span> Shashwat Jaiswal</p><br>
+                    <p class="scitech__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Co-ordinator:</span> Harsh Vardhan</p><br>
                     <p class="scitech__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>About:</span>  The coding club of IIT Bhilai. With Competitive Programming at its nucleus, this      club’s sole motive is to propel IIT Bhilai’s coding culture to its acme. We relish this sport and   hope to introduce its vitality at an early stage so as to imbibe ingenuine fancies in one to excel in various events of consequential international stature like the ACM-ICPC et alia. </p><br>
 
                     <p class="scitech__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Activities:</span></p>
@@ -141,7 +141,7 @@
 
                 <div class="scitech">
                     <h3 class="heading-tertiary">The Epsilon Club</h3>
-                    <p class="scitech__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Co-ordinator:</span> Abhinav Anand</p><br>
+                    <p class="scitech__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Co-ordinator:</span> Mansi Garg</p><br>
                     <p class="scitech__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>About:</span> Indian Institute Of Technology Bhilai has emerged as one of the most fastest growing institutes in India. Being started in 2016, it gives a strong platform for the students who have great talent, skills &amp; have achieved excellence in the field of academics. The Epsilon Club, a club under the Science &amp; Technology Clubs, IIT Bhilai, is a prodigious &amp; one of the most appreciated feature of this Institute. The idea of providing a common platform for students interested in Robotics is what makes it different from other clubs. The main motive of the club is to provide a really strong platform for bringing his/her ideas on Robotics or Basic Sciences, into reality. The Club provides all the necessary assistance for the same. Alongwith, there are several other club activities discussed below. With the motto of “IMAGINE, INVENT, INSPIRE” the club came into establishment in April 2017. Our esteemed group shares a common passion for the field of Robotics &amp; for the field of Basic Sciences.</p><br>
 
                     <p class="scitech__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Activities:</span></p>
