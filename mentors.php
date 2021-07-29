@@ -480,7 +480,7 @@
                 <div class="dev">
                     <div class="col-1-of-4">
                         <figure class="dev__shape">
-                            <img src="img/mentors/Mentor17.jpg" alt="Riyanshi Goyal" class="dev__img">
+                            <img src="img/mentors/Mentor17.jpeg" alt="Riyanshi Goyal" class="dev__img">
                             <figcaption class="dev__caption">Riyanshi Goyal</figcaption>
                         </figure>
                         <div class="dev__name">Riyanshi Goyal</div>
@@ -531,7 +531,7 @@
 
                     <div class="col-1-of-4">
                         <figure class="dev__shape">
-                            <img src="img/mentors/Mentor20.jpeg" alt="Satvik Vemuganti" class="dev__img">
+                            <img src="img/mentors/Mentor20.jpg" alt="Satvik Vemuganti" class="dev__img">
                             <figcaption class="dev__caption">Satvik Vemuganti</figcaption>
                         </figure>
                         <div class="dev__name">Satvik Vemuganti</div>
