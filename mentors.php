@@ -280,7 +280,7 @@
 
                     <div class="col-1-of-4">
                         <figure class="dev__shape">
-                            <img src="img/mentors/Mentor7.jpeg" alt="Harshith Naresh Chanduri" class="dev__img">
+                            <img src="img/mentors/Mentor7.jpeg" alt="Harshith Naresh Chunduri" class="dev__img">
                             <figcaption class="dev__caption">Harshith Naresh Chanduri</figcaption>
                         </figure>
                         <div class="dev__name">Harshith Naresh Chanduri</div>
@@ -542,7 +542,7 @@
                             <i class="fab fa-facebook-f dev__profile--icon"></i>
                         </a> -->
                         <div class="dev__phone">
-                            <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 9701611775
+                            <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 7013962027
                         </div>
                     </div>
 
