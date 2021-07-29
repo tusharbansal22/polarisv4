@@ -281,9 +281,9 @@
                     <div class="col-1-of-4">
                         <figure class="dev__shape">
                             <img src="img/mentors/Mentor7.jpeg" alt="Harshith Naresh Chunduri" class="dev__img">
-                            <figcaption class="dev__caption">Harshith Naresh Chanduri</figcaption>
+                            <figcaption class="dev__caption">Harshith Naresh Chunduri</figcaption>
                         </figure>
-                        <div class="dev__name">Harshith Naresh Chanduri</div>
+                        <div class="dev__name">Harshith Naresh Chunduri</div>
                         <a href="mailto:harshithnaresh@iitbhilai.ac.in" class="dev__profile">
                             <i class="far fa-envelope dev__profile--icon"></i>
                         </a>
