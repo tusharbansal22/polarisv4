@@ -435,7 +435,7 @@
 
                     <div class="col-1-of-4">
                         <figure class="dev__shape">
-                            <img src="img/mentors/Mentor15.jpeg" alt="Prarabdh Shukla" class="dev__img">
+                            <img src="img/mentors/Mentor15.jpg" alt="Prarabdh Shukla" class="dev__img">
                             <figcaption class="dev__caption">Prarabdh Shukla</figcaption>
                         </figure>
                         <div class="dev__name">Prarabdh Shukla</div>
