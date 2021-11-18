@@ -280,10 +280,10 @@
 
                     <div class="col-1-of-4">
                         <figure class="dev__shape">
-                            <img src="img/mentors/Mentor7.jpeg" alt="Harshith Naresh Chanduri" class="dev__img">
-                            <figcaption class="dev__caption">Harshith Naresh Chanduri</figcaption>
+                            <img src="img/mentors/Mentor7.jpeg" alt="Harshith Naresh Chunduri" class="dev__img">
+                            <figcaption class="dev__caption">Harshith Naresh Chunduri</figcaption>
                         </figure>
-                        <div class="dev__name">Harshith Naresh Chanduri</div>
+                        <div class="dev__name">Harshith Naresh Chunduri</div>
                         <a href="mailto:harshithnaresh@iitbhilai.ac.in" class="dev__profile">
                             <i class="far fa-envelope dev__profile--icon"></i>
                         </a>
@@ -480,7 +480,7 @@
                 <div class="dev">
                     <div class="col-1-of-4">
                         <figure class="dev__shape">
-                            <img src="img/mentors/Mentor17.jpg" alt="Riyanshi Goyal" class="dev__img">
+                            <img src="img/mentors/Mentor17.jpeg" alt="Riyanshi Goyal" class="dev__img">
                             <figcaption class="dev__caption">Riyanshi Goyal</figcaption>
                         </figure>
                         <div class="dev__name">Riyanshi Goyal</div>
@@ -531,7 +531,7 @@
 
                     <div class="col-1-of-4">
                         <figure class="dev__shape">
-                            <img src="img/mentors/Mentor20.jpeg" alt="Satvik Vemuganti" class="dev__img">
+                            <img src="img/mentors/Mentor20.jpg" alt="Satvik Vemuganti" class="dev__img">
                             <figcaption class="dev__caption">Satvik Vemuganti</figcaption>
                         </figure>
                         <div class="dev__name">Satvik Vemuganti</div>
@@ -542,7 +542,7 @@
                             <i class="fab fa-facebook-f dev__profile--icon"></i>
                         </a> -->
                         <div class="dev__phone">
-                            <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 9701611775
+                            <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 7013962027
                         </div>
                     </div>
 
