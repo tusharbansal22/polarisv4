@@ -278,7 +278,7 @@ We, at DesignX, wish to channel that Creativity to more Artistic and Practical T
 
                 <div class="cultural">
                     <h3 class="heading-tertiary">FPS - The Film Production Society</h3>
-                    <p class="cultural__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Secretary:</span>  Ankit Masa</p><br>
+                    <p class="cultural__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Secretary:</span>  Atharva Shendage and Vanisha Agrawal</p><br>
                     <p class="cultural__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Description:</span> One of the newest clubs of IIT Bhilai. The ideal club to get your filmmaking skills out to people. The club is responsible for all the video related activities at IIT Bhilai from Fresher intro video to Short movie making. This most versatile club will give you an all round experience beginning from story writing, scripting, screenplay to acting, shooting and video editing.
 FPS also organises competitions and workshops on video editing, short film making and short movie making.
 
