@@ -58,7 +58,7 @@
                     <ul>
 
                     <!-- <li><strong>Important Notice</strong> PG Orientation Schedule <a href="PG_orientation_2021.pdf" target="_blank" class="notification">Click Here!</a></li> -->
-                    <li><strong>Important Notice</strong> UG Orientation Schedule <a href="UG_orientation_2021.pdf" target="_blank" class="notification">Click Here!</a></li>
+                    <li><strong>Important Notice</strong> BTech-2021 Orientation Schedule <a href="UG_orientation_2021.pdf" target="_blank" class="notification">Click Here!</a></li>
 
                     <!-- <li><strong>Important Notice</strong> Admission due to covid <a href="Notice on admission due to covid.pdf" target="_blank" class="notification">Click Here!</a></li>
 

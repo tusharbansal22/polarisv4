@@ -69,6 +69,10 @@
                         <li class="bank__item"><i class="fas fa-download"></i>&nbsp; Affidavit <a href="Affidavit.pdf" download>Click Here!</a></li>
                         <li class="bank__item"><i class="fas fa-download"></i>&nbsp; No subsidy under CSIS declaration <a href="No subsidy under CSIS declaration.pdf" download>Click Here!</a></li>
                         <li class="bank__item"><i class="fas fa-download"></i>&nbsp; PDC letter <a href="PDC letter.pdf" download>Click Here!</a></li>
+                        
+                        <li class="bank__item"><i class="fas fa-download"></i>&nbsp; Check List for IIT Bhilai <a href="check_list.odt" download>Click Here!</a></li>
+                        <li class="bank__item"><i class="fas fa-download"></i>&nbsp; Gap Certificate <a href="gap_certificate.odt" download>Click Here!</a></li>
+                        <li class="bank__item"><i class="fas fa-download"></i>&nbsp; Reimbursement of acceptance fee & registration fee <a href="reimbursement_of_acceptance_fee_and_registration_fee.odt" download>Click Here!</a></li>
 
                       </ul>
                   </div>
