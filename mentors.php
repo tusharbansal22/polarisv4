@@ -52,7 +52,7 @@
                 <div class="dev">
                     <div class="col-1-of-3">
                         <figure class="dev__shape">
-                            <img src="img/mentors/fic.jpg" alt="Dr. Rukmankesh" class="dev__img">
+                            <img src="img/mentors/fic.jpeg" alt="Dr. Rukmankesh" class="dev__img">
                             <figcaption class="dev__caption">Dr. Rukmankesh</figcaption>
                         </figure>
                         <div class="dev__name"><strong>Dr. Rukmankesh</strong><br/>Faculty In-Charge</div>
@@ -150,7 +150,7 @@
                             <i class="far fa-envelope dev__profile--icon"></i>
                         </a>
                         <a href="https://www.facebook.com/profile.php?id=100013829739008" class="dev__profile">
-                            <i class="fab fa-facebook-f dev__profile--icon"></i>
+                            <i class="fab fa-instagram-f dev__profile--icon"></i>
                         </a>
                         <div class="dev__phone">
                             <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 7569325049
@@ -193,7 +193,7 @@
 
                     <div class="col-1-of-4">
                         <figure class="dev__shape">
-                            <img src="img/mentors/Mentor2.jpeg" alt="Ankith Masa" class="dev__img">
+                            <img src="img/mentors/Mentor2.jpg" alt="Ankith Masa" class="dev__img">
                             <figcaption class="dev__caption">Ankith Masa</figcaption>
                         </figure>
                         <div class="dev__name">Ankith Masa</div>
@@ -280,7 +280,7 @@
 
                     <div class="col-1-of-4">
                         <figure class="dev__shape">
-                            <img src="img/mentors/Mentor7.jpeg" alt="Harshith Naresh Chunduri" class="dev__img">
+                            <img src="img/mentors/Mentor7.jpg" alt="Harshith Naresh Chunduri" class="dev__img">
                             <figcaption class="dev__caption">Harshith Naresh Chunduri</figcaption>
                         </figure>
                         <div class="dev__name">Harshith Naresh Chunduri</div>
@@ -452,7 +452,7 @@
 
                     <div class="col-1-of-4">
                         <figure class="dev__shape">
-                            <img src="img/mentors/Mentor16.jpeg" alt="Prathamesh Gujar" class="dev__img">
+                            <img src="img/mentors/Mentor16.jpg" alt="Prathamesh Gujar" class="dev__img">
                             <figcaption class="dev__caption">Prathamesh Gujar</figcaption>
                         </figure>
                         <div class="dev__name">Prathamesh Gujar</div>
@@ -480,7 +480,7 @@
                 <div class="dev">
                     <div class="col-1-of-4">
                         <figure class="dev__shape">
-                            <img src="img/mentors/Mentor17.jpeg" alt="Riyanshi Goyal" class="dev__img">
+                            <img src="img/mentors/Mentor17.jpg" alt="Riyanshi Goyal" class="dev__img">
                             <figcaption class="dev__caption">Riyanshi Goyal</figcaption>
                         </figure>
                         <div class="dev__name">Riyanshi Goyal</div>
@@ -514,7 +514,7 @@
 
                     <div class="col-1-of-4">
                         <figure class="dev__shape">
-                            <img src="img/mentors/Mentor19.jpeg" alt="Sankalp Acharya" class="dev__img">
+                            <img src="img/mentors/Mentor19.jpg" alt="Sankalp Acharya" class="dev__img">
                             <figcaption class="dev__caption">Sankalp Acharya</figcaption>
                         </figure>
                         <div class="dev__name">Sankalp Acharya</div>
